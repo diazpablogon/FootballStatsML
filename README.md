@@ -24,6 +24,7 @@ This repository contains the first step of a broader football analytics and pred
 - Saves the raw HTML to `00_data/00a_raw/LaLiga_stats_raw.html`.
 - Parses several team-level tables by their FBref table IDs (standard, shooting, passing, defense, possession).
 - Cleans and saves each table as CSV in `00_data/00b_clean/LaLiga_stats_*.csv`.
+- Resolves paths from the project root so outputs do not end up inside `01_scripts/` even when the script is run from an IDE.
 - Designed to be modular so you can add more table IDs or swap in other leagues later.
 
 ## Installation
@@ -36,6 +37,7 @@ Run the scraper from the project root:
 ```bash
 python 01_scripts/01a_scrapping_LaLiga.py
 ```
+You can also run it from other working directories; paths are anchored to the repository root based on the script location.
 What happens when it runs:
 - Required folders are created if missing.
 - The FBref LaLiga page is downloaded.

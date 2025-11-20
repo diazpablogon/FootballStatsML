@@ -10,8 +10,9 @@ import requests
 from bs4 import BeautifulSoup
 
 
-DATA_RAW_PATH = Path("00_data/00a_raw")
-DATA_CLEAN_PATH = Path("00_data/00b_clean")
+BASE_DIR = Path(__file__).resolve().parent.parent
+DATA_RAW_PATH = BASE_DIR / "00_data" / "00a_raw"
+DATA_CLEAN_PATH = BASE_DIR / "00_data" / "00b_clean"
 RAW_HTML_FILENAME = DATA_RAW_PATH / "LaLiga_stats_raw.html"
 
 
@@ -62,7 +63,9 @@ def fetch_and_parse_laliga_stats(url: str, table_ids: List[str]) -> Dict[str, pd
             "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) "
             "AppleWebKit/537.36 (KHTML, like Gecko) "
             "Chrome/120.0.0.0 Safari/537.36"
-        )
+        ),
+        "Accept-Language": "en-US,en;q=0.9",
+        "Referer": url,
     }
     try:
         response = requests.get(url, headers=headers, timeout=30)
