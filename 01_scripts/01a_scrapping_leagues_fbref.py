@@ -15,11 +15,16 @@ LEAGUES: Dict[str, str] = {
     "SerieA_ITA": "ITA-Serie A",
     "Ligue1_FRA": "FRA-Ligue 1",
     "Bundesliga_GER": "GER-Bundesliga",
+    "LaLiga2_ESP": "ESP-Segunda División",
+    "Championship_ENG": "ENG-Championship",
+    "UCL_UEFA": "UEFA-Champions League",
+    "UEL_UEFA": "UEFA-Europa League",
+    "UECL_UEFA": "UEFA-Europa Conference League",
 }
 
 SEASONS: Dict[str, int] = {
-    "2024-25": 2025,
-    "2025-26": 2026,
+    "2024-25": 2024,
+    "2025-26": 2025,
 }
 
 
@@ -31,7 +36,9 @@ def build_fbref_client(league_id: str, season_id: int) -> Optional[sd.FBref]:
     """Create an FBref client for the given league and season if supported."""
     available = sd.FBref.available_leagues()
     if league_id not in available:
-        print(f"League '{league_id}' is not supported by FBref.available_leagues(), skipping.")
+        print(
+            f"League '{league_id}' not in FBref.available_leagues(); skipping this competition."
+        )
         return None
 
     print(f"FBref(leagues={league_id}, seasons={season_id})")
