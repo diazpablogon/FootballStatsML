@@ -67,9 +67,27 @@ def save_dataframe(df: pd.DataFrame, path: Path, logger: Logger) -> None:
         df.to_parquet(path, index=False)
         logger.info(f"Saved {path}")
     except Exception as exc:
-        logger.warning(f"Could not write parquet ({exc}); falling back to CSV")
+        logger.warning(
+            f"Could not write parquet ({exc}); attempting string-safe parquet retry"
+        )
+        df_safe = df.copy()
+        for col in df_safe.columns:
+            if pd.api.types.is_object_dtype(df_safe[col]) or pd.api.types.is_string_dtype(
+                df_safe[col]
+            ):
+                df_safe[col] = df_safe[col].astype("string")
+
+        try:
+            df_safe.to_parquet(path, index=False)
+            logger.info(f"Saved {path} (after casting text columns to string)")
+            return
+        except Exception as exc_retry:
+            logger.warning(
+                f"Parquet retry failed ({exc_retry}); falling back to CSV for {path.name}"
+            )
+
         csv_path = path.with_suffix(".csv")
-        df.to_csv(csv_path, index=False)
+        df_safe.to_csv(csv_path, index=False)
         logger.info(f"Saved {csv_path}")
 
 

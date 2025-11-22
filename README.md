@@ -64,7 +64,7 @@ For each `<season>/<league>` pair, files are written to:
 - `TeamMatch/*.parquet`
 - `TeamSeason/*.parquet`
 
-Stat filenames use CamelCase, e.g., `Defense.parquet`, `GoalShotCreation.parquet`. If Parquet writing fails (e.g., missing engine), the scripts fall back to CSV with the same stem.
+Stat filenames use CamelCase, e.g., `Defense.parquet`, `GoalShotCreation.parquet`. When Parquet writes raise schema-type issues, the pipeline automatically casts text/object columns to string and retries before falling back to CSV with the same stem.
 
 ## Ranking robustness
 
