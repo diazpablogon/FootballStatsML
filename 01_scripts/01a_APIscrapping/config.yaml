@@ -1,0 +1,27 @@
+data:
+  raw_dir: "00_data/00a_raw"
+
+fbref:
+  leagues:
+    LaLiga_ESP: "ESP-La Liga"
+    PremierLeague_ENG: "ENG-Premier League"
+    SerieA_ITA: "ITA-Serie A"
+    Ligue1_FRA: "FRA-Ligue 1"
+    Bundesliga_GER: "GER-Bundesliga"
+    LaLiga2_ESP: "ESP-Segunda Division"
+    Eredivisie_NED: "NED-Eredivisie"
+    UCL_UEFA: "INT-Champions League"
+
+  seasons:
+    "2024-25": 2025
+    # "2023-24": 2024
+
+  # enable/disable blocks
+  enable_league_init: true
+  enable_player_match: true
+  enable_player_season: true
+  enable_team_match: true
+  enable_team_season: true
+
+logging:
+  verbose: true
