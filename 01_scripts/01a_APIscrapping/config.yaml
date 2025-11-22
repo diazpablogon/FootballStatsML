@@ -17,6 +17,7 @@ fbref:
     # "2023-24": 2024
 
   # enable/disable blocks
+  enable_league_init: true
   enable_player_match: true
   enable_player_season: true
   enable_team_match: true

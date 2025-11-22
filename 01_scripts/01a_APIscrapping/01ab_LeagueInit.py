@@ -66,8 +66,14 @@ def main(
 ) -> None:
     config = config or load_config()
     logger = Logger(config.get("logging", {}).get("verbose", True))
-    leagues: dict[str, str] = config.get("fbref", {}).get("leagues", {})
-    seasons: dict[str, int] = config.get("fbref", {}).get("seasons", {})
+    fbref_cfg = config.get("fbref", {})
+
+    if not fbref_cfg.get("enable_league_init", True):
+        logger.info("League initialization (schedule & ranking) disabled via configuration")
+        return
+
+    leagues: dict[str, str] = fbref_cfg.get("leagues", {})
+    seasons: dict[str, int] = fbref_cfg.get("seasons", {})
 
     for season_label, season_id in seasons.items():
         if only_seasons and season_label not in only_seasons:

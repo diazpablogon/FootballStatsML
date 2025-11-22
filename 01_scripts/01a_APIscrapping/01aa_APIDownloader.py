@@ -23,6 +23,7 @@ def parse_args() -> argparse.Namespace:
         type=str,
         help="Comma-separated season labels to process",
     )
+    parser.add_argument("--skip-league-init", action="store_true", help="Skip schedule & ranking")
     parser.add_argument("--skip-player-match", action="store_true", help="Skip player match stats")
     parser.add_argument("--skip-player-season", action="store_true", help="Skip player season stats")
     parser.add_argument("--skip-team-match", action="store_true", help="Skip team match stats")
@@ -33,6 +34,8 @@ def parse_args() -> argparse.Namespace:
 def apply_runtime_flags(config: dict[str, Any], args: argparse.Namespace) -> dict[str, Any]:
     cfg = deepcopy(config)
     fbref_cfg = cfg.setdefault("fbref", {})
+    if args.skip_league_init:
+        fbref_cfg["enable_league_init"] = False
     if args.skip_player_match:
         fbref_cfg["enable_player_match"] = False
     if args.skip_player_season:
