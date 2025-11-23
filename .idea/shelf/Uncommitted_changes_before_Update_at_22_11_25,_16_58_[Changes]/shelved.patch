@@ -1,0 +1,46 @@
+Index: 01_scripts/01a_APIscrapping/config.yaml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>data:\n  raw_dir: \"00_data/00a_raw\"\n\nfbref:\n  leagues:\n    LaLiga_ESP: \"ESP-La Liga\"\n    PremierLeague_ENG: \"ENG-Premier League\"\n    SerieA_ITA: \"ITA-Serie A\"\n    Ligue1_FRA: \"FRA-Ligue 1\"\n    Bundesliga_GER: \"GER-Bundesliga\"\n    LaLiga2_ESP: \"ESP-Segunda Division\"\n    Eredivisie_NED: \"NED-Eredivisie\"\n    UCL_UEFA: \"INT-Champions League\"\n\n  seasons:\n    \"2024-25\": 2025\n    # \"2023-24\": 2024\n\n  # enable/disable blocks\n  enable_player_match: true\n  enable_player_season: true\n  enable_team_match: true\n  enable_team_season: true\n\nlogging:\n  verbose: true\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/01_scripts/01a_APIscrapping/config.yaml b/01_scripts/01a_APIscrapping/config.yaml
+--- a/01_scripts/01a_APIscrapping/config.yaml	(revision 151076fe322cc445e9627e40f835e46196391636)
++++ b/01_scripts/01a_APIscrapping/config.yaml	(date 1763825401734)
+@@ -3,24 +3,24 @@
+ 
+ fbref:
+   leagues:
+-    LaLiga_ESP: "ESP-La Liga"
+-    PremierLeague_ENG: "ENG-Premier League"
+-    SerieA_ITA: "ITA-Serie A"
+-    Ligue1_FRA: "FRA-Ligue 1"
+-    Bundesliga_GER: "GER-Bundesliga"
+-    LaLiga2_ESP: "ESP-Segunda Division"
+-    Eredivisie_NED: "NED-Eredivisie"
+-    UCL_UEFA: "INT-Champions League"
++    #LaLiga_ESP: "ESP-La Liga"
++    #PremierLeague_ENG: "ENG-Premier League"
++    #SerieA_ITA: "ITA-Serie A"
++    #Ligue1_FRA: "FRA-Ligue 1"
++    #Bundesliga_GER: "GER-Bundesliga"
++    #LaLiga2_ESP: "ESP-Segunda Division"
++    #Eredivisie_NED: "NED-Eredivisie"
++    UCL_UEFA: "UEFA-Champions League"
+ 
+   seasons:
+     "2024-25": 2025
+     # "2023-24": 2024
+ 
+   # enable/disable blocks
+-  enable_player_match: true
+-  enable_player_season: true
++  enable_player_match: false
++  enable_player_season: false
+   enable_team_match: true
+-  enable_team_season: true
++  enable_team_season: false
+ 
+ logging:
+   verbose: true

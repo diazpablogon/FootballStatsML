@@ -1,0 +1,328 @@
+date,round,day,venue,result,GF,GA,opponent,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_PK,Standard_PKatt,time,match_report
+2025-08-18,Matchweek 1,Mon,Home,D,4,4,Almería,4,31,11,35.5,0.1,0.27,,1,1,21:30:00,/en/matches/580ff7f5/Almeria-Albacete-August-18-2025-Segunda-Division
+2025-08-25,Matchweek 2,Mon,Away,W,3,2,Racing Sant,3,13,6,46.2,0.23,0.5,,0,0,19:30:00,/en/matches/ecf527db/Albacete-Racing-Santander-August-25-2025-Segunda-Division
+2025-08-31,Matchweek 3,Sun,Home,W,2,1,Cádiz,2,6,2,33.3,0.33,1.0,,0,0,17:00:00,/en/matches/6592bc72/Cadiz-Albacete-August-31-2025-Segunda-Division
+2025-09-05,Matchweek 4,Fri,Away,W,4,1,CD Mirandés,4,13,6,46.2,0.31,0.67,,0,0,19:30:00,/en/matches/b4e94ea0/Albacete-CD-Mirandes-September-5-2025-Segunda-Division
+2025-09-15,Matchweek 5,Mon,Home,D,0,0,Zaragoza,0,11,1,9.1,0.0,0.0,,0,0,20:30:00,/en/matches/d6fa6cf8/Zaragoza-Albacete-September-15-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Away,L,0,2,Valladolid,0,15,5,33.3,0.0,0.0,,0,0,16:15:00,/en/matches/84f3965d/Albacete-Valladolid-September-21-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Home,L,3,4,Sporting Gijón,3,11,6,54.5,0.27,0.5,,0,0,18:30:00,/en/matches/f88ea46f/Sporting-Gijon-Albacete-September-28-2025-Segunda-Division
+2025-10-06,Matchweek 8,Mon,Home,D,0,0,Leonesa,0,6,1,16.7,0.0,0.0,,0,0,20:30:00,/en/matches/fd8a2b5b/Cultural-Leonesa-Albacete-October-6-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Away,D,0,0,Ceuta,0,3,1,33.3,0.0,0.0,,0,0,14:00:00,/en/matches/b32a101a/Albacete-AD-Ceuta-FC-October-12-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Home,L,0,1,Castellón,0,22,5,22.7,0.0,0.0,,0,0,16:15:00,/en/matches/b06fc9bd/Castellon-Albacete-October-19-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Away,W,3,1,Córdoba,3,13,9,69.2,0.23,0.33,,0,0,16:15:00,/en/matches/cb89b965/Albacete-Cordoba-October-25-2025-Segunda-Division
+2025-10-28,First round,Tue,Home,L,0,3,UD San Fernando,0,0,0,,,,,0,0,19:00:00,/en/matches/e661d11e/UD-San-Fernando-Albacete-October-28-2025-Copa-del-Rey
+2025-11-01,Matchweek 12,Sat,Away,L,1,2,Huesca,1,20,4,20.0,0.05,0.25,,0,0,18:30:00,/en/matches/57e2bfa8/Albacete-Huesca-November-1-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Home,W,3,2,Eibar,3,22,8,36.4,0.05,0.13,,2,2,16:15:00,/en/matches/393f8236/Eibar-Albacete-November-8-2025-Segunda-Division
+2025-11-15,Matchweek 14,Sat,Away,L,0,1,FC Andorra,0,17,6,35.3,0.0,0.0,,0,0,16:00:00,/en/matches/b44edcba/Albacete-FC-Andorra-November-15-2025-Segunda-Division
+2025-08-18,Matchweek 1,Mon,Away,D,4,4,Albacete,4,17,5,29.4,0.24,0.8,,0,0,21:30:00,/en/matches/580ff7f5/Almeria-Albacete-August-18-2025-Segunda-Division
+2025-08-24,Matchweek 2,Sun,Home,L,0,1,Leonesa,0,10,6,60.0,0.0,0.0,,0,0,19:30:00,/en/matches/1ceaf5ce/Cultural-Leonesa-Almeria-August-24-2025-Segunda-Division
+2025-08-29,Matchweek 3,Fri,Home,D,2,2,Real Sociedad B,2,9,3,33.3,0.11,0.33,,1,1,19:30:00,/en/matches/9e51a0f0/Real-Sociedad-B-Almeria-August-29-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Away,W,3,2,Racing Sant,3,11,7,63.6,0.27,0.43,,0,0,18:30:00,/en/matches/86f84b09/Almeria-Racing-Santander-September-7-2025-Segunda-Division
+2025-09-13,Matchweek 5,Sat,Home,W,3,1,Valladolid,3,11,8,72.7,0.18,0.25,,1,1,21:00:00,/en/matches/0566daf9/Valladolid-Almeria-September-13-2025-Segunda-Division
+2025-09-20,Matchweek 6,Sat,Away,L,1,2,Sporting Gijón,1,9,5,55.6,0.11,0.2,,0,0,21:00:00,/en/matches/ba20469c/Almeria-Sporting-Gijon-September-20-2025-Segunda-Division
+2025-09-27,Matchweek 7,Sat,Home,L,0,1,Las Palmas,0,9,3,33.3,0.0,0.0,,0,0,20:00:00,/en/matches/e483955b/Las-Palmas-Almeria-September-27-2025-Segunda-Division
+2025-10-04,Matchweek 8,Sat,Home,D,1,1,La Coruña,1,15,4,26.7,0.07,0.25,,0,0,16:15:00,/en/matches/4682a94a/Deportivo-La-Coruna-Almeria-October-4-2025-Segunda-Division
+2025-10-11,Matchweek 9,Sat,Away,L,2,4,Zaragoza,2,14,5,35.7,0.14,0.4,,0,0,18:30:00,/en/matches/651038fd/Almeria-Zaragoza-October-11-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Home,D,1,1,Córdoba,1,14,5,35.7,0.0,0.0,,1,1,18:30:00,/en/matches/8543ab09/Cordoba-Almeria-October-19-2025-Segunda-Division
+2025-10-26,Matchweek 11,Sun,Away,L,0,1,Castellón,0,9,4,44.4,0.0,0.0,,0,0,18:30:00,/en/matches/bb9422db/Almeria-Castellon-October-26-2025-Segunda-Division
+2025-10-29,First round,Wed,Home,L,0,2,Lorca Deportiva,0,0,0,,,,,0,0,20:00:00,/en/matches/a7809579/Lorca-Deportiva-Almeria-October-29-2025-Copa-del-Rey
+2025-11-01,Matchweek 12,Sat,Away,L,1,3,Eibar,1,12,5,41.7,0.08,0.2,,0,0,21:00:00,/en/matches/e9c1b5f3/Almeria-Eibar-November-1-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Away,L,0,3,Cádiz,0,7,3,42.9,0.0,0.0,,0,0,16:15:00,/en/matches/917bcb07/Almeria-Cadiz-November-16-2025-Segunda-Division
+2025-08-15,Matchweek 1,Fri,Away,L,1,5,Leonesa,0,8,1,12.5,0.0,0.0,,0,0,21:30:00,/en/matches/809fa471/Burgos-Cultural-Leonesa-August-15-2025-Segunda-Division
+2025-08-24,Matchweek 2,Sun,Home,D,0,0,La Coruña,0,10,2,20.0,0.0,0.0,,0,0,17:00:00,/en/matches/2201f6ba/Deportivo-La-Coruna-Burgos-August-24-2025-Segunda-Division
+2025-08-31,Matchweek 3,Sun,Home,W,2,1,FC Andorra,2,14,5,35.7,0.14,0.4,,0,0,17:00:00,/en/matches/579db03e/FC-Andorra-Burgos-August-31-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Away,D,0,0,Las Palmas,0,15,7,46.7,0.0,0.0,,0,0,16:15:00,/en/matches/f3e72a5d/Burgos-Las-Palmas-September-7-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Home,L,2,3,Sporting Gijón,2,29,9,31.0,0.07,0.22,,0,0,18:30:00,/en/matches/94892ba4/Sporting-Gijon-Burgos-September-14-2025-Segunda-Division
+2025-09-22,Matchweek 6,Mon,Away,D,1,1,Granada,1,7,2,28.6,0.14,0.5,,0,0,20:30:00,/en/matches/0dea0916/Burgos-Granada-September-22-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Away,L,1,2,Málaga,1,6,2,33.3,0.17,0.5,,0,0,16:15:00,/en/matches/973d37aa/Burgos-Malaga-September-28-2025-Segunda-Division
+2025-10-04,Matchweek 8,Sat,Home,W,2,1,Huesca,2,9,4,44.4,0.22,0.5,,0,0,18:30:00,/en/matches/83b5a20f/Huesca-Burgos-October-4-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Away,W,1,0,Valladolid,1,11,3,27.3,0.09,0.33,,0,0,18:30:00,/en/matches/a29f1950/Burgos-Valladolid-October-12-2025-Segunda-Division
+2025-10-20,Matchweek 10,Mon,Home,L,1,3,Cádiz,1,9,3,33.3,0.11,0.33,,0,0,20:30:00,/en/matches/326bd7b6/Cadiz-Burgos-October-20-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Away,L,0,1,Real Sociedad B,0,5,1,20.0,0.0,0.0,,0,0,18:30:00,/en/matches/b46c8784/Burgos-Real-Sociedad-B-October-25-2025-Segunda-Division
+2025-10-28,First round,Tue,Home,L,1,2,Atlético Tordesillas,1,0,0,,,,,0,0,19:00:00,/en/matches/86772d32/Atletico-Tordesillas-Burgos-October-28-2025-Copa-del-Rey
+2025-11-01,Matchweek 12,Sat,Home,L,1,2,Leganés,1,13,3,23.1,0.08,0.33,,0,0,18:30:00,/en/matches/43713c29/Leganes-Burgos-November-1-2025-Segunda-Division
+2025-11-10,Matchweek 13,Mon,Away,D,0,0,Castellón,0,11,2,18.2,0.0,0.0,,0,0,20:30:00,/en/matches/b053e261/Burgos-Castellon-November-10-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Home,L,0,2,CD Mirandés,0,12,2,16.7,0.0,0.0,,0,0,18:30:00,/en/matches/10e2ddf5/CD-Mirandes-Burgos-November-16-2025-Segunda-Division
+2025-08-17,Matchweek 1,Sun,Home,W,1,0,Cádiz,1,24,3,12.5,0.04,0.33,,0,0,19:30:00,/en/matches/922c745d/Cadiz-CD-Mirandes-August-17-2025-Segunda-Division
+2025-08-23,Matchweek 2,Sat,Away,W,1,0,Huesca,1,6,2,33.3,0.17,0.5,,0,0,17:00:00,/en/matches/b21ce6c9/CD-Mirandes-Huesca-August-23-2025-Segunda-Division
+2025-08-31,Matchweek 3,Sun,Home,L,1,2,Granada,1,15,4,26.7,0.07,0.25,,0,0,21:30:00,/en/matches/2364edbd/Granada-CD-Mirandes-August-31-2025-Segunda-Division
+2025-09-05,Matchweek 4,Fri,Home,L,1,4,Albacete,1,18,5,27.8,0.06,0.2,,0,0,19:30:00,/en/matches/b4e94ea0/Albacete-CD-Mirandes-September-5-2025-Segunda-Division
+2025-09-13,Matchweek 5,Sat,Away,W,5,1,La Coruña,5,20,9,45.0,0.25,0.56,,0,0,16:15:00,/en/matches/7bb0e455/CD-Mirandes-Deportivo-La-Coruna-September-13-2025-Segunda-Division
+2025-09-20,Matchweek 6,Sat,Home,D,1,1,FC Andorra,1,18,6,33.3,0.06,0.17,,0,0,18:30:00,/en/matches/b5dc1b4e/FC-Andorra-CD-Mirandes-September-20-2025-Segunda-Division
+2025-09-26,Matchweek 7,Fri,Away,W,1,0,Zaragoza,1,10,2,20.0,0.1,0.5,,0,0,20:30:00,/en/matches/ef79623b/CD-Mirandes-Zaragoza-September-26-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Home,D,1,1,Valladolid,1,22,5,22.7,0.05,0.2,,0,0,18:30:00,/en/matches/fc0d6e4c/Valladolid-CD-Mirandes-October-5-2025-Segunda-Division
+2025-10-11,Matchweek 9,Sat,Away,D,0,0,Leganés,0,17,7,41.2,0.0,0.0,,0,0,16:15:00,/en/matches/50f2e425/CD-Mirandes-Leganes-October-11-2025-Segunda-Division
+2025-10-18,Matchweek 10,Sat,Home,W,2,0,Ceuta,2,12,5,41.7,0.17,0.4,,0,0,16:15:00,/en/matches/32e0a7b5/AD-Ceuta-FC-CD-Mirandes-October-18-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Away,W,3,1,Racing Sant,3,16,7,43.8,0.19,0.43,,0,0,21:00:00,/en/matches/5e0def21/CD-Mirandes-Racing-Santander-October-25-2025-Segunda-Division
+2025-10-29,First round,Wed,Home,D,1 (3),1 (4),Atlético Astorga,1,0,0,,,,,0,0,20:00:00,/en/matches/a4492f38/Atletico-Astorga-CD-Mirandes-October-29-2025-Copa-del-Rey
+2025-11-01,Matchweek 12,Sat,Home,W,3,2,Leonesa,3,18,7,38.9,0.17,0.43,,0,0,16:15:00,/en/matches/6b15a649/Cultural-Leonesa-CD-Mirandes-November-1-2025-Segunda-Division
+2025-11-07,Matchweek 13,Fri,Away,L,1,2,Sporting Gijón,1,7,2,28.6,0.0,0.0,,1,1,20:30:00,/en/matches/693819be/CD-Mirandes-Sporting-Gijon-November-7-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Away,W,2,0,Burgos,2,6,4,66.7,0.17,0.25,,1,1,18:30:00,/en/matches/10e2ddf5/CD-Mirandes-Burgos-November-16-2025-Segunda-Division
+2025-08-16,Matchweek 1,Sat,Home,W,3,1,Racing Sant,3,10,5,50.0,0.2,0.4,,1,1,17:00:00,/en/matches/5d8b423a/Racing-Santander-Castellon-August-16-2025-Segunda-Division
+2025-08-22,Matchweek 2,Fri,Away,W,1,0,Valladolid,1,10,4,40.0,0.1,0.25,,0,0,21:30:00,/en/matches/eb39d5bc/Castellon-Valladolid-August-22-2025-Segunda-Division
+2025-08-30,Matchweek 3,Sat,Away,D,1,1,Zaragoza,1,12,2,16.7,0.08,0.5,,0,0,21:30:00,/en/matches/e47a0352/Castellon-Zaragoza-August-30-2025-Segunda-Division
+2025-09-05,Matchweek 4,Fri,Home,W,2,1,Córdoba,2,10,5,50.0,0.1,0.2,,1,1,21:30:00,/en/matches/f3eefaa0/Cordoba-Castellon-September-5-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Away,D,3,3,Ceuta,3,10,5,50.0,0.3,0.6,,0,0,18:30:00,/en/matches/25b40eeb/Castellon-AD-Ceuta-FC-September-14-2025-Segunda-Division
+2025-09-20,Matchweek 6,Sat,Home,L,1,3,Leonesa,1,10,2,20.0,0.1,0.5,,0,0,16:15:00,/en/matches/cb1f38f2/Cultural-Leonesa-Castellon-September-20-2025-Segunda-Division
+2025-09-29,Matchweek 7,Mon,Home,L,0,1,Leganés,0,7,0,0.0,0.0,,,0,0,20:30:00,/en/matches/2aee9bb4/Leganes-Castellon-September-29-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Away,L,1,3,Sporting Gijón,1,5,4,80.0,0.2,0.25,,0,0,16:15:00,/en/matches/7afb2324/Castellon-Sporting-Gijon-October-5-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Home,D,0,0,Eibar,0,7,0,0.0,0.0,,,0,0,16:15:00,/en/matches/4c7cbe6f/Eibar-Castellon-October-12-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Away,W,1,0,Albacete,1,11,8,72.7,0.09,0.13,,0,0,16:15:00,/en/matches/b06fc9bd/Castellon-Albacete-October-19-2025-Segunda-Division
+2025-10-26,Matchweek 11,Sun,Home,W,1,0,Almería,1,15,4,26.7,0.07,0.25,,0,0,18:30:00,/en/matches/bb9422db/Almeria-Castellon-October-26-2025-Segunda-Division
+2025-10-30,First round,Thu,Home,W,1,0,CA Antoniano,1,0,0,,,,,0,0,21:00:00,/en/matches/2ed69ecf/CA-Antoniano-Castellon-October-30-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Away,L,1,2,Málaga,1,9,1,11.1,0.0,0.0,,1,1,18:30:00,/en/matches/06b34ae3/Castellon-Malaga-November-2-2025-Segunda-Division
+2025-11-10,Matchweek 13,Mon,Home,D,0,0,Burgos,0,9,3,33.3,0.0,0.0,,0,0,20:30:00,/en/matches/b053e261/Burgos-Castellon-November-10-2025-Segunda-Division
+2025-11-15,Matchweek 14,Sat,Away,L,4,5,Real Sociedad B,4,19,9,47.4,0.21,0.44,,0,0,16:00:00,/en/matches/64f1736c/Castellon-Real-Sociedad-B-November-15-2025-Segunda-Division
+2025-08-15,Matchweek 1,Fri,Home,W,3,0,Valladolid,3,16,9,56.3,0.19,0.33,,0,0,21:30:00,/en/matches/599548af/Valladolid-AD-Ceuta-FC-August-15-2025-Segunda-Division
+2025-08-23,Matchweek 2,Sat,Away,W,1,0,Sporting Gijón,1,7,4,57.1,0.14,0.25,,0,0,19:00:00,/en/matches/c7f5a302/AD-Ceuta-FC-Sporting-Gijon-August-23-2025-Segunda-Division
+2025-08-30,Matchweek 3,Sat,Home,W,4,1,Racing Sant,4,17,9,52.9,0.24,0.44,,0,0,17:00:00,/en/matches/26c3ef27/Racing-Santander-AD-Ceuta-FC-August-30-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Away,L,1,2,Huesca,1,6,1,16.7,0.17,1.0,,0,0,14:00:00,/en/matches/e27a6f04/AD-Ceuta-FC-Huesca-September-7-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Home,D,3,3,Castellón,3,15,7,46.7,0.13,0.29,,1,1,18:30:00,/en/matches/25b40eeb/Castellon-AD-Ceuta-FC-September-14-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Away,L,0,1,Zaragoza,0,12,3,25.0,0.0,0.0,,0,0,14:00:00,/en/matches/2069806b/AD-Ceuta-FC-Zaragoza-September-21-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Home,D,0,0,Cádiz,0,8,3,37.5,0.0,0.0,,0,0,16:15:00,/en/matches/b9bb8cfb/Cadiz-AD-Ceuta-FC-September-28-2025-Segunda-Division
+2025-10-03,Matchweek 8,Fri,Away,L,0,1,Eibar,0,5,1,20.0,0.0,0.0,,0,0,20:30:00,/en/matches/152bda96/AD-Ceuta-FC-Eibar-October-3-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Home,D,0,0,Albacete,0,13,4,30.8,0.0,0.0,,0,0,14:00:00,/en/matches/b32a101a/Albacete-AD-Ceuta-FC-October-12-2025-Segunda-Division
+2025-10-18,Matchweek 10,Sat,Away,L,0,2,CD Mirandés,0,6,0,0.0,0.0,,,0,0,16:15:00,/en/matches/32e0a7b5/AD-Ceuta-FC-CD-Mirandes-October-18-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Home,L,0,1,Leonesa,0,15,2,13.3,0.0,0.0,,0,0,14:00:00,/en/matches/d47b3836/Cultural-Leonesa-AD-Ceuta-FC-October-25-2025-Segunda-Division
+2025-10-29,First round,Wed,Home,L,0,2,La Unión Atlético,0,0,0,,,,,0,0,19:30:00,/en/matches/241381e0/FC-La-Union-Atletico-AD-Ceuta-FC-October-29-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Home,W,2,0,Córdoba,2,12,4,33.3,0.17,0.5,,0,0,16:15:00,/en/matches/44262fcf/Cordoba-AD-Ceuta-FC-November-2-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Away,W,2,1,Leganés,2,12,5,41.7,0.17,0.4,,0,0,14:00:00,/en/matches/fcc011b6/AD-Ceuta-FC-Leganes-November-16-2025-Segunda-Division
+2025-08-17,Matchweek 1,Sun,Away,L,0,1,CD Mirandés,0,1,0,0.0,0.0,,,0,0,19:30:00,/en/matches/922c745d/Cadiz-CD-Mirandes-August-17-2025-Segunda-Division
+2025-08-22,Matchweek 2,Fri,Home,D,1,1,Leganés,1,9,4,44.4,0.11,0.25,,0,0,21:30:00,/en/matches/a35f3df1/Leganes-Cadiz-August-22-2025-Segunda-Division
+2025-08-31,Matchweek 3,Sun,Away,L,1,2,Albacete,1,12,4,33.3,0.08,0.25,,0,0,17:00:00,/en/matches/6592bc72/Cadiz-Albacete-August-31-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Home,D,3,3,Real Sociedad B,3,17,5,29.4,0.18,0.6,,0,0,16:15:00,/en/matches/fb72f5ed/Real-Sociedad-B-Cadiz-September-7-2025-Segunda-Division
+2025-09-13,Matchweek 5,Sat,Away,L,0,1,Eibar,0,17,4,23.5,0.0,0.0,,0,0,16:15:00,/en/matches/4ec4e99b/Cadiz-Eibar-September-13-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Home,L,0,1,Málaga,0,17,5,29.4,0.0,0.0,,0,0,18:30:00,/en/matches/1d6c229b/Malaga-Cadiz-September-21-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Away,D,0,0,Ceuta,0,11,3,27.3,0.0,0.0,,0,0,16:15:00,/en/matches/b9bb8cfb/Cadiz-AD-Ceuta-FC-September-28-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Home,W,1,0,Las Palmas,1,14,1,7.1,0.07,1.0,,0,0,20:00:00,/en/matches/05a8b163/Las-Palmas-Cadiz-October-5-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Away,L,0,1,Huesca,0,9,1,11.1,0.0,0.0,,0,0,18:30:00,/en/matches/883bcde9/Cadiz-Huesca-October-12-2025-Segunda-Division
+2025-10-20,Matchweek 10,Mon,Away,W,3,1,Burgos,3,13,4,30.8,0.15,0.5,,1,1,20:30:00,/en/matches/326bd7b6/Cadiz-Burgos-October-20-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Home,D,0,0,Granada,0,18,1,5.6,0.0,0.0,,0,0,18:30:00,/en/matches/5d209359/Granada-Cadiz-October-25-2025-Segunda-Division
+2025-10-28,First round,Tue,Home,L,1,3,UCAM Murcia,1,0,0,,,,,1,1,19:30:00,/en/matches/ffc07a0b/UCAM-Murcia-Cadiz-October-28-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Home,D,0,0,FC Andorra,0,15,4,26.7,0.0,0.0,,0,0,14:00:00,/en/matches/5fe005b6/FC-Andorra-Cadiz-November-2-2025-Segunda-Division
+2025-11-09,Matchweek 13,Sun,Away,D,0,0,Valladolid,0,11,1,9.1,0.0,0.0,,0,0,21:00:00,/en/matches/a43fd3f1/Cadiz-Valladolid-November-9-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Home,W,3,0,Almería,3,16,9,56.3,0.13,0.22,,1,1,16:15:00,/en/matches/917bcb07/Almeria-Cadiz-November-16-2025-Segunda-Division
+2025-08-18,Matchweek 1,Mon,Home,W,2,1,Sporting Gijón,2,9,4,44.4,0.22,0.5,,0,0,19:00:00,/en/matches/7f60d5e0/Sporting-Gijon-Cordoba-August-18-2025-Segunda-Division
+2025-08-25,Matchweek 2,Mon,Away,W,3,1,Las Palmas,3,13,5,38.5,0.23,0.6,,0,0,21:30:00,/en/matches/6431bdf4/Cordoba-Las-Palmas-August-25-2025-Segunda-Division
+2025-08-30,Matchweek 3,Sat,Home,D,0,0,Valladolid,0,12,6,50.0,0.0,0.0,,0,0,19:00:00,/en/matches/6171e16d/Valladolid-Cordoba-August-30-2025-Segunda-Division
+2025-09-05,Matchweek 4,Fri,Away,L,1,2,Castellón,1,6,2,33.3,0.17,0.5,,0,0,21:30:00,/en/matches/f3eefaa0/Cordoba-Castellon-September-5-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Home,W,3,1,FC Andorra,3,14,8,57.1,0.21,0.38,,0,0,14:00:00,/en/matches/f3f31561/FC-Andorra-Cordoba-September-14-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Away,D,2,2,Racing Sant,2,9,6,66.7,0.22,0.33,,0,0,21:00:00,/en/matches/8d495739/Cordoba-Racing-Santander-September-21-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Home,D,1,1,Real Sociedad B,0,10,5,50.0,0.0,0.0,,0,1,14:00:00,/en/matches/07b785b6/Real-Sociedad-B-Cordoba-September-28-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Home,L,0,1,Zaragoza,0,10,4,40.0,0.0,0.0,,0,0,14:00:00,/en/matches/70d82ef1/Zaragoza-Cordoba-October-5-2025-Segunda-Division
+2025-10-13,Matchweek 9,Mon,Away,L,0,1,Leonesa,0,15,5,33.3,0.0,0.0,,0,0,20:30:00,/en/matches/894f5507/Cordoba-Cultural-Leonesa-October-13-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Away,D,1,1,Almería,1,13,4,30.8,0.08,0.25,,0,0,18:30:00,/en/matches/8543ab09/Cordoba-Almeria-October-19-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Home,L,1,3,Albacete,1,21,4,19.0,0.05,0.25,,0,0,16:15:00,/en/matches/cb89b965/Albacete-Cordoba-October-25-2025-Segunda-Division
+2025-10-29,First round,Wed,Home,W,1,0,CD Cieza,1,0,0,,,,,0,0,20:00:00,/en/matches/b7f4c919/CD-Cieza-Cordoba-October-29-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Away,L,0,2,Ceuta,0,12,2,16.7,0.0,0.0,,0,0,16:15:00,/en/matches/44262fcf/Cordoba-AD-Ceuta-FC-November-2-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Home,D,2,2,Málaga,2,11,7,63.6,0.18,0.29,,0,0,21:00:00,/en/matches/615f635d/Malaga-Cordoba-November-8-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Away,W,3,1,La Coruña,3,9,3,33.3,0.22,0.67,,1,1,18:30:00,/en/matches/b31b13f2/Cordoba-Deportivo-La-Coruna-November-16-2025-Segunda-Division
+2025-08-16,Matchweek 1,Sat,Home,D,1,1,Málaga,1,11,4,36.4,0.09,0.25,,0,0,19:30:00,/en/matches/aca2fb11/Malaga-Eibar-August-16-2025-Segunda-Division
+2025-08-22,Matchweek 2,Fri,Away,L,0,3,Granada,0,3,0,0.0,0.0,,,0,0,19:30:00,/en/matches/332ae410/Eibar-Granada-August-22-2025-Segunda-Division
+2025-09-01,Matchweek 3,Mon,Home,W,2,1,Huesca,2,11,4,36.4,0.18,0.5,,0,0,19:30:00,/en/matches/b7ce3750/Huesca-Eibar-September-1-2025-Segunda-Division
+2025-09-08,Matchweek 4,Mon,Away,L,0,2,FC Andorra,0,11,5,45.5,0.0,0.0,,0,0,20:30:00,/en/matches/99a3bef3/Eibar-FC-Andorra-September-8-2025-Segunda-Division
+2025-09-13,Matchweek 5,Sat,Home,W,1,0,Cádiz,1,12,4,33.3,0.08,0.25,,0,0,16:15:00,/en/matches/4ec4e99b/Cadiz-Eibar-September-13-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Away,L,1,2,Real Sociedad B,1,16,4,25.0,0.06,0.25,,0,0,18:30:00,/en/matches/e7934553/Eibar-Real-Sociedad-B-September-21-2025-Segunda-Division
+2025-09-27,Matchweek 7,Sat,Away,D,1,1,La Coruña,1,9,3,33.3,0.0,0.0,,1,1,18:30:00,/en/matches/bf23d04a/Eibar-Deportivo-La-Coruna-September-27-2025-Segunda-Division
+2025-10-03,Matchweek 8,Fri,Home,W,1,0,Ceuta,1,12,3,25.0,0.08,0.33,,0,0,20:30:00,/en/matches/152bda96/AD-Ceuta-FC-Eibar-October-3-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Away,D,0,0,Castellón,0,16,5,31.3,0.0,0.0,,0,0,16:15:00,/en/matches/4c7cbe6f/Eibar-Castellon-October-12-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Home,W,3,1,Las Palmas,3,11,9,81.8,0.27,0.33,,0,0,20:00:00,/en/matches/e730d0ec/Las-Palmas-Eibar-October-19-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Away,D,0,0,Leganés,0,9,3,33.3,0.0,0.0,,0,0,16:15:00,/en/matches/47778a98/Eibar-Leganes-October-25-2025-Segunda-Division
+2025-10-29,First round,Wed,Home,L,2,4,Náxara,2,0,0,,,,,0,0,20:00:00,/en/matches/a665a506/Naxara-Eibar-October-29-2025-Copa-del-Rey
+2025-11-01,Matchweek 12,Sat,Home,W,3,1,Almería,3,11,5,45.5,0.18,0.4,,1,1,21:00:00,/en/matches/e9c1b5f3/Almeria-Eibar-November-1-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Away,L,2,3,Albacete,2,17,9,52.9,0.12,0.22,,0,0,16:15:00,/en/matches/393f8236/Eibar-Albacete-November-8-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Home,D,1,1,Sporting Gijón,1,13,6,46.2,0.0,0.0,,1,1,16:15:00,/en/matches/2eda6eea/Sporting-Gijon-Eibar-November-16-2025-Segunda-Division
+2025-08-17,Matchweek 1,Sun,Home,D,1,1,Las Palmas,1,10,2,20.0,0.1,0.5,,0,0,20:30:00,/en/matches/ab14b125/Las-Palmas-FC-Andorra-August-17-2025-Segunda-Division
+2025-08-23,Matchweek 2,Sat,Home,L,1,3,Zaragoza,1,13,6,46.2,0.08,0.17,,0,0,21:30:00,/en/matches/ca5a09db/Zaragoza-FC-Andorra-August-23-2025-Segunda-Division
+2025-08-31,Matchweek 3,Sun,Away,L,1,2,Burgos,1,12,4,33.3,0.08,0.25,,0,0,17:00:00,/en/matches/579db03e/FC-Andorra-Burgos-August-31-2025-Segunda-Division
+2025-09-08,Matchweek 4,Mon,Home,W,2,0,Eibar,2,16,6,37.5,0.13,0.33,,0,1,20:30:00,/en/matches/99a3bef3/Eibar-FC-Andorra-September-8-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Away,L,1,3,Córdoba,0,19,5,26.3,0.0,0.0,,0,0,14:00:00,/en/matches/f3f31561/FC-Andorra-Cordoba-September-14-2025-Segunda-Division
+2025-09-20,Matchweek 6,Sat,Away,D,1,1,CD Mirandés,1,7,2,28.6,0.0,0.0,,1,1,18:30:00,/en/matches/b5dc1b4e/FC-Andorra-CD-Mirandes-September-20-2025-Segunda-Division
+2025-09-27,Matchweek 7,Sat,Home,L,1,2,Racing Sant,1,18,6,33.3,0.06,0.17,,0,0,18:30:00,/en/matches/1ae07903/Racing-Santander-FC-Andorra-September-27-2025-Segunda-Division
+2025-10-04,Matchweek 8,Sat,Away,W,2,1,Leganés,2,11,5,45.5,0.18,0.4,,0,0,18:30:00,/en/matches/65869364/FC-Andorra-Leganes-October-4-2025-Segunda-Division
+2025-10-11,Matchweek 9,Sat,Home,W,3,0,Real Sociedad B,3,9,5,55.6,0.33,0.6,,0,0,18:30:00,/en/matches/9ca29212/Real-Sociedad-B-FC-Andorra-October-11-2025-Segunda-Division
+2025-10-17,Matchweek 10,Fri,Away,D,0,0,Granada,0,13,4,30.8,0.0,0.0,,0,0,20:30:00,/en/matches/5689ecca/FC-Andorra-Granada-October-17-2025-Segunda-Division
+2025-10-26,Matchweek 11,Sun,Home,W,4,1,Málaga,4,16,7,43.8,0.25,0.57,,0,0,14:00:00,/en/matches/b0fb7c3b/Malaga-FC-Andorra-October-26-2025-Segunda-Division
+2025-10-30,First round,Thu,Home,L,1,5,Valle Egüés,1,0,0,,,,,1,1,19:30:00,/en/matches/7023555c/Valle-Egues-FC-Andorra-October-30-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Away,D,0,0,Cádiz,0,5,1,20.0,0.0,0.0,,0,0,14:00:00,/en/matches/5fe005b6/FC-Andorra-Cadiz-November-2-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Home,D,2,2,Huesca,2,10,5,50.0,0.1,0.2,,1,1,16:15:00,/en/matches/9710b79a/Huesca-FC-Andorra-November-8-2025-Segunda-Division
+2025-11-15,Matchweek 14,Sat,Home,W,1,0,Albacete,1,17,6,35.3,0.06,0.17,,0,0,16:00:00,/en/matches/b44edcba/Albacete-FC-Andorra-November-15-2025-Segunda-Division
+2025-08-16,Matchweek 1,Sat,Away,W,3,1,La Coruña,3,15,7,46.7,0.2,0.43,,0,0,21:30:00,/en/matches/3ffd3f5e/Granada-Deportivo-La-Coruna-August-16-2025-Segunda-Division
+2025-08-22,Matchweek 2,Fri,Home,W,3,0,Eibar,3,16,6,37.5,0.19,0.5,,0,0,19:30:00,/en/matches/332ae410/Eibar-Granada-August-22-2025-Segunda-Division
+2025-08-31,Matchweek 3,Sun,Away,W,2,1,CD Mirandés,2,11,4,36.4,0.09,0.25,,1,1,21:30:00,/en/matches/2364edbd/Granada-CD-Mirandes-August-31-2025-Segunda-Division
+2025-09-06,Matchweek 4,Sat,Home,D,2,2,Málaga,2,8,3,37.5,0.25,0.67,,0,0,21:00:00,/en/matches/de12dc6e/Malaga-Granada-September-6-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Away,W,2,0,Leganés,2,5,3,60.0,0.2,0.33,,1,1,21:00:00,/en/matches/943515b3/Granada-Leganes-September-14-2025-Segunda-Division
+2025-09-22,Matchweek 6,Mon,Home,D,1,1,Burgos,1,16,3,18.8,0.06,0.33,,0,0,20:30:00,/en/matches/0dea0916/Burgos-Granada-September-22-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Home,L,0,1,Huesca,0,15,2,13.3,0.0,0.0,,0,0,21:00:00,/en/matches/655b5bbd/Huesca-Granada-September-28-2025-Segunda-Division
+2025-10-04,Matchweek 8,Sat,Away,L,2,5,Real Sociedad B,2,14,8,57.1,0.14,0.25,,0,0,21:00:00,/en/matches/d8b56a22/Granada-Real-Sociedad-B-October-4-2025-Segunda-Division
+2025-10-10,Matchweek 9,Fri,Away,D,0,0,Las Palmas,0,9,1,11.1,0.0,0.0,,0,0,20:30:00,/en/matches/560196e9/Granada-Las-Palmas-October-10-2025-Segunda-Division
+2025-10-17,Matchweek 10,Fri,Home,D,0,0,FC Andorra,0,13,3,23.1,0.0,0.0,,0,0,20:30:00,/en/matches/5689ecca/FC-Andorra-Granada-October-17-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Away,D,0,0,Cádiz,0,11,1,9.1,0.0,0.0,,0,0,18:30:00,/en/matches/5d209359/Granada-Cadiz-October-25-2025-Segunda-Division
+2025-10-28,First round,Tue,Home,L,1,5,CD Roda,1,0,0,,,,,0,0,20:00:00,/en/matches/acac8d32/CD-Roda-Granada-October-28-2025-Copa-del-Rey
+2025-11-03,Matchweek 12,Mon,Home,W,2,1,Valladolid,2,17,6,35.3,0.06,0.17,,1,1,20:30:00,/en/matches/4cfc7188/Valladolid-Granada-November-3-2025-Segunda-Division
+2025-11-09,Matchweek 13,Sun,Away,L,1,3,Zaragoza,0,11,3,27.3,0.0,0.0,,0,0,18:30:00,/en/matches/19569d36/Granada-Zaragoza-November-9-2025-Segunda-Division
+2025-11-15,Matchweek 14,Sat,Home,D,2,2,Racing Sant,2,13,5,38.5,0.15,0.4,,0,0,21:00:00,/en/matches/768e08d0/Racing-Santander-Granada-November-15-2025-Segunda-Division
+2025-08-17,Matchweek 1,Sun,Away,D,1,1,Leganés,1,7,3,42.9,0.14,0.33,,0,0,21:30:00,/en/matches/a8f752a5/Huesca-Leganes-August-17-2025-Segunda-Division
+2025-08-23,Matchweek 2,Sat,Home,L,0,1,CD Mirandés,0,5,2,40.0,0.0,0.0,,0,0,17:00:00,/en/matches/b21ce6c9/CD-Mirandes-Huesca-August-23-2025-Segunda-Division
+2025-09-01,Matchweek 3,Mon,Away,L,1,2,Eibar,1,13,3,23.1,0.08,0.33,,0,0,19:30:00,/en/matches/b7ce3750/Huesca-Eibar-September-1-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Home,W,2,1,Ceuta,2,14,4,28.6,0.14,0.5,,0,0,14:00:00,/en/matches/e27a6f04/AD-Ceuta-FC-Huesca-September-7-2025-Segunda-Division
+2025-09-13,Matchweek 5,Sat,Away,L,0,1,Málaga,0,7,3,42.9,0.0,0.0,,0,0,18:30:00,/en/matches/58a24c1e/Huesca-Malaga-September-13-2025-Segunda-Division
+2025-09-19,Matchweek 6,Fri,Home,W,4,0,La Coruña,3,16,6,37.5,0.19,0.5,,0,0,20:30:00,/en/matches/95077be0/Deportivo-La-Coruna-Huesca-September-19-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Away,W,1,0,Granada,1,9,3,33.3,0.11,0.33,,0,0,21:00:00,/en/matches/655b5bbd/Huesca-Granada-September-28-2025-Segunda-Division
+2025-10-04,Matchweek 8,Sat,Away,L,1,2,Burgos,1,4,2,50.0,0.0,0.0,,1,1,18:30:00,/en/matches/83b5a20f/Huesca-Burgos-October-4-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Home,W,1,0,Cádiz,1,11,2,18.2,0.09,0.5,,0,0,18:30:00,/en/matches/883bcde9/Cadiz-Huesca-October-12-2025-Segunda-Division
+2025-10-24,Matchweek 11,Fri,Away,D,1,1,Las Palmas,1,12,1,8.3,0.08,1.0,,0,0,20:30:00,/en/matches/0ad8e5a3/Huesca-Las-Palmas-October-24-2025-Segunda-Division
+2025-10-28,First round,Tue,Home,L,0,3,Utebo,0,0,0,,,,,0,0,20:30:00,/en/matches/78a2fbe3/Utebo-Huesca-October-28-2025-Copa-del-Rey
+2025-11-01,Matchweek 12,Sat,Home,W,2,1,Albacete,2,14,6,42.9,0.14,0.33,,0,0,18:30:00,/en/matches/57e2bfa8/Albacete-Huesca-November-1-2025-Segunda-Division
+2025-11-05,Matchweek 10,Wed,Home,W,2,0,Real Sociedad B,2,13,5,38.5,0.08,0.2,,1,1,20:00:00,/en/matches/7c572191/Real-Sociedad-B-Huesca-November-5-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Away,D,2,2,FC Andorra,2,20,3,15.0,0.1,0.67,,0,0,16:15:00,/en/matches/9710b79a/Huesca-FC-Andorra-November-8-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Home,W,1,0,Zaragoza,1,6,2,33.3,0.17,0.5,,0,0,21:00:00,/en/matches/9a467410/Zaragoza-Huesca-November-16-2025-Segunda-Division
+2025-08-16,Matchweek 1,Sat,Home,L,1,3,Granada,1,14,2,14.3,0.07,0.5,,0,0,21:30:00,/en/matches/3ffd3f5e/Granada-Deportivo-La-Coruna-August-16-2025-Segunda-Division
+2025-08-24,Matchweek 2,Sun,Away,D,0,0,Burgos,0,11,1,9.1,0.0,0.0,,0,0,17:00:00,/en/matches/2201f6ba/Deportivo-La-Coruna-Burgos-August-24-2025-Segunda-Division
+2025-09-01,Matchweek 3,Mon,Home,D,2,2,Leganés,2,18,7,38.9,0.11,0.29,,0,0,21:30:00,/en/matches/6df92045/Leganes-Deportivo-La-Coruna-September-1-2025-Segunda-Division
+2025-09-06,Matchweek 4,Sat,Away,L,0,1,Sporting Gijón,0,7,3,42.9,0.0,0.0,,0,0,16:15:00,/en/matches/f44fb256/Deportivo-La-Coruna-Sporting-Gijon-September-6-2025-Segunda-Division
+2025-09-13,Matchweek 5,Sat,Home,L,1,5,CD Mirandés,1,9,6,66.7,0.11,0.17,,0,0,16:15:00,/en/matches/7bb0e455/CD-Mirandes-Deportivo-La-Coruna-September-13-2025-Segunda-Division
+2025-09-19,Matchweek 6,Fri,Away,L,0,4,Huesca,0,6,0,0.0,0.0,,,0,0,20:30:00,/en/matches/95077be0/Deportivo-La-Coruna-Huesca-September-19-2025-Segunda-Division
+2025-09-27,Matchweek 7,Sat,Home,D,1,1,Eibar,1,23,10,43.5,0.04,0.1,,0,0,18:30:00,/en/matches/bf23d04a/Eibar-Deportivo-La-Coruna-September-27-2025-Segunda-Division
+2025-10-04,Matchweek 8,Sat,Away,D,1,1,Almería,1,10,3,30.0,0.1,0.33,,0,0,16:15:00,/en/matches/4682a94a/Deportivo-La-Coruna-Almeria-October-4-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Home,W,3,0,Málaga,3,15,6,40.0,0.2,0.5,,0,0,21:00:00,/en/matches/aa13901e/Malaga-Deportivo-La-Coruna-October-12-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Home,W,2,1,Racing Sant,2,21,6,28.6,0.1,0.33,,0,0,18:30:00,/en/matches/4bb873db/Racing-Santander-Deportivo-La-Coruna-October-19-2025-Segunda-Division
+2025-10-26,Matchweek 11,Sun,Away,D,1,1,Valladolid,1,15,5,33.3,0.0,0.0,,1,1,21:00:00,/en/matches/c11f2045/Deportivo-La-Coruna-Valladolid-October-26-2025-Segunda-Division
+2025-10-30,First round,Thu,Home,L,1,5,UD Sámano,1,0,0,,,,,0,0,21:00:00,/en/matches/cb8095bf/UD-Samano-Deportivo-La-Coruna-October-30-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Home,L,0,2,Zaragoza,0,13,3,23.1,0.0,0.0,,0,0,21:00:00,/en/matches/74a7ab96/Zaragoza-Deportivo-La-Coruna-November-2-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Away,L,0,3,Leonesa,0,11,5,45.5,0.0,0.0,,0,0,18:30:00,/en/matches/d755596e/Deportivo-La-Coruna-Cultural-Leonesa-November-8-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Home,L,1,3,Córdoba,0,22,6,27.3,0.0,0.0,,0,0,18:30:00,/en/matches/b31b13f2/Cordoba-Deportivo-La-Coruna-November-16-2025-Segunda-Division
+2025-08-17,Matchweek 1,Sun,Away,D,1,1,FC Andorra,0,7,2,28.6,0.0,0.0,,0,0,20:30:00,/en/matches/ab14b125/Las-Palmas-FC-Andorra-August-17-2025-Segunda-Division
+2025-08-25,Matchweek 2,Mon,Home,L,1,3,Córdoba,1,13,5,38.5,0.08,0.2,,0,0,21:30:00,/en/matches/6431bdf4/Cordoba-Las-Palmas-August-25-2025-Segunda-Division
+2025-08-31,Matchweek 3,Sun,Away,W,1,0,Málaga,1,9,1,11.1,0.11,1.0,,0,0,18:30:00,/en/matches/f43d9ce8/Las-Palmas-Malaga-August-31-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Home,D,0,0,Burgos,0,6,2,33.3,0.0,0.0,,0,0,16:15:00,/en/matches/f3e72a5d/Burgos-Las-Palmas-September-7-2025-Segunda-Division
+2025-09-12,Matchweek 5,Fri,Away,L,1,2,Real Sociedad B,0,3,1,33.3,0.0,0.0,,0,0,19:30:00,/en/matches/e112cce1/Las-Palmas-Real-Sociedad-B-September-12-2025-Segunda-Division
+2025-09-20,Matchweek 6,Sat,Home,L,0,1,Leganés,0,8,3,37.5,0.0,0.0,,0,0,18:30:00,/en/matches/15728e22/Leganes-Las-Palmas-September-20-2025-Segunda-Division
+2025-09-27,Matchweek 7,Sat,Away,W,1,0,Almería,1,13,2,15.4,0.08,0.5,,0,0,20:00:00,/en/matches/e483955b/Las-Palmas-Almeria-September-27-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Away,L,0,1,Cádiz,0,8,3,37.5,0.0,0.0,,0,0,20:00:00,/en/matches/05a8b163/Las-Palmas-Cadiz-October-5-2025-Segunda-Division
+2025-10-10,Matchweek 9,Fri,Home,D,0,0,Granada,0,11,1,9.1,0.0,0.0,,0,0,20:30:00,/en/matches/560196e9/Granada-Las-Palmas-October-10-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Away,L,1,3,Eibar,1,9,2,22.2,0.11,0.5,,0,0,20:00:00,/en/matches/e730d0ec/Las-Palmas-Eibar-October-19-2025-Segunda-Division
+2025-10-24,Matchweek 11,Fri,Home,D,1,1,Huesca,1,13,3,23.1,0.08,0.33,,0,0,20:30:00,/en/matches/0ad8e5a3/Huesca-Las-Palmas-October-24-2025-Segunda-Division
+2025-10-28,First round,Tue,Home,W,3,1,CD Extremadura,3,0,0,,,,,1,1,21:00:00,/en/matches/f97f49dd/CD-Extremadura-Las-Palmas-October-28-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Home,D,0,0,Sporting Gijón,0,5,1,20.0,0.0,0.0,,0,0,16:15:00,/en/matches/86151d42/Sporting-Gijon-Las-Palmas-November-2-2025-Segunda-Division
+2025-11-09,Matchweek 13,Sun,Away,L,1,3,Racing Sant,1,9,2,22.2,0.11,0.5,,0,0,13:00:00,/en/matches/6c62ab11/Las-Palmas-Racing-Santander-November-9-2025-Segunda-Division
+2025-11-14,Matchweek 14,Fri,Home,L,0,1,Valladolid,0,22,4,18.2,0.0,0.0,,0,0,20:30:00,/en/matches/0cd43a2b/Valladolid-Las-Palmas-November-14-2025-Segunda-Division
+2025-08-17,Matchweek 1,Sun,Home,D,1,1,Huesca,1,14,3,21.4,0.07,0.33,,0,0,21:30:00,/en/matches/a8f752a5/Huesca-Leganes-August-17-2025-Segunda-Division
+2025-08-22,Matchweek 2,Fri,Away,D,1,1,Cádiz,1,10,3,30.0,0.1,0.33,,0,0,21:30:00,/en/matches/a35f3df1/Leganes-Cadiz-August-22-2025-Segunda-Division
+2025-09-01,Matchweek 3,Mon,Away,D,2,2,La Coruña,2,13,6,46.2,0.08,0.17,,1,1,21:30:00,/en/matches/6df92045/Leganes-Deportivo-La-Coruna-September-1-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Home,D,0,0,Leonesa,0,8,1,12.5,0.0,0.0,,0,0,18:30:00,/en/matches/2fdcd0d6/Cultural-Leonesa-Leganes-September-7-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Home,L,0,2,Granada,0,13,4,30.8,0.0,0.0,,0,0,21:00:00,/en/matches/943515b3/Granada-Leganes-September-14-2025-Segunda-Division
+2025-09-20,Matchweek 6,Sat,Away,W,1,0,Las Palmas,1,3,1,33.3,0.33,1.0,,0,0,18:30:00,/en/matches/15728e22/Leganes-Las-Palmas-September-20-2025-Segunda-Division
+2025-09-29,Matchweek 7,Mon,Away,W,1,0,Castellón,1,10,1,10.0,0.1,1.0,,0,0,20:30:00,/en/matches/2aee9bb4/Leganes-Castellon-September-29-2025-Segunda-Division
+2025-10-04,Matchweek 8,Sat,Home,L,1,2,FC Andorra,1,8,4,50.0,0.13,0.25,,0,0,18:30:00,/en/matches/65869364/FC-Andorra-Leganes-October-4-2025-Segunda-Division
+2025-10-11,Matchweek 9,Sat,Home,D,0,0,CD Mirandés,0,13,4,30.8,0.0,0.0,,0,0,16:15:00,/en/matches/50f2e425/CD-Mirandes-Leganes-October-11-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Away,L,0,2,Málaga,0,14,5,35.7,0.0,0.0,,0,0,14:00:00,/en/matches/283a31a3/Leganes-Malaga-October-19-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Home,D,0,0,Eibar,0,12,3,25.0,0.0,0.0,,0,0,16:15:00,/en/matches/47778a98/Eibar-Leganes-October-25-2025-Segunda-Division
+2025-10-29,First round,Wed,Home,L,1,4,Azuaga,1,0,0,,,,,0,0,20:00:00,/en/matches/59d2dfd6/Azuaga-Leganes-October-29-2025-Copa-del-Rey
+2025-11-01,Matchweek 12,Sat,Away,W,2,1,Burgos,2,6,2,33.3,0.33,1.0,,0,0,18:30:00,/en/matches/43713c29/Leganes-Burgos-November-1-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Home,W,2,1,Real Sociedad B,2,12,2,16.7,0.08,0.5,,1,1,14:00:00,/en/matches/7e655283/Real-Sociedad-B-Leganes-November-8-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Home,L,1,2,Ceuta,0,14,1,7.1,0.0,0.0,,0,0,14:00:00,/en/matches/fcc011b6/AD-Ceuta-FC-Leganes-November-16-2025-Segunda-Division
+2025-08-15,Matchweek 1,Fri,Home,W,5,1,Burgos,5,15,7,46.7,0.2,0.43,,2,2,21:30:00,/en/matches/809fa471/Burgos-Cultural-Leonesa-August-15-2025-Segunda-Division
+2025-08-24,Matchweek 2,Sun,Away,W,1,0,Almería,1,13,3,23.1,0.08,0.33,,0,0,19:30:00,/en/matches/1ceaf5ce/Cultural-Leonesa-Almeria-August-24-2025-Segunda-Division
+2025-08-29,Matchweek 3,Fri,Home,W,1,0,Sporting Gijón,1,17,6,35.3,0.06,0.17,,0,0,21:30:00,/en/matches/e3e3c981/Sporting-Gijon-Cultural-Leonesa-August-29-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Away,D,0,0,Leganés,0,11,5,45.5,0.0,0.0,,0,0,18:30:00,/en/matches/2fdcd0d6/Cultural-Leonesa-Leganes-September-7-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Home,L,2,4,Racing Sant,2,20,8,40.0,0.05,0.13,,1,1,16:15:00,/en/matches/f106e9d2/Racing-Santander-Cultural-Leonesa-September-14-2025-Segunda-Division
+2025-09-20,Matchweek 6,Sat,Away,W,3,1,Castellón,3,13,8,61.5,0.23,0.38,,0,0,16:15:00,/en/matches/cb1f38f2/Cultural-Leonesa-Castellon-September-20-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Home,L,0,1,Valladolid,0,18,1,5.6,0.0,0.0,,0,0,18:30:00,/en/matches/9b9397e6/Valladolid-Cultural-Leonesa-September-28-2025-Segunda-Division
+2025-10-06,Matchweek 8,Mon,Away,D,0,0,Albacete,0,9,3,33.3,0.0,0.0,,0,0,20:30:00,/en/matches/fd8a2b5b/Cultural-Leonesa-Albacete-October-6-2025-Segunda-Division
+2025-10-13,Matchweek 9,Mon,Home,W,1,0,Córdoba,1,19,5,26.3,0.05,0.2,,0,0,20:30:00,/en/matches/894f5507/Cordoba-Cultural-Leonesa-October-13-2025-Segunda-Division
+2025-10-18,Matchweek 10,Sat,Home,L,0,5,Zaragoza,0,9,2,22.2,0.0,0.0,,0,0,18:30:00,/en/matches/34a53fa9/Zaragoza-Cultural-Leonesa-October-18-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Away,W,1,0,Ceuta,1,5,1,20.0,0.0,0.0,,1,1,14:00:00,/en/matches/d47b3836/Cultural-Leonesa-AD-Ceuta-FC-October-25-2025-Segunda-Division
+2025-10-28,First round,Tue,Home,L,1,3,CD Tropezón,1,0,0,,,,,0,0,20:00:00,/en/matches/b5faea96/CD-Tropezon-Cultural-Leonesa-October-28-2025-Copa-del-Rey
+2025-11-01,Matchweek 12,Sat,Away,L,2,3,CD Mirandés,2,11,6,54.5,0.18,0.33,,0,0,16:15:00,/en/matches/6b15a649/Cultural-Leonesa-CD-Mirandes-November-1-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Home,W,3,0,La Coruña,3,9,3,33.3,0.33,1.0,,0,0,18:30:00,/en/matches/d755596e/Deportivo-La-Coruna-Cultural-Leonesa-November-8-2025-Segunda-Division
+2025-11-17,Matchweek 14,Mon,Away,L,0,1,Málaga,0,16,3,18.8,0.0,0.0,,0,0,20:30:00,/en/matches/48a8e4d5/Cultural-Leonesa-Malaga-November-17-2025-Segunda-Division
+2025-08-16,Matchweek 1,Sat,Away,D,1,1,Eibar,1,7,3,42.9,0.14,0.33,,0,0,19:30:00,/en/matches/aca2fb11/Malaga-Eibar-August-16-2025-Segunda-Division
+2025-08-24,Matchweek 2,Sun,Away,L,0,1,Real Sociedad B,0,10,4,40.0,0.0,0.0,,0,0,21:30:00,/en/matches/fe122290/Malaga-Real-Sociedad-B-August-24-2025-Segunda-Division
+2025-08-31,Matchweek 3,Sun,Home,L,0,1,Las Palmas,0,14,6,42.9,0.0,0.0,,0,0,18:30:00,/en/matches/f43d9ce8/Las-Palmas-Malaga-August-31-2025-Segunda-Division
+2025-09-06,Matchweek 4,Sat,Away,D,2,2,Granada,2,18,7,38.9,0.11,0.29,,0,0,21:00:00,/en/matches/de12dc6e/Malaga-Granada-September-6-2025-Segunda-Division
+2025-09-13,Matchweek 5,Sat,Home,W,1,0,Huesca,1,12,3,25.0,0.08,0.33,,0,0,18:30:00,/en/matches/58a24c1e/Huesca-Malaga-September-13-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Away,W,1,0,Cádiz,1,7,3,42.9,0.14,0.33,,0,0,18:30:00,/en/matches/1d6c229b/Malaga-Cadiz-September-21-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Home,W,2,1,Burgos,2,7,3,42.9,0.29,0.67,,0,0,16:15:00,/en/matches/973d37aa/Burgos-Malaga-September-28-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Home,W,3,0,Racing Sant,3,16,8,50.0,0.19,0.38,,0,0,18:30:00,/en/matches/53137bc7/Racing-Santander-Malaga-October-5-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Away,L,0,3,La Coruña,0,10,5,50.0,0.0,0.0,,0,0,21:00:00,/en/matches/aa13901e/Malaga-Deportivo-La-Coruna-October-12-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Home,W,2,0,Leganés,2,15,8,53.3,0.13,0.25,,0,0,14:00:00,/en/matches/283a31a3/Leganes-Malaga-October-19-2025-Segunda-Division
+2025-10-26,Matchweek 11,Sun,Away,L,1,4,FC Andorra,1,23,5,21.7,0.04,0.2,,0,0,14:00:00,/en/matches/b0fb7c3b/Malaga-FC-Andorra-October-26-2025-Segunda-Division
+2025-10-30,First round,Thu,Home,L,1,3,CD Estepona,1,0,0,,,,,0,0,21:00:00,/en/matches/d56c1f30/CD-Estepona-Malaga-October-30-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Home,W,2,1,Castellón,2,19,6,31.6,0.11,0.33,,0,0,18:30:00,/en/matches/06b34ae3/Castellon-Malaga-November-2-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Away,D,2,2,Córdoba,2,15,6,40.0,0.13,0.33,,0,0,21:00:00,/en/matches/615f635d/Malaga-Cordoba-November-8-2025-Segunda-Division
+2025-11-17,Matchweek 14,Mon,Home,W,1,0,Leonesa,1,6,1,16.7,0.17,1.0,,0,0,20:30:00,/en/matches/48a8e4d5/Cultural-Leonesa-Malaga-November-17-2025-Segunda-Division
+2025-08-16,Matchweek 1,Sat,Away,L,1,3,Castellón,1,17,8,47.1,0.06,0.13,,0,0,17:00:00,/en/matches/5d8b423a/Racing-Santander-Castellon-August-16-2025-Segunda-Division
+2025-08-25,Matchweek 2,Mon,Home,L,2,3,Albacete,2,8,2,25.0,0.25,1.0,,0,0,19:30:00,/en/matches/ecf527db/Albacete-Racing-Santander-August-25-2025-Segunda-Division
+2025-08-30,Matchweek 3,Sat,Away,L,1,4,Ceuta,1,11,1,9.1,0.0,0.0,,1,1,17:00:00,/en/matches/26c3ef27/Racing-Santander-AD-Ceuta-FC-August-30-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Home,L,2,3,Almería,2,15,5,33.3,0.13,0.4,,0,0,18:30:00,/en/matches/86f84b09/Almeria-Racing-Santander-September-7-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Away,W,4,2,Leonesa,4,11,5,45.5,0.36,0.8,,0,0,16:15:00,/en/matches/f106e9d2/Racing-Santander-Cultural-Leonesa-September-14-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Home,D,2,2,Córdoba,2,24,5,20.8,0.04,0.2,,1,1,21:00:00,/en/matches/8d495739/Cordoba-Racing-Santander-September-21-2025-Segunda-Division
+2025-09-27,Matchweek 7,Sat,Away,W,2,1,FC Andorra,2,14,4,28.6,0.07,0.25,,1,1,18:30:00,/en/matches/1ae07903/Racing-Santander-FC-Andorra-September-27-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Away,L,0,3,Málaga,0,10,5,50.0,0.0,0.0,,0,0,18:30:00,/en/matches/53137bc7/Racing-Santander-Malaga-October-5-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Home,W,2,1,Sporting Gijón,2,9,4,44.4,0.22,0.5,,0,0,16:15:00,/en/matches/91bf5c5b/Sporting-Gijon-Racing-Santander-October-12-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Away,L,1,2,La Coruña,0,11,5,45.5,0.0,0.0,,0,0,18:30:00,/en/matches/4bb873db/Racing-Santander-Deportivo-La-Coruna-October-19-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Home,L,1,3,CD Mirandés,1,14,3,21.4,0.07,0.33,,0,0,21:00:00,/en/matches/5e0def21/CD-Mirandes-Racing-Santander-October-25-2025-Segunda-Division
+2025-10-28,First round,Tue,Home,L,0,4,SD Logroñés,0,0,0,,,,,0,0,19:30:00,/en/matches/37600d1f/SD-Logrones-Racing-Santander-October-28-2025-Copa-del-Rey
+2025-10-31,Matchweek 12,Fri,Away,L,0,1,Real Sociedad B,0,12,4,33.3,0.0,0.0,,0,0,20:30:00,/en/matches/e848bf19/Racing-Santander-Real-Sociedad-B-October-31-2025-Segunda-Division
+2025-11-09,Matchweek 13,Sun,Home,W,3,1,Las Palmas,3,16,7,43.8,0.19,0.43,,0,0,13:00:00,/en/matches/6c62ab11/Las-Palmas-Racing-Santander-November-9-2025-Segunda-Division
+2025-11-15,Matchweek 14,Sat,Away,D,2,2,Granada,2,13,5,38.5,0.15,0.4,,0,0,21:00:00,/en/matches/768e08d0/Racing-Santander-Granada-November-15-2025-Segunda-Division
+2025-08-17,Matchweek 1,Sun,Away,L,0,1,Zaragoza,0,18,5,27.8,0.0,0.0,,0,0,17:00:00,/en/matches/f0f01934/Real-Sociedad-B-Zaragoza-August-17-2025-Segunda-Division
+2025-08-24,Matchweek 2,Sun,Home,W,1,0,Málaga,1,21,5,23.8,0.05,0.2,,0,0,21:30:00,/en/matches/fe122290/Malaga-Real-Sociedad-B-August-24-2025-Segunda-Division
+2025-08-29,Matchweek 3,Fri,Away,D,2,2,Almería,2,16,5,31.3,0.13,0.4,,0,0,19:30:00,/en/matches/9e51a0f0/Real-Sociedad-B-Almeria-August-29-2025-Segunda-Division
+2025-09-07,Matchweek 4,Sun,Away,D,3,3,Cádiz,2,9,2,22.2,0.22,1.0,,0,0,16:15:00,/en/matches/fb72f5ed/Real-Sociedad-B-Cadiz-September-7-2025-Segunda-Division
+2025-09-12,Matchweek 5,Fri,Home,W,2,1,Las Palmas,2,16,5,31.3,0.13,0.4,,0,0,19:30:00,/en/matches/e112cce1/Las-Palmas-Real-Sociedad-B-September-12-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Home,W,2,1,Eibar,1,12,5,41.7,0.08,0.2,,0,0,18:30:00,/en/matches/e7934553/Eibar-Real-Sociedad-B-September-21-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Away,D,1,1,Córdoba,1,13,3,23.1,0.08,0.33,,0,0,14:00:00,/en/matches/07b785b6/Real-Sociedad-B-Cordoba-September-28-2025-Segunda-Division
+2025-10-04,Matchweek 8,Sat,Home,W,5,2,Granada,5,13,5,38.5,0.38,1.0,,0,0,21:00:00,/en/matches/d8b56a22/Granada-Real-Sociedad-B-October-4-2025-Segunda-Division
+2025-10-11,Matchweek 9,Sat,Away,L,0,3,FC Andorra,0,10,3,30.0,0.0,0.0,,0,0,18:30:00,/en/matches/9ca29212/Real-Sociedad-B-FC-Andorra-October-11-2025-Segunda-Division
+2025-10-25,Matchweek 11,Sat,Home,W,1,0,Burgos,1,14,3,21.4,0.0,0.0,,1,1,18:30:00,/en/matches/b46c8784/Burgos-Real-Sociedad-B-October-25-2025-Segunda-Division
+2025-10-31,Matchweek 12,Fri,Home,W,1,0,Racing Sant,1,13,1,7.7,0.08,1.0,,0,0,20:30:00,/en/matches/e848bf19/Racing-Santander-Real-Sociedad-B-October-31-2025-Segunda-Division
+2025-11-05,Matchweek 10,Wed,Away,L,0,2,Huesca,0,10,1,10.0,0.0,0.0,,0,0,20:00:00,/en/matches/7c572191/Real-Sociedad-B-Huesca-November-5-2025-Segunda-Division
+2025-11-08,Matchweek 13,Sat,Away,L,1,2,Leganés,1,9,3,33.3,0.11,0.33,,0,0,14:00:00,/en/matches/7e655283/Real-Sociedad-B-Leganes-November-8-2025-Segunda-Division
+2025-11-15,Matchweek 14,Sat,Home,W,5,4,Castellón,5,23,8,34.8,0.17,0.5,,1,1,16:00:00,/en/matches/64f1736c/Castellon-Real-Sociedad-B-November-15-2025-Segunda-Division
+2025-08-18,Matchweek 1,Mon,Away,L,1,2,Córdoba,1,15,5,33.3,0.07,0.2,,0,0,19:00:00,/en/matches/7f60d5e0/Sporting-Gijon-Cordoba-August-18-2025-Segunda-Division
+2025-08-23,Matchweek 2,Sat,Home,L,0,1,Ceuta,0,11,7,63.6,0.0,0.0,,0,0,19:00:00,/en/matches/c7f5a302/AD-Ceuta-FC-Sporting-Gijon-August-23-2025-Segunda-Division
+2025-08-29,Matchweek 3,Fri,Away,L,0,1,Leonesa,0,9,2,22.2,0.0,0.0,,0,0,21:30:00,/en/matches/e3e3c981/Sporting-Gijon-Cultural-Leonesa-August-29-2025-Segunda-Division
+2025-09-06,Matchweek 4,Sat,Home,W,1,0,La Coruña,1,14,6,42.9,0.07,0.17,,0,0,16:15:00,/en/matches/f44fb256/Deportivo-La-Coruna-Sporting-Gijon-September-6-2025-Segunda-Division
+2025-09-14,Matchweek 5,Sun,Away,W,3,2,Burgos,3,10,5,50.0,0.3,0.6,,0,0,18:30:00,/en/matches/94892ba4/Sporting-Gijon-Burgos-September-14-2025-Segunda-Division
+2025-09-20,Matchweek 6,Sat,Home,W,2,1,Almería,2,24,9,37.5,0.08,0.22,,0,0,21:00:00,/en/matches/ba20469c/Almeria-Sporting-Gijon-September-20-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Away,W,4,3,Albacete,4,11,7,63.6,0.27,0.43,,1,1,18:30:00,/en/matches/f88ea46f/Sporting-Gijon-Albacete-September-28-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Home,W,3,1,Castellón,3,12,5,41.7,0.17,0.4,,1,1,16:15:00,/en/matches/7afb2324/Castellon-Sporting-Gijon-October-5-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Away,L,1,2,Racing Sant,1,13,3,23.1,0.08,0.33,,0,0,16:15:00,/en/matches/91bf5c5b/Sporting-Gijon-Racing-Santander-October-12-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Home,L,2,3,Valladolid,2,17,5,29.4,0.12,0.4,,0,0,16:15:00,/en/matches/0861fe2a/Valladolid-Sporting-Gijon-October-19-2025-Segunda-Division
+2025-10-26,Matchweek 11,Sun,Away,L,0,1,Zaragoza,0,22,3,13.6,0.0,0.0,,0,0,18:30:00,/en/matches/bd7ee7c3/Sporting-Gijon-Zaragoza-October-26-2025-Segunda-Division
+2025-10-29,First round,Wed,Home,L,0,1,Caudal Deportivo,0,0,0,,,,,0,0,20:00:00,/en/matches/75a4d19d/Caudal-Deportivo-Sporting-Gijon-October-29-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Away,D,0,0,Las Palmas,0,8,2,25.0,0.0,0.0,,0,0,16:15:00,/en/matches/86151d42/Sporting-Gijon-Las-Palmas-November-2-2025-Segunda-Division
+2025-11-07,Matchweek 13,Fri,Home,W,2,1,CD Mirandés,2,20,9,45.0,0.1,0.22,,0,0,20:30:00,/en/matches/693819be/CD-Mirandes-Sporting-Gijon-November-7-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Away,D,1,1,Eibar,1,6,3,50.0,0.17,0.33,,0,0,16:15:00,/en/matches/2eda6eea/Sporting-Gijon-Eibar-November-16-2025-Segunda-Division
+2025-08-15,Matchweek 1,Fri,Away,L,0,3,Ceuta,0,5,0,0.0,0.0,,,0,0,21:30:00,/en/matches/599548af/Valladolid-AD-Ceuta-FC-August-15-2025-Segunda-Division
+2025-08-22,Matchweek 2,Fri,Home,L,0,1,Castellón,0,11,4,36.4,0.0,0.0,,0,0,21:30:00,/en/matches/eb39d5bc/Castellon-Valladolid-August-22-2025-Segunda-Division
+2025-08-30,Matchweek 3,Sat,Away,D,0,0,Córdoba,0,5,1,20.0,0.0,0.0,,0,0,19:00:00,/en/matches/6171e16d/Valladolid-Cordoba-August-30-2025-Segunda-Division
+2025-09-06,Matchweek 4,Sat,Home,D,1,1,Zaragoza,1,6,2,33.3,0.17,0.5,,0,0,18:30:00,/en/matches/dba6bbdd/Zaragoza-Valladolid-September-6-2025-Segunda-Division
+2025-09-13,Matchweek 5,Sat,Away,L,1,3,Almería,1,14,3,21.4,0.0,0.0,,1,2,21:00:00,/en/matches/0566daf9/Valladolid-Almeria-September-13-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Home,W,2,0,Albacete,2,19,8,42.1,0.11,0.25,,0,0,16:15:00,/en/matches/84f3965d/Albacete-Valladolid-September-21-2025-Segunda-Division
+2025-09-28,Matchweek 7,Sun,Away,W,1,0,Leonesa,1,9,4,44.4,0.11,0.25,,0,0,18:30:00,/en/matches/9b9397e6/Valladolid-Cultural-Leonesa-September-28-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Away,D,1,1,CD Mirandés,1,10,2,20.0,0.1,0.5,,0,0,18:30:00,/en/matches/fc0d6e4c/Valladolid-CD-Mirandes-October-5-2025-Segunda-Division
+2025-10-12,Matchweek 9,Sun,Home,L,0,1,Burgos,0,7,1,14.3,0.0,0.0,,0,0,18:30:00,/en/matches/a29f1950/Burgos-Valladolid-October-12-2025-Segunda-Division
+2025-10-19,Matchweek 10,Sun,Away,W,3,2,Sporting Gijón,3,7,5,71.4,0.29,0.4,,1,1,16:15:00,/en/matches/0861fe2a/Valladolid-Sporting-Gijon-October-19-2025-Segunda-Division
+2025-10-26,Matchweek 11,Sun,Home,D,1,1,La Coruña,1,10,4,40.0,0.0,0.0,,1,1,21:00:00,/en/matches/c11f2045/Deportivo-La-Coruna-Valladolid-October-26-2025-Segunda-Division
+2025-10-29,First round,Wed,Home,W,1,0,Club Portugalete,1,0,0,,,,,0,0,20:00:00,/en/matches/76b35662/Club-Portugalete-Valladolid-October-29-2025-Copa-del-Rey
+2025-11-03,Matchweek 12,Mon,Away,L,1,2,Granada,1,8,3,37.5,0.13,0.33,,0,0,20:30:00,/en/matches/4cfc7188/Valladolid-Granada-November-3-2025-Segunda-Division
+2025-11-09,Matchweek 13,Sun,Home,D,0,0,Cádiz,0,7,2,28.6,0.0,0.0,,0,0,21:00:00,/en/matches/a43fd3f1/Cadiz-Valladolid-November-9-2025-Segunda-Division
+2025-11-14,Matchweek 14,Fri,Away,W,1,0,Las Palmas,1,11,4,36.4,0.09,0.25,,0,0,20:30:00,/en/matches/0cd43a2b/Valladolid-Las-Palmas-November-14-2025-Segunda-Division
+2025-08-17,Matchweek 1,Sun,Home,W,1,0,Real Sociedad B,1,3,2,66.7,0.33,0.5,,0,0,17:00:00,/en/matches/f0f01934/Real-Sociedad-B-Zaragoza-August-17-2025-Segunda-Division
+2025-08-23,Matchweek 2,Sat,Away,W,3,1,FC Andorra,3,17,10,58.8,0.18,0.3,,0,0,21:30:00,/en/matches/ca5a09db/Zaragoza-FC-Andorra-August-23-2025-Segunda-Division
+2025-08-30,Matchweek 3,Sat,Home,D,1,1,Castellón,1,14,5,35.7,0.07,0.2,,0,0,21:30:00,/en/matches/e47a0352/Castellon-Zaragoza-August-30-2025-Segunda-Division
+2025-09-06,Matchweek 4,Sat,Away,D,1,1,Valladolid,1,10,4,40.0,0.1,0.25,,0,0,18:30:00,/en/matches/dba6bbdd/Zaragoza-Valladolid-September-6-2025-Segunda-Division
+2025-09-15,Matchweek 5,Mon,Away,D,0,0,Albacete,0,6,1,16.7,0.0,0.0,,0,0,20:30:00,/en/matches/d6fa6cf8/Zaragoza-Albacete-September-15-2025-Segunda-Division
+2025-09-21,Matchweek 6,Sun,Home,W,1,0,Ceuta,1,7,3,42.9,0.14,0.33,,0,0,14:00:00,/en/matches/2069806b/AD-Ceuta-FC-Zaragoza-September-21-2025-Segunda-Division
+2025-09-26,Matchweek 7,Fri,Home,L,0,1,CD Mirandés,0,14,2,14.3,0.0,0.0,,0,0,20:30:00,/en/matches/ef79623b/CD-Mirandes-Zaragoza-September-26-2025-Segunda-Division
+2025-10-05,Matchweek 8,Sun,Away,W,1,0,Córdoba,0,11,2,18.2,0.0,0.0,,0,0,14:00:00,/en/matches/70d82ef1/Zaragoza-Cordoba-October-5-2025-Segunda-Division
+2025-10-11,Matchweek 9,Sat,Home,W,4,2,Almería,4,22,14,63.6,0.18,0.29,,0,0,18:30:00,/en/matches/651038fd/Almeria-Zaragoza-October-11-2025-Segunda-Division
+2025-10-18,Matchweek 10,Sat,Away,W,5,0,Leonesa,5,19,13,68.4,0.21,0.31,,1,1,18:30:00,/en/matches/34a53fa9/Zaragoza-Cultural-Leonesa-October-18-2025-Segunda-Division
+2025-10-26,Matchweek 11,Sun,Home,W,1,0,Sporting Gijón,1,4,3,75.0,0.25,0.33,,0,0,18:30:00,/en/matches/bd7ee7c3/Sporting-Gijon-Zaragoza-October-26-2025-Segunda-Division
+2025-10-29,First round,Wed,Home,L,1,3,UD Mutilvera,1,0,0,,,,,1,1,19:00:00,/en/matches/4bcdfdbb/UD-Mutilvera-Zaragoza-October-29-2025-Copa-del-Rey
+2025-11-02,Matchweek 12,Sun,Away,W,2,0,La Coruña,2,14,6,42.9,0.14,0.33,,0,0,21:00:00,/en/matches/74a7ab96/Zaragoza-Deportivo-La-Coruna-November-2-2025-Segunda-Division
+2025-11-09,Matchweek 13,Sun,Home,W,3,1,Granada,3,16,7,43.8,0.19,0.43,,0,0,18:30:00,/en/matches/19569d36/Granada-Zaragoza-November-9-2025-Segunda-Division
+2025-11-16,Matchweek 14,Sun,Away,L,0,1,Huesca,0,8,2,25.0,0.0,0.0,,0,0,21:00:00,/en/matches/9a467410/Zaragoza-Huesca-November-16-2025-Segunda-Division

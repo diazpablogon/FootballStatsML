@@ -1,0 +1,248 @@
+Index: 01_scripts/01a_APIscrapping/01ab_LeagueInit.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from __future__ import annotations\n\nfrom pathlib import Path\nfrom typing import Any\n\nimport pandas as pd\n\nfrom _fbref_utils import (\n    BASE_DIR,\n    RAW_DIR,\n    Logger,\n    build_fbref_client,\n    flatten_columns,\n    load_config,\n    safe_call,\n    save_dataframe,\n)\n\nBASE_DIR = Path(__file__).resolve().parents[2]\nRAW_DIR = BASE_DIR / \"00_data\" / \"00a_raw\"\n\n\ndef compute_ranking(schedule: pd.DataFrame) -> pd.DataFrame:\n    finished = schedule.dropna(subset=[\"home_goals\", \"away_goals\"])\n    if finished.empty:\n        return pd.DataFrame(columns=[\"Pos\", \"Team\", \"MP\", \"W\", \"D\", \"L\", \"GF\", \"GA\", \"GD\", \"Pts\"])\n\n    home = pd.DataFrame(\n        {\n            \"Team\": finished[\"home_team\"],\n            \"GF\": finished[\"home_goals\"],\n            \"GA\": finished[\"away_goals\"],\n            \"W\": (finished[\"home_goals\"] > finished[\"away_goals\"]).astype(int),\n            \"D\": (finished[\"home_goals\"] == finished[\"away_goals\"]).astype(int),\n            \"L\": (finished[\"home_goals\"] < finished[\"away_goals\"]).astype(int),\n            \"MP\": 1,\n        }\n    )\n\n    away = pd.DataFrame(\n        {\n            \"Team\": finished[\"away_team\"],\n            \"GF\": finished[\"away_goals\"],\n            \"GA\": finished[\"home_goals\"],\n            \"W\": (finished[\"away_goals\"] > finished[\"home_goals\"]).astype(int),\n            \"D\": (finished[\"away_goals\"] == finished[\"home_goals\"]).astype(int),\n            \"L\": (finished[\"away_goals\"] < finished[\"home_goals\"]).astype(int),\n            \"MP\": 1,\n        }\n    )\n\n    totals = pd.concat([home, away], ignore_index=True)\n    grouped = totals.groupby(\"Team\", as_index=False).sum()\n    grouped[\"GD\"] = grouped[\"GF\"] - grouped[\"GA\"]\n    grouped[\"Pts\"] = grouped[\"W\"] * 3 + grouped[\"D\"]\n\n    ranking = grouped.sort_values(by=[\"Pts\", \"GD\", \"GF\"], ascending=[False, False, False]).reset_index(drop=True)\n    ranking.insert(0, \"Pos\", ranking.index + 1)\n    return ranking[[\"Pos\", \"Team\", \"MP\", \"W\", \"D\", \"L\", \"GF\", \"GA\", \"GD\", \"Pts\"]]\n\n\ndef main(\n    config: dict[str, Any] | None = None,\n    only_leagues: set[str] | None = None,\n    only_seasons: set[str] | None = None,\n) -> None:\n    config = config or load_config()\n    logger = Logger(config.get(\"logging\", {}).get(\"verbose\", True))\n    leagues: dict[str, str] = config.get(\"fbref\", {}).get(\"leagues\", {})\n    seasons: dict[str, int] = config.get(\"fbref\", {}).get(\"seasons\", {})\n\n    for season_label, season_id in seasons.items():\n        if only_seasons and season_label not in only_seasons:\n            continue\n        for league_key, league_id in leagues.items():\n            if only_leagues and league_key not in only_leagues:\n                continue\n\n            logger.info(f\"=== {season_label} | {league_key} ({league_id}) ===\")\n            try:\n                fbref = build_fbref_client(league_id, season_id)\n            except Exception as exc:\n                logger.error(str(exc))\n                continue\n\n            schedule = safe_call(fbref.read_schedule)\n            schedule = flatten_columns(schedule)\n            if schedule.empty:\n                logger.warning(\"Schedule is empty; skipping ranking computation\")\n                continue\n\n            league_dir = RAW_DIR / season_label / league_key\n            schedule_path = league_dir / \"Schedule.parquet\"\n            save_dataframe(schedule, schedule_path, logger)\n            logger.info(f\"Downloaded schedule: {len(schedule)} rows\")\n\n            ranking = compute_ranking(schedule)\n            if ranking.empty:\n                logger.warning(\"Ranking could not be computed (no finished matches)\")\n            else:\n                logger.info(f\"Computed ranking: {len(ranking)} teams\")\n            ranking_path = league_dir / \"Ranking.parquet\"\n            save_dataframe(ranking, ranking_path, logger)\n\n\ndef cli() -> None:\n    main()\n\n\nif __name__ == \"__main__\":\n    main()\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/01_scripts/01a_APIscrapping/01ab_LeagueInit.py b/01_scripts/01a_APIscrapping/01ab_LeagueInit.py
+--- a/01_scripts/01a_APIscrapping/01ab_LeagueInit.py	(revision 151076fe322cc445e9627e40f835e46196391636)
++++ b/01_scripts/01a_APIscrapping/01ab_LeagueInit.py	(date 1763768791356)
+@@ -20,6 +20,50 @@
+ RAW_DIR = BASE_DIR / "00_data" / "00a_raw"
+ 
+ 
++def add_goal_columns_from_score(df: pd.DataFrame) -> pd.DataFrame:
++    """
++    Asegura columnas home_goals y away_goals a partir de 'score' si no existen.
++    """
++    if {"home_goals", "away_goals"}.issubset(df.columns):
++        return df
++
++    if "score" in df.columns:
++        # FBref usa guion largo "–"
++        parts = df["score"].astype("string").str.split("–", n=1, expand=True)
++        df["home_goals"] = pd.to_numeric(parts[0], errors="coerce")
++        df["away_goals"] = pd.to_numeric(parts[1], errors="coerce")
++    else:
++        df["home_goals"] = pd.NA
++        df["away_goals"] = pd.NA
++
++    return df
++
++
++def filter_champions_main_phase(df: pd.DataFrame, league_key: str) -> pd.DataFrame:
++    """
++    Para UCL_UEFA, filtra por ventana de meses típica de Champions:
++    septiembre–junio (meses 9–12 y 1–6).
++    Para el resto de ligas, devuelve df tal cual.
++    """
++    if league_key != "UCL_UEFA":
++        return df
++
++    # Buscar alguna columna de fecha
++    date_cols = [c for c in df.columns if "date" in c.lower()]
++    if not date_cols:
++        return df
++
++    col = date_cols[0]
++    dt = pd.to_datetime(df[col], errors="coerce")
++    months_ok = dt.dt.month.isin([9, 10, 11, 12, 1, 2, 3, 4, 5, 6])
++
++    # Si no hay ninguna fila en ventana, no filtramos
++    if not months_ok.any():
++        return df
++
++    return df[months_ok].reset_index(drop=True)
++
++
+ def compute_ranking(schedule: pd.DataFrame) -> pd.DataFrame:
+     finished = schedule.dropna(subset=["home_goals", "away_goals"])
+     if finished.empty:
+@@ -85,13 +129,19 @@
+ 
+             schedule = safe_call(fbref.read_schedule)
+             schedule = flatten_columns(schedule)
++
++            # SOLO Champions: recorte por ventana de meses
++            schedule = filter_champions_main_phase(schedule, league_key)
++            # Añadir columnas de goles
++            schedule = add_goal_columns_from_score(schedule)
++
+             if schedule.empty:
+-                logger.warning("Schedule is empty; skipping ranking computation")
++                logger.warning("Schedule is empty after processing; skipping ranking computation")
+                 continue
+ 
+             league_dir = RAW_DIR / season_label / league_key
+             schedule_path = league_dir / "Schedule.parquet"
+-            save_dataframe(schedule, schedule_path, logger)
++            save_dataframe(schedule, schedule_path, logger)  # parquet
+             logger.info(f"Downloaded schedule: {len(schedule)} rows")
+ 
+             ranking = compute_ranking(schedule)
+@@ -100,7 +150,7 @@
+             else:
+                 logger.info(f"Computed ranking: {len(ranking)} teams")
+             ranking_path = league_dir / "Ranking.parquet"
+-            save_dataframe(ranking, ranking_path, logger)
++            save_dataframe(ranking, ranking_path, logger)  # parquet
+ 
+ 
+ def cli() -> None:
+Index: 01_scripts/01a_APIscrapping/config.yaml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>data:\n  raw_dir: \"00_data/00a_raw\"\n\nfbref:\n  leagues:\n    LaLiga_ESP: \"ESP-La Liga\"\n    PremierLeague_ENG: \"ENG-Premier League\"\n    SerieA_ITA: \"ITA-Serie A\"\n    Ligue1_FRA: \"FRA-Ligue 1\"\n    Bundesliga_GER: \"GER-Bundesliga\"\n    LaLiga2_ESP: \"ESP-Segunda Division\"\n    Eredivisie_NED: \"NED-Eredivisie\"\n    UCL_UEFA: \"INT-Champions League\"\n\n  seasons:\n    \"2024-25\": 2025\n    # \"2023-24\": 2024\n\n  # enable/disable blocks\n  enable_player_match: true\n  enable_player_season: true\n  enable_team_match: true\n  enable_team_season: true\n\nlogging:\n  verbose: true\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/01_scripts/01a_APIscrapping/config.yaml b/01_scripts/01a_APIscrapping/config.yaml
+--- a/01_scripts/01a_APIscrapping/config.yaml	(revision 151076fe322cc445e9627e40f835e46196391636)
++++ b/01_scripts/01a_APIscrapping/config.yaml	(date 1763766399575)
+@@ -3,18 +3,19 @@
+ 
+ fbref:
+   leagues:
+-    LaLiga_ESP: "ESP-La Liga"
+-    PremierLeague_ENG: "ENG-Premier League"
+-    SerieA_ITA: "ITA-Serie A"
+-    Ligue1_FRA: "FRA-Ligue 1"
+-    Bundesliga_GER: "GER-Bundesliga"
+-    LaLiga2_ESP: "ESP-Segunda Division"
+-    Eredivisie_NED: "NED-Eredivisie"
+-    UCL_UEFA: "INT-Champions League"
++    #LaLiga_ESP: "ESP-La Liga"
++    #PremierLeague_ENG: "ENG-Premier League"
++    #SerieA_ITA: "ITA-Serie A"
++    #Ligue1_FRA: "FRA-Ligue 1"
++    #Bundesliga_GER: "GER-Bundesliga"
++    #LaLiga2_ESP: "ESP-Segunda Division"
++    #Eredivisie_NED: "NED-Eredivisie"
++    UCL_UEFA: "UEFA-Champions League"
+ 
+   seasons:
+-    "2024-25": 2025
+-    # "2023-24": 2024
++    "2025-26": 2025
++    # "2024-25": 2024
++    # "2023-24": 2023
+ 
+   # enable/disable blocks
+   enable_player_match: true
+Index: 01_scripts/01a_APIscrapping/01ac_TeamMatch.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>from __future__ import annotations\n\nfrom pathlib import Path\nfrom typing import Any\n\nfrom _fbref_utils import (\n    BASE_DIR,\n    RAW_DIR,\n    Logger,\n    build_fbref_client,\n    flatten_columns,\n    load_config,\n    safe_call,\n    save_dataframe,\n    stat_to_camel,\n)\n\nBASE_DIR = Path(__file__).resolve().parents[2]\nRAW_DIR = BASE_DIR / \"00_data\" / \"00a_raw\"\n\nTEAM_MATCH_STATS: list[str] = [\n    \"shooting\",\n    \"passing\",\n    \"goal_shot_creation\",\n    \"defense\",\n    \"possession\",\n    \"misc\",\n]\n\n\ndef main(\n    config: dict[str, Any] | None = None,\n    only_leagues: set[str] | None = None,\n    only_seasons: set[str] | None = None,\n) -> None:\n    config = config or load_config()\n    logger = Logger(config.get(\"logging\", {}).get(\"verbose\", True))\n    fbref_cfg = config.get(\"fbref\", {})\n\n    if not fbref_cfg.get(\"enable_team_match\", True):\n        logger.info(\"Team match stats disabled via configuration\")\n        return\n\n    leagues: dict[str, str] = fbref_cfg.get(\"leagues\", {})\n    seasons: dict[str, int] = fbref_cfg.get(\"seasons\", {})\n\n    for season_label, season_id in seasons.items():\n        if only_seasons and season_label not in only_seasons:\n            continue\n        for league_key, league_id in leagues.items():\n            if only_leagues and league_key not in only_leagues:\n                continue\n\n            logger.info(f\"=== Team Match | {season_label} | {league_key} ({league_id}) ===\")\n            try:\n                fbref = build_fbref_client(league_id, season_id)\n            except Exception as exc:\n                logger.error(str(exc))\n                continue\n\n            for stat_type in TEAM_MATCH_STATS:\n                stat_camel = stat_to_camel(stat_type)\n                logger.info(f\"Fetching {stat_camel}...\")\n                df = safe_call(fbref.read_team_match_stats, stat_type=stat_type, opponent_stats=True)\n                df = flatten_columns(df)\n                if df.empty:\n                    logger.warning(f\"{stat_camel} returned no data\")\n                    continue\n                output_path = RAW_DIR / season_label / league_key / \"TeamMatch\" / f\"{stat_camel}.parquet\"\n                save_dataframe(df, output_path, logger)\n\n\ndef cli() -> None:\n    main()\n\n\nif __name__ == \"__main__\":\n    main()\n
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/01_scripts/01a_APIscrapping/01ac_TeamMatch.py b/01_scripts/01a_APIscrapping/01ac_TeamMatch.py
+--- a/01_scripts/01a_APIscrapping/01ac_TeamMatch.py	(revision 151076fe322cc445e9627e40f835e46196391636)
++++ b/01_scripts/01a_APIscrapping/01ac_TeamMatch.py	(date 1763821770681)
+@@ -2,6 +2,8 @@
+ 
+ from pathlib import Path
+ from typing import Any
++import os
++import pandas as pd
+ 
+ from _fbref_utils import (
+     BASE_DIR,
+@@ -11,7 +13,6 @@
+     flatten_columns,
+     load_config,
+     safe_call,
+-    save_dataframe,
+     stat_to_camel,
+ )
+ 
+@@ -27,12 +28,50 @@
+     "misc",
+ ]
+ 
++# ---------------------------------------------------------
++# NUEVA FUNCIÓN: guardar SIEMPRE en PARQUET
++# ---------------------------------------------------------
++def save_parquet(df: pd.DataFrame, path: Path, logger: Logger) -> None:
++    path.parent.mkdir(parents=True, exist_ok=True)
++    try:
++        df.to_parquet(path, index=False)
++        logger.info(f"Saved parquet -> {path}")
++    except Exception as e:
++        logger.error(f"Error saving parquet {path}: {e}")
++
++
++def patch_bodo_cache_dir() -> None:
++    base = Path(os.environ.get("SOCCERDATA_DIR", "~/soccerdata")).expanduser()
++    fbref_dir = base / "data" / "FBref"
++    (fbref_dir / "matchlogs_Bodø").mkdir(parents=True, exist_ok=True)
++
++
++def filter_champions_main_phase(df: pd.DataFrame, league_key: str) -> pd.DataFrame:
++    if league_key != "UCL_UEFA":
++        return df
++
++    date_cols = [c for c in df.columns if "date" in c.lower()]
++    if not date_cols:
++        return df
++
++    col = date_cols[0]
++    dt = pd.to_datetime(df[col], errors="coerce")
++    months_ok = dt.dt.month.isin([9,10,11,12,1,2,3,4,5,6])
++
++    if not months_ok.any():
++        return df
++
++    return df[months_ok].reset_index(drop=True)
++
+ 
+ def main(
+     config: dict[str, Any] | None = None,
+     only_leagues: set[str] | None = None,
+     only_seasons: set[str] | None = None,
+ ) -> None:
++
++    patch_bodo_cache_dir()
++
+     config = config or load_config()
+     logger = Logger(config.get("logging", {}).get("verbose", True))
+     fbref_cfg = config.get("fbref", {})
+@@ -47,11 +86,13 @@
+     for season_label, season_id in seasons.items():
+         if only_seasons and season_label not in only_seasons:
+             continue
++
+         for league_key, league_id in leagues.items():
+             if only_leagues and league_key not in only_leagues:
+                 continue
+ 
+             logger.info(f"=== Team Match | {season_label} | {league_key} ({league_id}) ===")
++
+             try:
+                 fbref = build_fbref_client(league_id, season_id)
+             except Exception as exc:
+@@ -61,13 +102,21 @@
+             for stat_type in TEAM_MATCH_STATS:
+                 stat_camel = stat_to_camel(stat_type)
+                 logger.info(f"Fetching {stat_camel}...")
++
+                 df = safe_call(fbref.read_team_match_stats, stat_type=stat_type, opponent_stats=True)
+                 df = flatten_columns(df)
++
++                # SOLO CHAMPIONS (UCL): filtrar meses
++                df = filter_champions_main_phase(df, league_key)
++
+                 if df.empty:
+-                    logger.warning(f"{stat_camel} returned no data")
++                    logger.warning(f"{stat_camel} returned no data after processing")
+                     continue
++
+                 output_path = RAW_DIR / season_label / league_key / "TeamMatch" / f"{stat_camel}.parquet"
+-                save_dataframe(df, output_path, logger)
++
++                # USAR SOLO PARQUET
++                save_parquet(df, output_path, logger)
+ 
+ 
+ def cli() -> None:
