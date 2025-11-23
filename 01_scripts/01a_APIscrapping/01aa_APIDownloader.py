@@ -24,6 +24,7 @@ def parse_args() -> argparse.Namespace:
         help="Comma-separated season labels to process",
     )
     parser.add_argument("--skip-league-init", action="store_true", help="Skip schedule & ranking")
+    parser.add_argument("--skip-lineups", action="store_true", help="Skip lineups (FBref.read_lineup)")
     parser.add_argument("--skip-player-match", action="store_true", help="Skip player match stats")
     parser.add_argument("--skip-player-season", action="store_true", help="Skip player season stats")
     parser.add_argument("--skip-team-match", action="store_true", help="Skip team match stats")
@@ -36,6 +37,8 @@ def apply_runtime_flags(config: dict[str, Any], args: argparse.Namespace) -> dic
     fbref_cfg = cfg.setdefault("fbref", {})
     if args.skip_league_init:
         fbref_cfg["enable_league_init"] = False
+    if args.skip_lineups:
+        fbref_cfg["enable_lineups"] = False
     if args.skip_player_match:
         fbref_cfg["enable_player_match"] = False
     if args.skip_player_season:
@@ -85,6 +88,7 @@ def main() -> None:
         ("=== STEP 3: TeamMatch ===", "module_team_match", "01ac_TeamMatch.py"),
         ("=== STEP 4: PlayerSeason ===", "module_player_season", "01ac_PlayerSeason.py"),
         ("=== STEP 5: PlayerMatch ===", "module_player_match", "01ac_PlayerMatch.py"),
+        ("=== STEP 6: Lineups ===", "module_lineups", "01ac_Lineups.py"),
     ]
 
     for title, module_name, filename in steps:
