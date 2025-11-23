@@ -22,6 +22,7 @@ fbref:
 
   # enable/disable blocks
   enable_league_init: true
+  enable_lineups: true
   enable_player_match: false
   enable_player_season: false
   enable_team_match: true
