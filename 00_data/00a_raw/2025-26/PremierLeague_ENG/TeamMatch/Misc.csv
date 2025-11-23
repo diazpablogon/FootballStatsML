@@ -1,0 +1,221 @@
+date,round,day,venue,result,GF,GA,opponent,Performance_CrdY,Performance_CrdR,Performance_2CrdY,Performance_Fls,Performance_Fld,Performance_Off,Performance_Crs,Performance_Int,Performance_TklW,Performance_PKwon,Performance_PKcon,Performance_OG,Performance_Recov,Aerial Duels_Won,Aerial Duels_Lost,Aerial Duels_Won%,time,match_report
+2025-08-17,Matchweek 1,Sun,Home,L,0,1,Manchester Utd,1,0,0,10,19,1,15,4,11,0,0,0,39,20,16,55.6,16:30:00,/en/matches/643d26fd/Manchester-United-Arsenal-August-17-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Away,L,0,5,Leeds United,2,0,0,11,8,0,5,6,12,0,1,0,30,4,12,25.0,17:30:00,/en/matches/e8724659/Arsenal-Leeds-United-August-23-2025-Premier-League
+2025-08-31,Matchweek 3,Sun,Home,W,1,0,Liverpool,2,0,0,7,10,1,7,7,9,0,0,0,38,10,8,55.6,16:30:00,/en/matches/b0005978/Liverpool-Arsenal-August-31-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Away,L,0,3,Nott'ham Forest,1,0,0,11,7,0,13,11,8,0,0,0,32,8,9,47.1,12:30:00,/en/matches/4fe3e679/Arsenal-Nottingham-Forest-September-13-2025-Premier-League
+2025-09-21,Matchweek 5,Sun,Away,D,1,1,Manchester City,2,0,0,10,11,2,4,5,9,0,0,0,44,17,15,53.1,16:30:00,/en/matches/2045939c/Arsenal-Manchester-City-September-21-2025-Premier-League
+2025-09-28,Matchweek 6,Sun,Home,L,1,2,Newcastle Utd,2,0,0,8,8,1,15,8,8,0,0,0,30,26,22,54.2,16:30:00,/en/matches/e851cb5c/Newcastle-United-Arsenal-September-28-2025-Premier-League
+2025-10-04,Matchweek 7,Sat,Away,L,0,2,West Ham,2,0,0,14,13,1,11,12,7,0,1,0,27,12,12,50.0,15:00:00,/en/matches/266bddc6/Arsenal-West-Ham-United-October-4-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Home,L,0,1,Fulham,0,0,0,11,4,0,18,7,13,0,0,0,33,8,22,26.7,17:30:00,/en/matches/94eefc1d/Fulham-Arsenal-October-18-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Away,L,0,1,Crystal Palace,0,0,0,11,6,1,10,12,9,0,0,0,39,16,21,43.2,14:00:00,/en/matches/8e08b6c9/Arsenal-Crystal-Palace-October-26-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Home,L,0,2,Burnley,2,0,0,10,13,0,13,7,9,0,0,0,29,16,16,50.0,15:00:00,/en/matches/2e2f2939/Burnley-Arsenal-November-1-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Home,D,2,2,Sunderland,2,0,0,13,13,2,11,6,8,0,0,0,20,19,27,41.3,17:30:00,/en/matches/34884979/Sunderland-Arsenal-November-8-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Away,D,0,0,Newcastle Utd,1,0,0,11,13,1,26,12,8,0,0,0,50,18,9,66.7,12:30:00,/en/matches/bbdf4739/Aston-Villa-Newcastle-United-August-16-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Home,W,1,0,Brentford,1,0,0,11,9,1,11,11,15,0,0,0,47,17,19,47.2,15:00:00,/en/matches/860c7af2/Brentford-Aston-Villa-August-23-2025-Premier-League
+2025-08-31,Matchweek 3,Sun,Away,W,3,0,Crystal Palace,3,0,0,14,7,2,11,10,16,1,0,0,40,9,6,60.0,19:00:00,/en/matches/cd51ed93/Aston-Villa-Crystal-Palace-August-31-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Home,D,0,0,Everton,3,0,0,17,15,2,22,5,16,0,0,0,40,20,17,54.1,15:00:00,/en/matches/a624dc89/Everton-Aston-Villa-September-13-2025-Premier-League
+2025-09-21,Matchweek 5,Sun,Home,D,1,1,Sunderland,2,1,0,14,8,0,12,8,13,0,0,0,25,14,16,46.7,14:00:00,/en/matches/4e615d10/Sunderland-Aston-Villa-September-21-2025-Premier-League
+2025-09-28,Matchweek 6,Sun,Away,L,1,3,Fulham,4,0,0,13,10,4,30,9,7,0,0,0,43,9,12,42.9,14:00:00,/en/matches/7345f259/Aston-Villa-Fulham-September-28-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Away,L,1,2,Burnley,1,0,0,15,9,5,7,13,11,0,0,0,43,6,20,23.1,14:00:00,/en/matches/db870461/Aston-Villa-Burnley-October-5-2025-Premier-League
+2025-10-19,Matchweek 8,Sun,Home,L,1,2,Tottenham,2,0,0,11,7,6,22,6,15,0,0,0,41,11,13,45.8,14:00:00,/en/matches/810c0cb9/Tottenham-Hotspur-Aston-Villa-October-19-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Away,L,0,1,Manchester City,4,0,0,16,8,3,21,11,8,0,0,0,40,13,3,81.3,14:00:00,/en/matches/2324c097/Aston-Villa-Manchester-City-October-26-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Home,W,2,0,Liverpool,2,0,0,13,11,8,11,6,8,0,0,0,32,10,6,62.5,20:00:00,/en/matches/c15115cb/Liverpool-Aston-Villa-November-1-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Away,L,0,4,Bournemouth,2,0,0,20,7,2,21,11,9,0,0,0,38,11,8,57.9,14:00:00,/en/matches/b333094b/Aston-Villa-Bournemouth-November-9-2025-Premier-League
+2025-08-15,Matchweek 1,Fri,Home,W,4,2,Liverpool,1,0,0,7,10,2,17,4,13,0,0,0,46,29,18,61.7,20:00:00,/en/matches/a071faa8/Liverpool-Bournemouth-August-15-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Away,L,0,1,Wolves,4,1,0,16,13,2,17,9,14,0,0,0,27,25,7,78.1,15:00:00,/en/matches/a515fb3a/Bournemouth-Wolverhampton-Wanderers-August-23-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Home,L,0,1,Tottenham,2,0,0,17,13,2,20,4,8,0,0,0,45,17,16,51.5,15:00:00,/en/matches/0e30cf4b/Tottenham-Hotspur-Bournemouth-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Away,L,1,2,Brighton,4,0,0,10,16,0,17,6,16,0,1,0,44,9,17,34.6,15:00:00,/en/matches/8398bbef/Bournemouth-Brighton-and-Hove-Albion-September-13-2025-Premier-League
+2025-09-21,Matchweek 5,Sun,Away,D,0,0,Newcastle Utd,1,0,0,10,7,2,16,8,11,0,0,0,46,16,18,47.1,14:00:00,/en/matches/f55b1b65/Bournemouth-Newcastle-United-September-21-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Home,D,2,2,Leeds United,2,0,0,12,13,0,16,9,16,0,0,0,33,17,18,48.6,15:00:00,/en/matches/d2fc69e6/Leeds-United-Bournemouth-September-27-2025-Premier-League
+2025-10-03,Matchweek 7,Fri,Away,L,1,3,Fulham,1,0,0,10,7,2,17,7,9,0,0,0,50,6,11,35.3,20:00:00,/en/matches/200f4acc/Bournemouth-Fulham-October-3-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Home,D,3,3,Crystal Palace,1,0,0,8,14,3,19,6,14,1,0,0,44,32,22,59.3,15:00:00,/en/matches/7a0ab06b/Crystal-Palace-Bournemouth-October-18-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Away,L,0,2,Nott'ham Forest,1,0,0,7,17,0,13,9,10,0,0,0,43,20,17,54.1,14:00:00,/en/matches/0676a57a/Bournemouth-Nottingham-Forest-October-26-2025-Premier-League
+2025-11-02,Matchweek 10,Sun,Home,W,3,1,Manchester City,2,0,0,8,11,0,16,9,7,0,0,0,35,8,7,53.3,16:30:00,/en/matches/cc77588b/Manchester-City-Bournemouth-November-2-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Home,W,4,0,Aston Villa,2,0,0,8,19,0,16,6,12,0,1,0,31,8,11,42.1,14:00:00,/en/matches/b333094b/Aston-Villa-Bournemouth-November-9-2025-Premier-League
+2025-08-17,Matchweek 1,Sun,Home,W,3,1,Nott'ham Forest,1,0,0,7,15,2,24,9,7,0,1,0,43,17,16,51.5,14:00:00,/en/matches/855f8b5e/Nottingham-Forest-Brentford-August-17-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Away,L,0,1,Aston Villa,2,0,0,9,11,0,27,6,12,0,0,0,40,19,17,52.8,15:00:00,/en/matches/860c7af2/Brentford-Aston-Villa-August-23-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Home,W,2,1,Sunderland,3,0,0,11,10,0,18,7,14,1,1,0,28,23,22,51.1,15:00:00,/en/matches/f03152d1/Sunderland-Brentford-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Away,D,2,2,Chelsea,2,0,0,9,13,4,17,13,9,0,0,0,34,14,7,66.7,20:00:00,/en/matches/d8104c65/Brentford-Chelsea-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Home,W,3,1,Fulham,4,0,0,11,13,2,13,6,9,0,0,0,37,14,9,60.9,20:00:00,/en/matches/295b388b/Fulham-Brentford-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Away,L,1,3,Manchester Utd,2,0,0,10,14,1,14,4,9,1,0,0,38,19,22,46.3,12:30:00,/en/matches/f96a49ea/Brentford-Manchester-United-September-27-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Away,W,1,0,Manchester City,2,0,0,6,10,1,9,6,10,0,0,0,41,17,8,68.0,16:30:00,/en/matches/8c0ee359/Brentford-Manchester-City-October-5-2025-Premier-League
+2025-10-20,Matchweek 8,Mon,Home,L,0,2,West Ham,1,0,0,10,10,3,20,2,12,0,0,0,35,15,35,30.0,20:00:00,/en/matches/3322a47b/West-Ham-United-Brentford-October-20-2025-Premier-League
+2025-10-25,Matchweek 9,Sat,Away,L,2,3,Liverpool,2,0,0,10,7,0,21,4,12,0,1,0,44,26,27,49.1,20:00:00,/en/matches/26e5ca72/Brentford-Liverpool-October-25-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Home,W,2,0,Crystal Palace,0,0,0,7,11,1,17,12,7,0,0,0,41,16,25,39.0,15:00:00,/en/matches/96c4864b/Crystal-Palace-Brentford-November-1-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Away,L,1,3,Newcastle Utd,3,1,1,13,9,0,15,5,7,0,1,0,42,13,17,43.3,14:00:00,/en/matches/7398b723/Brentford-Newcastle-United-November-9-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Away,D,1,1,Fulham,3,0,0,15,16,2,14,2,8,0,1,0,28,8,13,38.1,15:00:00,/en/matches/57c49bae/Brighton-and-Hove-Albion-Fulham-August-16-2025-Premier-League
+2025-08-24,Matchweek 2,Sun,Home,W,2,0,Everton,4,0,0,7,15,0,12,8,8,0,1,0,34,31,16,66.0,14:00:00,/en/matches/0bad74e2/Everton-Brighton-and-Hove-Albion-August-24-2025-Premier-League
+2025-08-31,Matchweek 3,Sun,Away,L,1,2,Manchester City,2,0,0,14,15,0,5,9,7,0,1,0,41,14,9,60.9,14:00:00,/en/matches/810d81e7/Brighton-and-Hove-Albion-Manchester-City-August-31-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Home,W,2,1,Bournemouth,4,0,0,16,10,1,19,3,14,1,0,0,46,17,9,65.4,15:00:00,/en/matches/8398bbef/Bournemouth-Brighton-and-Hove-Albion-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Away,D,2,2,Tottenham,2,0,0,13,10,1,32,9,10,0,0,0,53,12,13,48.0,15:00:00,/en/matches/fa03feeb/Brighton-and-Hove-Albion-Tottenham-Hotspur-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Home,L,1,3,Chelsea,3,1,0,9,16,2,14,10,11,0,0,0,25,7,11,38.9,15:00:00,/en/matches/b3a3df9a/Chelsea-Brighton-and-Hove-Albion-September-27-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Home,D,1,1,Wolves,2,0,0,13,9,1,15,9,14,0,0,0,45,15,12,55.6,14:00:00,/en/matches/1314f9fd/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-October-5-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Away,L,1,2,Newcastle Utd,1,0,0,9,9,1,24,7,13,0,0,0,37,13,16,44.8,15:00:00,/en/matches/7c25388b/Brighton-and-Hove-Albion-Newcastle-United-October-18-2025-Premier-League
+2025-10-25,Matchweek 9,Sat,Home,W,4,2,Manchester Utd,2,0,0,4,12,2,9,14,13,0,0,0,53,15,18,45.5,17:30:00,/en/matches/a190da2c/Manchester-United-Brighton-and-Hove-Albion-October-25-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Away,L,0,3,Leeds United,1,0,0,7,10,1,19,6,8,0,0,0,32,10,9,52.6,15:00:00,/en/matches/40e608f4/Brighton-and-Hove-Albion-Leeds-United-November-1-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Home,D,0,0,Crystal Palace,1,0,0,10,11,2,11,14,14,0,0,0,39,21,20,51.2,14:00:00,/en/matches/d6740601/Crystal-Palace-Brighton-and-Hove-Albion-November-9-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Home,W,3,0,Tottenham,0,0,0,14,7,0,27,1,9,0,0,0,31,17,18,48.6,15:00:00,/en/matches/d41bb8b3/Tottenham-Hotspur-Burnley-August-16-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Away,L,0,2,Sunderland,1,0,0,5,9,2,24,7,8,0,0,0,38,19,15,55.9,15:00:00,/en/matches/4e287736/Burnley-Sunderland-August-23-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Home,W,3,2,Manchester Utd,1,0,0,9,8,1,26,3,9,1,0,0,48,21,21,50.0,15:00:00,/en/matches/0050df89/Manchester-United-Burnley-August-30-2025-Premier-League
+2025-09-14,Matchweek 4,Sun,Away,W,1,0,Liverpool,2,0,0,9,8,1,44,7,7,0,0,0,28,27,16,62.8,14:00:00,/en/matches/fed27aaa/Burnley-Liverpool-September-14-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Away,D,1,1,Nott'ham Forest,1,0,0,11,12,2,30,7,6,0,0,0,42,9,13,40.9,15:00:00,/en/matches/e523c1cd/Burnley-Nottingham-Forest-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Home,W,5,1,Manchester City,1,0,0,5,7,1,23,4,6,0,0,0,33,10,14,41.7,15:00:00,/en/matches/53db8cb5/Manchester-City-Burnley-September-27-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Home,W,2,1,Aston Villa,3,0,0,9,15,3,11,5,10,0,0,0,42,20,6,76.9,14:00:00,/en/matches/db870461/Aston-Villa-Burnley-October-5-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Away,L,0,2,Leeds United,1,0,0,7,10,0,47,12,6,0,0,0,33,25,17,59.5,15:00:00,/en/matches/a31356f3/Burnley-Leeds-United-October-18-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Home,L,2,3,Wolves,1,0,0,12,7,2,44,9,6,1,0,0,42,21,18,53.8,14:00:00,/en/matches/28244556/Wolverhampton-Wanderers-Burnley-October-26-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Away,W,2,0,Arsenal,1,0,0,13,10,1,14,6,7,0,0,0,39,16,16,50.0,15:00:00,/en/matches/2e2f2939/Burnley-Arsenal-November-1-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Home,W,3,2,West Ham,2,0,0,15,12,2,18,13,10,0,0,0,39,9,21,30.0,15:00:00,/en/matches/9a904d13/West-Ham-United-Burnley-November-8-2025-Premier-League
+2025-08-17,Matchweek 1,Sun,Away,D,0,0,Crystal Palace,3,0,0,12,10,0,11,7,13,0,0,0,32,16,17,48.5,14:00:00,/en/matches/2185fc64/Chelsea-Crystal-Palace-August-17-2025-Premier-League
+2025-08-22,Matchweek 2,Fri,Home,L,1,5,West Ham,0,0,0,7,9,4,16,7,6,0,0,0,30,14,15,48.3,20:00:00,/en/matches/57b35843/West-Ham-United-Chelsea-August-22-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Away,L,0,2,Fulham,2,0,0,17,11,1,15,6,12,0,1,0,36,13,17,43.3,12:30:00,/en/matches/2dbd7fbd/Chelsea-Fulham-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Home,D,2,2,Brentford,3,0,0,13,9,0,18,6,10,0,0,0,30,7,14,33.3,20:00:00,/en/matches/d8104c65/Brentford-Chelsea-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Home,W,2,1,Manchester Utd,2,1,1,13,14,3,26,10,16,0,0,0,45,11,16,40.7,17:30:00,/en/matches/a562da13/Manchester-United-Chelsea-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Away,W,3,1,Brighton,5,0,0,16,9,2,13,12,13,0,0,0,37,11,7,61.1,15:00:00,/en/matches/b3a3df9a/Chelsea-Brighton-and-Hove-Albion-September-27-2025-Premier-League
+2025-10-04,Matchweek 7,Sat,Away,L,1,2,Liverpool,2,0,0,8,8,2,11,9,12,0,0,0,40,6,6,50.0,17:30:00,/en/matches/780d534e/Chelsea-Liverpool-October-4-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Home,L,0,3,Nott'ham Forest,2,0,0,13,15,1,23,9,10,0,0,0,36,5,13,27.8,12:30:00,/en/matches/b3ac7e40/Nottingham-Forest-Chelsea-October-18-2025-Premier-League
+2025-10-25,Matchweek 9,Sat,Away,W,2,1,Sunderland,1,0,0,13,15,2,9,8,8,0,0,0,32,15,10,60.0,15:00:00,/en/matches/cfda878f/Chelsea-Sunderland-October-25-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Home,L,0,1,Tottenham,4,0,0,14,11,1,16,4,19,0,0,0,50,19,22,46.3,17:30:00,/en/matches/cb498e0b/Tottenham-Hotspur-Chelsea-November-1-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Away,L,0,3,Wolves,2,0,0,14,12,0,9,12,3,0,0,0,32,9,7,56.3,20:00:00,/en/matches/098d4b9c/Chelsea-Wolverhampton-Wanderers-November-8-2025-Premier-League
+2025-08-17,Matchweek 1,Sun,Home,D,0,0,Chelsea,2,0,0,10,10,0,29,11,6,0,0,0,34,17,16,51.5,14:00:00,/en/matches/2185fc64/Chelsea-Crystal-Palace-August-17-2025-Premier-League
+2025-08-24,Matchweek 2,Sun,Away,D,1,1,Nott'ham Forest,3,0,0,11,10,2,26,10,7,0,0,0,43,17,15,53.1,14:00:00,/en/matches/a3984be1/Crystal-Palace-Nottingham-Forest-August-24-2025-Premier-League
+2025-08-31,Matchweek 3,Sun,Home,L,0,3,Aston Villa,2,0,0,7,13,0,31,6,5,0,1,0,38,6,9,40.0,19:00:00,/en/matches/cd51ed93/Aston-Villa-Crystal-Palace-August-31-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Away,D,0,0,Sunderland,1,0,0,8,9,2,17,10,9,0,0,0,37,20,14,58.8,15:00:00,/en/matches/e3cade07/Crystal-Palace-Sunderland-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Home,L,1,2,West Ham,3,0,0,15,5,1,22,7,6,0,0,0,36,18,28,39.1,15:00:00,/en/matches/15b707b3/West-Ham-United-Crystal-Palace-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Away,L,1,2,Liverpool,3,0,0,8,10,1,26,10,5,0,0,0,46,22,11,66.7,15:00:00,/en/matches/8a5edb7f/Crystal-Palace-Liverpool-September-27-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Home,W,2,1,Everton,2,0,0,13,13,0,19,11,10,1,0,0,43,24,27,47.1,14:00:00,/en/matches/88e53add/Everton-Crystal-Palace-October-5-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Away,D,3,3,Bournemouth,4,0,0,16,7,3,12,12,7,0,1,0,34,22,32,40.7,15:00:00,/en/matches/7a0ab06b/Crystal-Palace-Bournemouth-October-18-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Home,W,1,0,Arsenal,0,0,0,6,10,2,10,6,7,0,0,0,37,21,16,56.8,14:00:00,/en/matches/8e08b6c9/Arsenal-Crystal-Palace-October-26-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Away,L,0,2,Brentford,3,0,0,11,6,3,17,4,11,0,0,1,49,25,16,61.0,15:00:00,/en/matches/96c4864b/Crystal-Palace-Brentford-November-1-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Away,D,0,0,Brighton,4,0,0,12,9,1,26,4,11,0,0,0,47,20,21,48.8,14:00:00,/en/matches/d6740601/Crystal-Palace-Brighton-and-Hove-Albion-November-9-2025-Premier-League
+2025-08-18,Matchweek 1,Mon,Home,W,1,0,Leeds United,0,0,0,6,7,1,26,9,7,0,0,0,35,17,19,47.2,20:00:00,/en/matches/0701e218/Leeds-United-Everton-August-18-2025-Premier-League
+2025-08-24,Matchweek 2,Sun,Away,L,0,2,Brighton,3,0,0,15,6,6,11,5,8,0,0,0,38,16,31,34.0,14:00:00,/en/matches/0bad74e2/Everton-Brighton-and-Hove-Albion-August-24-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Home,L,2,3,Wolves,0,0,0,15,9,2,16,10,13,0,0,0,49,12,24,33.3,15:00:00,/en/matches/3c399f5e/Wolverhampton-Wanderers-Everton-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Away,D,0,0,Aston Villa,3,0,0,15,16,2,10,4,11,0,0,0,36,17,20,45.9,15:00:00,/en/matches/a624dc89/Everton-Aston-Villa-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Home,W,2,1,Liverpool,2,0,0,11,10,1,12,12,7,0,0,0,39,19,15,55.9,12:30:00,/en/matches/5da72d0e/Merseyside-Derby-Liverpool-Everton-September-20-2025-Premier-League
+2025-09-29,Matchweek 6,Mon,Away,D,1,1,West Ham,4,0,0,16,7,2,18,6,7,0,0,0,40,23,21,52.3,20:00:00,/en/matches/1163f46d/Everton-West-Ham-United-September-29-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Away,L,1,2,Crystal Palace,3,0,0,16,13,1,14,14,15,0,1,0,39,27,24,52.9,14:00:00,/en/matches/88e53add/Everton-Crystal-Palace-October-5-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Home,W,2,0,Manchester City,0,0,0,8,13,0,18,5,9,0,0,0,35,17,18,48.6,15:00:00,/en/matches/1340e41a/Manchester-City-Everton-October-18-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Away,W,3,0,Tottenham,0,0,0,8,8,2,15,6,11,0,0,0,40,11,19,36.7,16:30:00,/en/matches/4234aaa9/Everton-Tottenham-Hotspur-October-26-2025-Premier-League
+2025-11-03,Matchweek 10,Mon,Home,D,1,1,Sunderland,3,0,0,10,12,2,21,5,10,0,0,0,47,19,20,48.7,20:00:00,/en/matches/bb37daa2/Sunderland-Everton-November-3-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Away,L,0,2,Fulham,2,0,0,14,11,1,14,13,12,0,0,0,32,12,16,42.9,15:00:00,/en/matches/0e46b968/Everton-Fulham-November-8-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Home,D,1,1,Brighton,3,0,0,16,15,3,11,9,9,1,0,0,37,13,8,61.9,15:00:00,/en/matches/57c49bae/Brighton-and-Hove-Albion-Fulham-August-16-2025-Premier-League
+2025-08-24,Matchweek 2,Sun,Away,D,1,1,Manchester Utd,1,0,0,10,11,1,14,5,11,1,0,0,25,23,20,53.5,16:30:00,/en/matches/fc45a8b2/Fulham-Manchester-United-August-24-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Home,W,2,0,Chelsea,2,0,0,11,16,3,13,18,9,0,0,0,43,17,13,56.7,12:30:00,/en/matches/2dbd7fbd/Chelsea-Fulham-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Away,L,0,1,Leeds United,2,0,0,15,20,3,13,7,11,0,0,1,38,18,14,56.3,15:00:00,/en/matches/ab8543fb/Fulham-Leeds-United-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Away,L,1,3,Brentford,1,0,0,13,10,2,21,5,6,0,0,1,34,9,14,39.1,20:00:00,/en/matches/295b388b/Fulham-Brentford-September-20-2025-Premier-League
+2025-09-28,Matchweek 6,Sun,Home,W,3,1,Aston Villa,1,0,0,10,11,2,10,7,4,0,0,0,38,12,9,57.1,14:00:00,/en/matches/7345f259/Aston-Villa-Fulham-September-28-2025-Premier-League
+2025-10-03,Matchweek 7,Fri,Home,W,3,1,Bournemouth,0,0,0,8,9,2,25,8,7,0,0,0,53,11,6,64.7,20:00:00,/en/matches/200f4acc/Bournemouth-Fulham-October-3-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Away,W,1,0,Arsenal,0,0,0,4,11,2,24,1,5,0,0,0,45,22,8,73.3,17:30:00,/en/matches/94eefc1d/Fulham-Arsenal-October-18-2025-Premier-League
+2025-10-25,Matchweek 9,Sat,Home,W,2,1,Newcastle Utd,0,0,0,11,18,0,19,7,9,0,0,0,46,14,11,56.0,15:00:00,/en/matches/0f6b6849/Newcastle-United-Fulham-October-25-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Away,L,0,3,Wolves,3,1,0,14,13,0,16,10,12,0,0,1,32,14,14,50.0,15:00:00,/en/matches/03f6bccd/Fulham-Wolverhampton-Wanderers-November-1-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Home,W,2,0,Everton,2,0,0,11,13,5,22,4,10,0,0,0,36,16,12,57.1,15:00:00,/en/matches/0e46b968/Everton-Fulham-November-8-2025-Premier-League
+2025-08-18,Matchweek 1,Mon,Away,L,0,1,Everton,2,0,0,8,6,2,11,2,12,0,1,0,31,19,17,52.8,20:00:00,/en/matches/0701e218/Leeds-United-Everton-August-18-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Home,W,5,0,Arsenal,0,0,0,8,11,0,19,5,8,1,0,0,36,12,4,75.0,17:30:00,/en/matches/e8724659/Arsenal-Leeds-United-August-23-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Away,D,0,0,Newcastle Utd,1,0,0,15,10,0,21,8,4,0,0,0,44,12,7,63.2,17:30:00,/en/matches/bc110e0b/Leeds-United-Newcastle-United-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Home,W,1,0,Fulham,1,0,0,20,15,1,22,6,16,0,0,0,37,14,18,43.8,15:00:00,/en/matches/ab8543fb/Fulham-Leeds-United-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Home,L,1,3,Wolves,1,0,0,11,9,0,35,3,14,0,0,0,51,29,18,61.7,15:00:00,/en/matches/45650a33/Wolverhampton-Wanderers-Leeds-United-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Away,D,2,2,Bournemouth,2,0,0,13,11,2,21,7,11,0,0,0,44,18,17,51.4,15:00:00,/en/matches/d2fc69e6/Leeds-United-Bournemouth-September-27-2025-Premier-League
+2025-10-04,Matchweek 7,Sat,Away,W,2,1,Tottenham,3,0,0,12,10,2,10,6,10,0,0,0,38,9,14,39.1,12:30:00,/en/matches/3e588df8/Leeds-United-Tottenham-Hotspur-October-4-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Home,W,2,0,Burnley,2,0,0,10,7,1,7,17,8,0,0,0,30,17,25,40.5,15:00:00,/en/matches/a31356f3/Burnley-Leeds-United-October-18-2025-Premier-League
+2025-10-24,Matchweek 9,Fri,Away,L,1,2,West Ham,3,0,0,11,12,1,23,4,6,0,0,0,46,26,15,63.4,20:00:00,/en/matches/236e3e4c/Leeds-United-West-Ham-United-October-24-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Home,W,3,0,Brighton,0,0,0,10,7,3,10,3,15,0,0,0,35,9,10,47.4,15:00:00,/en/matches/40e608f4/Brighton-and-Hove-Albion-Leeds-United-November-1-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Home,W,3,1,Nott'ham Forest,2,0,0,10,11,2,26,6,17,1,0,0,45,13,19,40.6,14:00:00,/en/matches/c2217a56/Nottingham-Forest-Leeds-United-November-9-2025-Premier-League
+2025-08-15,Matchweek 1,Fri,Away,L,2,4,Bournemouth,2,0,0,10,6,2,20,11,12,0,0,0,46,18,29,38.3,20:00:00,/en/matches/a071faa8/Liverpool-Bournemouth-August-15-2025-Premier-League
+2025-08-25,Matchweek 2,Mon,Home,L,2,3,Newcastle Utd,2,1,0,17,15,0,26,8,5,0,0,0,36,16,17,48.5,20:00:00,/en/matches/2c75d21a/Newcastle-United-Liverpool-August-25-2025-Premier-League
+2025-08-31,Matchweek 3,Sun,Away,L,0,1,Arsenal,2,0,0,10,7,0,17,9,6,0,0,0,34,8,10,44.4,16:30:00,/en/matches/b0005978/Liverpool-Arsenal-August-31-2025-Premier-League
+2025-09-14,Matchweek 4,Sun,Home,L,0,1,Burnley,2,1,1,9,7,3,3,17,11,0,1,0,20,16,27,37.2,14:00:00,/en/matches/fed27aaa/Burnley-Liverpool-September-14-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Away,L,1,2,Everton,3,0,0,10,11,1,20,10,13,0,0,0,44,15,19,44.1,12:30:00,/en/matches/5da72d0e/Merseyside-Derby-Liverpool-Everton-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Home,W,2,1,Crystal Palace,1,0,0,10,7,2,8,9,16,0,0,0,32,11,22,33.3,15:00:00,/en/matches/8a5edb7f/Crystal-Palace-Liverpool-September-27-2025-Premier-League
+2025-10-04,Matchweek 7,Sat,Home,W,2,1,Chelsea,0,0,0,9,8,2,20,13,12,0,0,0,44,6,6,50.0,17:30:00,/en/matches/780d534e/Chelsea-Liverpool-October-4-2025-Premier-League
+2025-10-19,Matchweek 8,Sun,Away,W,2,1,Manchester Utd,2,0,0,14,8,1,12,6,9,0,0,0,30,18,21,46.2,16:30:00,/en/matches/cbec79a5/North-West-Derby-Liverpool-Manchester-United-October-19-2025-Premier-League
+2025-10-25,Matchweek 9,Sat,Home,W,3,2,Brentford,3,0,0,7,10,2,19,14,9,1,0,0,48,27,26,50.9,20:00:00,/en/matches/26e5ca72/Brentford-Liverpool-October-25-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Away,L,0,2,Aston Villa,3,0,0,11,13,0,18,6,7,0,0,0,25,6,10,37.5,20:00:00,/en/matches/c15115cb/Liverpool-Aston-Villa-November-1-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Home,W,3,0,Manchester City,2,0,0,14,15,1,11,9,12,1,0,0,33,8,5,61.5,16:30:00,/en/matches/a126a64c/Manchester-City-Liverpool-November-9-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Home,L,0,4,Wolves,1,0,0,13,7,4,20,6,17,0,0,0,35,5,10,33.3,17:30:00,/en/matches/8613020d/Wolverhampton-Wanderers-Manchester-City-August-16-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Away,W,2,0,Tottenham,4,0,0,12,7,1,11,7,16,0,0,0,46,8,12,40.0,12:30:00,/en/matches/f7e2c9c7/Manchester-City-Tottenham-Hotspur-August-23-2025-Premier-League
+2025-08-31,Matchweek 3,Sun,Home,W,2,1,Brighton,2,0,0,16,13,1,8,8,13,0,0,0,43,9,14,39.1,14:00:00,/en/matches/810d81e7/Brighton-and-Hove-Albion-Manchester-City-August-31-2025-Premier-League
+2025-09-14,Matchweek 4,Sun,Away,L,0,3,Manchester Utd,0,0,0,8,8,3,23,13,15,0,0,0,44,11,18,37.9,16:30:00,/en/matches/f2b1061a/Manchester-Derby-Manchester-City-Manchester-United-September-14-2025-Premier-League
+2025-09-21,Matchweek 5,Sun,Home,D,1,1,Arsenal,1,0,0,11,10,4,32,5,13,0,0,0,47,15,17,46.9,16:30:00,/en/matches/2045939c/Arsenal-Manchester-City-September-21-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Away,L,1,5,Burnley,3,0,0,7,5,1,7,10,9,0,0,2,30,14,10,58.3,15:00:00,/en/matches/53db8cb5/Manchester-City-Burnley-September-27-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Home,L,0,1,Brentford,3,0,0,10,5,1,14,11,10,0,0,0,33,8,17,32.0,16:30:00,/en/matches/8c0ee359/Brentford-Manchester-City-October-5-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Away,L,0,2,Everton,2,0,0,14,8,1,10,7,11,0,0,0,37,18,17,51.4,15:00:00,/en/matches/1340e41a/Manchester-City-Everton-October-18-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Home,W,1,0,Aston Villa,1,0,0,8,15,1,12,7,11,0,0,0,29,3,13,18.8,14:00:00,/en/matches/2324c097/Aston-Villa-Manchester-City-October-26-2025-Premier-League
+2025-11-02,Matchweek 10,Sun,Away,L,1,3,Bournemouth,2,0,0,11,8,3,20,5,10,0,0,0,42,7,8,46.7,16:30:00,/en/matches/cc77588b/Manchester-City-Bournemouth-November-2-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Away,L,0,3,Liverpool,4,0,0,15,14,7,18,9,7,0,1,0,32,5,8,38.5,16:30:00,/en/matches/a126a64c/Manchester-City-Liverpool-November-9-2025-Premier-League
+2025-08-17,Matchweek 1,Sun,Away,W,1,0,Arsenal,4,0,0,19,10,2,11,4,10,0,0,0,39,16,20,44.4,16:30:00,/en/matches/643d26fd/Manchester-United-Arsenal-August-17-2025-Premier-League
+2025-08-24,Matchweek 2,Sun,Home,D,1,1,Fulham,1,0,0,12,9,2,33,8,8,0,1,1,31,20,23,46.5,16:30:00,/en/matches/fc45a8b2/Fulham-Manchester-United-August-24-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Away,L,2,3,Burnley,5,0,0,9,9,1,9,9,14,0,1,1,34,21,21,50.0,15:00:00,/en/matches/0050df89/Manchester-United-Burnley-August-30-2025-Premier-League
+2025-09-14,Matchweek 4,Sun,Home,W,3,0,Manchester City,0,0,0,8,7,2,2,10,7,0,0,0,44,18,11,62.1,16:30:00,/en/matches/f2b1061a/Manchester-Derby-Manchester-City-Manchester-United-September-14-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Away,L,1,2,Chelsea,5,1,0,14,13,2,15,8,13,0,0,0,40,16,11,59.3,17:30:00,/en/matches/a562da13/Manchester-United-Chelsea-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Home,W,3,1,Brentford,2,0,0,14,10,2,14,7,8,0,1,0,36,22,19,53.7,12:30:00,/en/matches/f96a49ea/Brentford-Manchester-United-September-27-2025-Premier-League
+2025-10-04,Matchweek 7,Sat,Away,L,0,2,Sunderland,4,0,0,12,9,2,20,10,9,0,0,0,37,20,14,58.8,15:00:00,/en/matches/e33ea33d/Manchester-United-Sunderland-October-4-2025-Premier-League
+2025-10-19,Matchweek 8,Sun,Home,L,1,2,Liverpool,0,0,0,8,13,1,48,5,7,0,0,0,29,21,18,53.8,16:30:00,/en/matches/cbec79a5/North-West-Derby-Liverpool-Manchester-United-October-19-2025-Premier-League
+2025-10-25,Matchweek 9,Sat,Away,L,2,4,Brighton,2,0,0,13,4,2,17,12,12,0,0,0,60,18,15,54.5,17:30:00,/en/matches/a190da2c/Manchester-United-Brighton-and-Hove-Albion-October-25-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Home,D,2,2,Nott'ham Forest,1,0,0,10,6,2,25,11,10,0,0,0,45,17,29,37.0,15:00:00,/en/matches/6f99be65/Nottingham-Forest-Manchester-United-November-1-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Home,D,2,2,Tottenham,5,0,0,10,8,2,29,7,15,0,0,0,51,13,18,41.9,12:30:00,/en/matches/ad74e791/Tottenham-Hotspur-Manchester-United-November-8-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Home,D,0,0,Aston Villa,1,1,0,13,11,2,11,10,5,0,0,0,40,9,18,33.3,12:30:00,/en/matches/bbdf4739/Aston-Villa-Newcastle-United-August-16-2025-Premier-League
+2025-08-25,Matchweek 2,Mon,Away,W,3,2,Liverpool,3,0,0,15,16,0,9,2,8,0,0,0,31,17,16,51.5,20:00:00,/en/matches/2c75d21a/Newcastle-United-Liverpool-August-25-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Home,D,0,0,Leeds United,1,0,0,10,15,1,17,13,14,0,0,0,42,7,12,36.8,17:30:00,/en/matches/bc110e0b/Leeds-United-Newcastle-United-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Away,L,0,1,Wolves,4,0,0,17,9,0,15,14,8,0,0,0,43,13,21,38.2,15:00:00,/en/matches/55fbbbe6/Newcastle-United-Wolverhampton-Wanderers-September-13-2025-Premier-League
+2025-09-21,Matchweek 5,Sun,Home,D,0,0,Bournemouth,2,0,0,7,8,3,21,16,8,0,0,0,55,18,16,52.9,14:00:00,/en/matches/f55b1b65/Bournemouth-Newcastle-United-September-21-2025-Premier-League
+2025-09-28,Matchweek 6,Sun,Away,W,2,1,Arsenal,1,0,0,9,8,0,23,10,6,0,0,0,40,22,26,45.8,16:30:00,/en/matches/e851cb5c/Newcastle-United-Arsenal-September-28-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Away,L,0,2,Nott'ham Forest,4,0,0,15,16,2,14,9,8,0,1,0,48,12,12,50.0,14:00:00,/en/matches/e33f1657/Newcastle-United-Nottingham-Forest-October-5-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Home,W,2,1,Brighton,0,0,0,9,9,3,18,5,14,0,0,0,40,16,13,55.2,15:00:00,/en/matches/7c25388b/Brighton-and-Hove-Albion-Newcastle-United-October-18-2025-Premier-League
+2025-10-25,Matchweek 9,Sat,Away,L,1,2,Fulham,2,0,0,18,11,1,13,9,11,0,0,0,43,11,14,44.0,15:00:00,/en/matches/0f6b6849/Newcastle-United-Fulham-October-25-2025-Premier-League
+2025-11-02,Matchweek 10,Sun,Home,W,3,1,West Ham,1,0,0,5,8,4,21,7,13,0,0,0,37,5,11,31.3,14:00:00,/en/matches/55587dfc/West-Ham-United-Newcastle-United-November-2-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Home,W,3,1,Brentford,2,0,0,10,13,2,16,10,12,1,0,0,53,17,13,56.7,14:00:00,/en/matches/7398b723/Brentford-Newcastle-United-November-9-2025-Premier-League
+2025-08-17,Matchweek 1,Sun,Away,L,1,3,Brentford,2,0,0,15,5,0,16,5,6,0,0,0,41,16,17,48.5,14:00:00,/en/matches/855f8b5e/Nottingham-Forest-Brentford-August-17-2025-Premier-League
+2025-08-24,Matchweek 2,Sun,Home,D,1,1,Crystal Palace,3,0,0,11,11,2,18,7,11,0,0,0,39,15,17,46.9,14:00:00,/en/matches/a3984be1/Crystal-Palace-Nottingham-Forest-August-24-2025-Premier-League
+2025-08-31,Matchweek 3,Sun,Away,W,3,0,West Ham,0,0,0,6,13,0,18,6,9,1,0,0,39,10,12,45.5,14:00:00,/en/matches/299beb27/Nottingham-Forest-West-Ham-United-August-31-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Home,W,3,0,Arsenal,1,0,0,8,11,2,20,7,11,0,0,0,39,9,8,52.9,12:30:00,/en/matches/4fe3e679/Arsenal-Nottingham-Forest-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Home,D,1,1,Burnley,1,0,0,12,10,1,26,10,9,0,0,0,39,13,9,59.1,15:00:00,/en/matches/e523c1cd/Burnley-Nottingham-Forest-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Away,W,1,0,Sunderland,2,0,0,6,10,1,19,6,7,0,0,0,39,13,15,46.4,17:30:00,/en/matches/78970349/Nottingham-Forest-Sunderland-September-27-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Home,W,2,0,Newcastle Utd,0,0,0,16,14,0,26,9,11,1,0,0,45,12,12,50.0,14:00:00,/en/matches/e33f1657/Newcastle-United-Nottingham-Forest-October-5-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Away,W,3,0,Chelsea,4,1,1,16,13,2,9,13,8,0,0,0,43,13,5,72.2,12:30:00,/en/matches/b3ac7e40/Nottingham-Forest-Chelsea-October-18-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Home,W,2,0,Bournemouth,3,0,0,17,7,3,10,12,7,0,0,0,44,17,20,45.9,14:00:00,/en/matches/0676a57a/Bournemouth-Nottingham-Forest-October-26-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Away,D,2,2,Manchester Utd,1,0,0,7,10,1,13,10,10,0,0,0,50,29,17,63.0,15:00:00,/en/matches/6f99be65/Nottingham-Forest-Manchester-United-November-1-2025-Premier-League
+2025-11-09,Matchweek 11,Sun,Away,L,1,3,Leeds United,1,0,0,11,10,1,13,9,10,0,1,0,40,19,13,59.4,14:00:00,/en/matches/c2217a56/Nottingham-Forest-Leeds-United-November-9-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Away,L,0,3,West Ham,1,0,0,10,8,0,26,4,7,0,0,0,38,19,17,52.8,15:00:00,/en/matches/e1058522/Sunderland-West-Ham-United-August-16-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Home,W,2,0,Burnley,0,0,0,9,5,0,15,7,11,0,0,0,44,15,19,44.1,15:00:00,/en/matches/4e287736/Burnley-Sunderland-August-23-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Away,L,1,2,Brentford,2,0,0,12,10,3,16,4,7,1,1,0,31,22,23,48.9,15:00:00,/en/matches/f03152d1/Sunderland-Brentford-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Home,D,0,0,Crystal Palace,1,0,0,10,7,0,20,6,6,0,0,0,34,14,20,41.2,15:00:00,/en/matches/e3cade07/Crystal-Palace-Sunderland-September-13-2025-Premier-League
+2025-09-21,Matchweek 5,Sun,Away,D,1,1,Aston Villa,1,0,0,8,13,3,26,3,7,0,0,0,31,16,14,53.3,14:00:00,/en/matches/4e615d10/Sunderland-Aston-Villa-September-21-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Home,L,0,1,Nott'ham Forest,4,0,0,11,6,0,42,1,9,0,0,0,43,15,13,53.6,17:30:00,/en/matches/78970349/Nottingham-Forest-Sunderland-September-27-2025-Premier-League
+2025-10-04,Matchweek 7,Sat,Home,W,2,0,Manchester Utd,1,0,0,10,10,1,7,10,10,0,0,0,43,14,20,41.2,15:00:00,/en/matches/e33ea33d/Manchester-United-Sunderland-October-4-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Away,L,0,2,Wolves,0,0,0,12,5,2,31,8,12,0,0,1,34,33,26,55.9,15:00:00,/en/matches/fe212874/Sunderland-Wolverhampton-Wanderers-October-18-2025-Premier-League
+2025-10-25,Matchweek 9,Sat,Home,L,1,2,Chelsea,1,0,0,15,13,3,29,3,8,0,0,0,41,10,15,40.0,15:00:00,/en/matches/cfda878f/Chelsea-Sunderland-October-25-2025-Premier-League
+2025-11-03,Matchweek 10,Mon,Away,D,1,1,Everton,2,0,0,12,10,0,9,8,6,0,0,0,39,20,19,51.3,20:00:00,/en/matches/bb37daa2/Sunderland-Everton-November-3-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Away,D,2,2,Arsenal,1,0,0,13,13,0,22,3,4,0,0,0,36,27,19,58.7,17:30:00,/en/matches/34884979/Sunderland-Arsenal-November-8-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Away,L,0,3,Burnley,0,0,0,8,14,4,14,7,2,0,0,0,26,18,17,51.4,15:00:00,/en/matches/d41bb8b3/Tottenham-Hotspur-Burnley-August-16-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Home,L,0,2,Manchester City,1,0,0,7,12,0,19,6,10,0,0,0,39,12,8,60.0,12:30:00,/en/matches/f7e2c9c7/Manchester-City-Tottenham-Hotspur-August-23-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Away,W,1,0,Bournemouth,4,0,0,13,17,3,18,9,13,0,0,0,50,16,17,48.5,15:00:00,/en/matches/0e30cf4b/Tottenham-Hotspur-Bournemouth-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Home,L,0,3,West Ham,0,1,0,8,6,0,9,5,9,0,0,0,31,22,13,62.9,17:30:00,/en/matches/86c7261a/West-Ham-United-Tottenham-Hotspur-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Home,D,2,2,Brighton,1,0,0,10,13,0,8,5,17,0,0,1,45,13,12,52.0,15:00:00,/en/matches/fa03feeb/Brighton-and-Hove-Albion-Tottenham-Hotspur-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Away,D,1,1,Wolves,2,0,0,11,9,0,15,10,14,0,0,0,34,16,18,47.1,20:00:00,/en/matches/116cff7d/Tottenham-Hotspur-Wolverhampton-Wanderers-September-27-2025-Premier-League
+2025-10-04,Matchweek 7,Sat,Home,L,1,2,Leeds United,2,0,0,10,12,1,21,6,11,0,0,0,46,14,9,60.9,12:30:00,/en/matches/3e588df8/Leeds-United-Tottenham-Hotspur-October-4-2025-Premier-League
+2025-10-19,Matchweek 8,Sun,Away,W,2,1,Aston Villa,0,0,0,7,11,1,16,2,15,0,0,0,34,13,11,54.2,14:00:00,/en/matches/810c0cb9/Tottenham-Hotspur-Aston-Villa-October-19-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Home,L,0,3,Everton,2,0,0,9,8,2,33,6,10,0,0,0,41,19,11,63.3,16:30:00,/en/matches/4234aaa9/Everton-Tottenham-Hotspur-October-26-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Away,W,1,0,Chelsea,2,0,0,12,14,1,13,17,12,0,0,0,54,22,19,53.7,17:30:00,/en/matches/cb498e0b/Tottenham-Hotspur-Chelsea-November-1-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Away,D,2,2,Manchester Utd,1,0,0,8,10,3,12,6,8,0,0,0,45,18,13,58.1,12:30:00,/en/matches/ad74e791/Tottenham-Hotspur-Manchester-United-November-8-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Home,W,3,0,Sunderland,0,0,0,8,10,0,17,9,5,0,0,0,31,17,19,47.2,15:00:00,/en/matches/e1058522/Sunderland-West-Ham-United-August-16-2025-Premier-League
+2025-08-22,Matchweek 2,Fri,Away,W,5,1,Chelsea,1,0,0,10,7,2,15,4,13,0,0,0,31,15,14,51.7,20:00:00,/en/matches/57b35843/West-Ham-United-Chelsea-August-22-2025-Premier-League
+2025-08-31,Matchweek 3,Sun,Home,L,0,3,Nott'ham Forest,0,0,0,14,6,0,35,6,14,0,1,0,45,12,10,54.5,14:00:00,/en/matches/299beb27/Nottingham-Forest-West-Ham-United-August-31-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Away,W,3,0,Tottenham,1,0,0,7,8,4,31,3,11,0,0,0,34,13,22,37.1,17:30:00,/en/matches/86c7261a/West-Ham-United-Tottenham-Hotspur-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Away,W,2,1,Crystal Palace,3,0,0,5,15,2,18,10,16,0,0,0,33,28,18,60.9,15:00:00,/en/matches/15b707b3/West-Ham-United-Crystal-Palace-September-20-2025-Premier-League
+2025-09-29,Matchweek 6,Mon,Home,D,1,1,Everton,3,0,0,7,16,0,22,5,6,0,0,0,40,21,23,47.7,20:00:00,/en/matches/1163f46d/Everton-West-Ham-United-September-29-2025-Premier-League
+2025-10-04,Matchweek 7,Sat,Home,W,2,0,Arsenal,0,0,0,14,14,1,23,7,14,1,0,0,30,12,12,50.0,15:00:00,/en/matches/266bddc6/Arsenal-West-Ham-United-October-4-2025-Premier-League
+2025-10-20,Matchweek 8,Mon,Away,W,2,0,Brentford,1,0,0,10,10,2,24,7,8,0,0,0,39,35,15,70.0,20:00:00,/en/matches/3322a47b/West-Ham-United-Brentford-October-20-2025-Premier-League
+2025-10-24,Matchweek 9,Fri,Home,W,2,1,Leeds United,3,0,0,12,11,1,11,12,13,0,0,0,37,15,26,36.6,20:00:00,/en/matches/236e3e4c/Leeds-United-West-Ham-United-October-24-2025-Premier-League
+2025-11-02,Matchweek 10,Sun,Away,L,1,3,Newcastle Utd,2,0,0,10,5,0,27,9,5,0,0,1,33,11,5,68.8,14:00:00,/en/matches/55587dfc/West-Ham-United-Newcastle-United-November-2-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Away,L,2,3,Burnley,2,0,0,13,14,1,13,7,11,0,0,0,44,21,9,70.0,15:00:00,/en/matches/9a904d13/West-Ham-United-Burnley-November-8-2025-Premier-League
+2025-08-16,Matchweek 1,Sat,Away,W,4,0,Manchester City,2,0,0,7,13,0,20,7,11,0,0,0,31,10,5,66.7,17:30:00,/en/matches/8613020d/Wolverhampton-Wanderers-Manchester-City-August-16-2025-Premier-League
+2025-08-23,Matchweek 2,Sat,Home,W,1,0,Bournemouth,2,0,0,13,16,2,20,6,9,0,0,0,31,7,25,21.9,15:00:00,/en/matches/a515fb3a/Bournemouth-Wolverhampton-Wanderers-August-23-2025-Premier-League
+2025-08-30,Matchweek 3,Sat,Away,W,3,2,Everton,1,0,0,10,15,1,13,16,11,0,0,0,44,24,12,66.7,15:00:00,/en/matches/3c399f5e/Wolverhampton-Wanderers-Everton-August-30-2025-Premier-League
+2025-09-13,Matchweek 4,Sat,Home,W,1,0,Newcastle Utd,1,0,0,10,17,1,25,6,5,0,0,0,37,21,13,61.8,15:00:00,/en/matches/55fbbbe6/Newcastle-United-Wolverhampton-Wanderers-September-13-2025-Premier-League
+2025-09-20,Matchweek 5,Sat,Away,W,3,1,Leeds United,1,0,0,9,11,2,7,7,13,0,0,0,48,18,29,38.3,15:00:00,/en/matches/45650a33/Wolverhampton-Wanderers-Leeds-United-September-20-2025-Premier-League
+2025-09-27,Matchweek 6,Sat,Home,D,1,1,Tottenham,3,0,0,9,10,2,32,10,12,0,0,0,41,18,16,52.9,20:00:00,/en/matches/116cff7d/Tottenham-Hotspur-Wolverhampton-Wanderers-September-27-2025-Premier-League
+2025-10-05,Matchweek 7,Sun,Away,D,1,1,Brighton,4,0,0,9,13,3,31,9,10,0,0,1,43,12,15,44.4,14:00:00,/en/matches/1314f9fd/Wolverhampton-Wanderers-Brighton-and-Hove-Albion-October-5-2025-Premier-League
+2025-10-18,Matchweek 8,Sat,Home,W,2,0,Sunderland,0,0,0,5,12,2,12,7,9,0,0,0,34,26,33,44.1,15:00:00,/en/matches/fe212874/Sunderland-Wolverhampton-Wanderers-October-18-2025-Premier-League
+2025-10-26,Matchweek 9,Sun,Away,W,3,2,Burnley,0,0,0,7,12,2,10,5,8,0,1,0,26,18,21,46.2,14:00:00,/en/matches/28244556/Wolverhampton-Wanderers-Burnley-October-26-2025-Premier-League
+2025-11-01,Matchweek 10,Sat,Home,W,3,0,Fulham,1,0,0,13,13,3,21,4,2,0,0,0,38,14,14,50.0,15:00:00,/en/matches/03f6bccd/Fulham-Wolverhampton-Wanderers-November-1-2025-Premier-League
+2025-11-08,Matchweek 11,Sat,Home,W,3,0,Chelsea,1,0,0,12,13,0,26,7,8,0,0,0,39,7,9,43.8,20:00:00,/en/matches/098d4b9c/Chelsea-Wolverhampton-Wanderers-November-8-2025-Premier-League

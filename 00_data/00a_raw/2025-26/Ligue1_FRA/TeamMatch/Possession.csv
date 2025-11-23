@@ -1,0 +1,217 @@
+date,round,day,venue,result,GF,GA,opponent,Poss,Touches_Touches,Touches_Def Pen,Touches_Def 3rd,Touches_Mid 3rd,Touches_Att 3rd,Touches_Att Pen,Touches_Live,Take-Ons_Att,Take-Ons_Succ,Take-Ons_Succ%,Take-Ons_Tkld,Take-Ons_Tkld%,Carries_Carries,Carries_TotDist,Carries_PrgDist,Carries_PrgC,Carries_1/3,Carries_CPA,Carries_Mis,Carries_Dis,Receiving_Rec,Receiving_PrgR,time,match_report
+2025-08-17,Matchweek 1,Sun,Away,L,0,1,Paris FC,68,726,41,177,363,191,18,726,20,7,35.0,12,60.0,421,2157,1313,29,13,7,14,8,549,68,17:15:00,/en/matches/c69996e3/Angers-Paris-FC-August-17-2025-Ligue-1
+2025-08-22,Matchweek 2,Fri,Home,W,1,0,Paris S-G,83,1119,14,57,493,577,42,1118,35,14,40.0,18,51.4,608,3483,1884,39,38,15,9,16,947,76,20:45:00,/en/matches/d1b5836d/Paris-Saint-Germain-Angers-August-22-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Away,D,1,1,Rennes,63,794,49,233,373,193,17,794,13,8,61.5,5,38.5,348,1968,980,9,13,0,10,10,640,57,15:00:00,/en/matches/e7cbffb3/Angers-Rennes-August-31-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Home,D,1,1,Metz,55,686,87,251,293,148,11,685,18,5,27.8,12,66.7,510,2708,1343,19,22,3,16,12,499,39,17:15:00,/en/matches/80b1df7f/Metz-Angers-September-14-2025-Ligue-1
+2025-09-19,Matchweek 5,Fri,Home,W,1,0,Lyon,67,737,58,174,403,164,25,737,11,4,36.4,7,63.6,474,2464,1215,19,12,5,12,6,548,49,20:45:00,/en/matches/3d321db7/Lyon-Angers-September-19-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Away,W,2,0,Brest,43,521,98,220,215,90,11,520,6,2,33.3,4,66.7,273,1263,613,8,7,0,20,4,285,24,17:15:00,/en/matches/40e25494/Angers-Brest-September-28-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Home,W,5,0,Strasbourg,65,933,62,295,487,158,35,933,19,7,36.8,12,63.2,712,2470,1194,24,7,5,18,8,720,51,17:15:00,/en/matches/e2b6bcc0/Strasbourg-Angers-October-5-2025-Ligue-1
+2025-10-18,Matchweek 8,Sat,Away,D,1,1,Monaco,58,721,64,230,388,112,18,721,12,2,16.7,10,83.3,448,1898,844,15,12,4,19,8,517,41,19:00:00,/en/matches/aeed11a9/Angers-Monaco-October-18-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Away,L,0,2,Lorient,62,763,50,201,379,189,29,762,16,3,18.8,10,62.5,545,2521,1355,28,21,7,11,6,572,51,17:15:00,/en/matches/57e8593d/Angers-Lorient-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Home,D,2,2,Marseille,59,779,48,162,431,192,19,779,12,6,50.0,5,41.7,542,2680,1385,28,18,5,16,11,584,55,21:05:00,/en/matches/4e9cae04/Marseille-Angers-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Home,W,1,0,Lille,53,700,53,199,324,182,33,700,22,14,63.6,8,36.4,367,1708,947,21,13,4,21,5,484,58,17:15:00,/en/matches/990dd8fe/Lille-Angers-November-2-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Away,L,0,2,Auxerre,51,605,45,174,318,123,16,605,12,5,41.7,7,58.3,373,1902,1032,17,13,3,19,7,417,38,17:15:00,/en/matches/9575a044/Angers-Auxerre-November-9-2025-Ligue-1
+2025-08-17,Matchweek 1,Sun,Away,L,0,1,Lorient,57,624,44,189,322,117,23,624,23,9,39.1,13,56.5,340,1726,875,12,10,2,22,14,413,32,17:15:00,/en/matches/460d3465/Auxerre-Lorient-August-17-2025-Ligue-1
+2025-08-23,Matchweek 2,Sat,Home,W,3,1,Nice,55,619,58,167,318,138,21,619,14,8,57.1,3,21.4,395,2396,1281,21,16,6,14,16,433,44,19:00:00,/en/matches/1a63326e/Nice-Auxerre-August-23-2025-Ligue-1
+2025-08-30,Matchweek 3,Sat,Home,W,1,0,Nantes,42,489,99,272,165,58,5,489,15,12,80.0,3,20.0,220,1222,659,11,8,4,12,6,271,18,19:00:00,/en/matches/9db213a2/Nantes-Auxerre-August-30-2025-Ligue-1
+2025-09-13,Matchweek 4,Sat,Away,W,2,1,Monaco,68,754,44,183,377,201,30,754,15,3,20.0,12,80.0,416,2331,1305,17,12,5,15,13,525,51,21:05:00,/en/matches/f3a8d388/Auxerre-Monaco-September-13-2025-Ligue-1
+2025-09-21,Matchweek 5,Sun,Away,L,0,1,Toulouse,59,612,38,190,289,136,29,611,14,3,21.4,11,78.6,340,1556,839,12,11,3,13,15,410,42,17:15:00,/en/matches/a2ea8dfd/Auxerre-Toulouse-September-21-2025-Ligue-1
+2025-09-27,Matchweek 6,Sat,Home,W,2,0,Paris S-G,66,827,72,230,419,184,21,827,24,12,50.0,11,45.8,436,2472,1155,16,9,7,12,14,631,46,21:05:00,/en/matches/1012a2a6/Paris-Saint-Germain-Auxerre-September-27-2025-Ligue-1
+2025-10-04,Matchweek 7,Sat,Away,W,2,1,Lens,43,567,64,240,259,72,11,567,18,8,44.4,10,55.6,281,1146,476,7,6,3,24,10,340,18,21:05:00,/en/matches/7a29fd59/Auxerre-Lens-October-4-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Home,D,2,2,Rennes,52,587,30,141,294,157,21,587,18,7,38.9,9,50.0,357,1724,866,13,16,2,15,11,370,34,17:15:00,/en/matches/4bebc386/Rennes-Auxerre-October-19-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Away,W,1,0,Le Havre,48,502,80,219,205,85,15,502,13,9,69.2,4,30.8,284,1495,782,9,7,2,21,4,303,36,17:15:00,/en/matches/b5814fa4/Auxerre-Le-Havre-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Home,W,3,0,Strasbourg,64,816,51,249,431,143,25,816,11,3,27.3,8,72.7,633,2234,1244,20,11,4,9,7,644,56,21:05:00,/en/matches/92626eca/Strasbourg-Auxerre-October-29-2025-Ligue-1
+2025-11-01,Matchweek 11,Sat,Away,W,1,0,Marseille,51,604,46,205,314,88,9,604,10,3,30.0,6,60.0,424,1755,898,6,10,2,14,4,435,20,21:05:00,/en/matches/e98babb3/Auxerre-Marseille-November-1-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Home,W,2,0,Angers,50,588,58,205,281,105,11,588,11,3,27.3,8,72.7,408,2132,1165,19,18,4,15,7,402,27,17:15:00,/en/matches/9575a044/Angers-Auxerre-November-9-2025-Ligue-1
+2025-08-17,Matchweek 1,Sun,Away,D,3,3,Lille,54,603,67,206,271,132,20,603,24,10,41.7,14,58.3,316,1692,916,12,12,1,7,10,385,43,15:00:00,/en/matches/d26fb352/Brest-Lille-August-17-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Home,W,2,0,Toulouse,48,560,76,196,275,101,14,560,34,15,44.1,19,55.9,341,1617,918,11,9,3,21,6,331,31,17:15:00,/en/matches/d9a23dcd/Toulouse-Brest-August-24-2025-Ligue-1
+2025-08-29,Matchweek 3,Fri,Home,W,3,1,Lens,67,733,74,216,279,244,51,732,16,9,56.3,5,31.3,349,1738,934,15,16,5,8,10,512,61,20:45:00,/en/matches/ccf514b7/Lens-Brest-August-29-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Away,W,2,1,Paris FC,53,653,116,293,282,84,13,653,17,8,47.1,8,47.1,289,1321,658,11,10,4,19,7,428,23,17:15:00,/en/matches/52e5e5bd/Brest-Paris-FC-September-14-2025-Ligue-1
+2025-09-20,Matchweek 5,Sat,Away,L,1,4,Nice,62,771,36,140,419,219,33,771,23,11,47.8,10,43.5,553,2715,1594,21,19,4,22,10,562,74,19:00:00,/en/matches/cd6a399a/Brest-Nice-September-20-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Home,L,0,2,Angers,57,644,40,165,300,185,30,644,23,9,39.1,11,47.8,390,2051,1166,25,14,1,26,7,416,59,17:15:00,/en/matches/40e25494/Angers-Brest-September-28-2025-Ligue-1
+2025-10-04,Matchweek 7,Sat,Away,D,0,0,Nantes,49,553,81,215,247,99,20,553,25,16,64.0,9,36.0,296,1503,780,8,5,3,14,15,343,31,19:00:00,/en/matches/329f92b2/Brest-Nantes-October-4-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Home,D,3,3,Lorient,50,545,45,173,243,135,16,545,22,9,40.9,11,50.0,295,1937,891,22,12,2,14,10,351,25,17:15:00,/en/matches/d9620be4/Lorient-Brest-October-19-2025-Ligue-1
+2025-10-25,Matchweek 9,Sat,Away,W,3,0,Paris S-G,75,948,60,193,480,280,28,948,21,4,19.0,17,81.0,733,3569,1762,27,27,6,16,9,773,62,17:00:00,/en/matches/c95d53be/Brest-Paris-Saint-Germain-October-25-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Home,W,1,0,Le Havre,46,591,68,215,242,137,14,591,9,2,22.2,7,77.8,375,1907,916,16,16,1,19,8,374,42,19:00:00,/en/matches/ee77c6a4/Le-Havre-Brest-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Away,D,0,0,Lyon,50,569,100,261,220,93,9,569,6,2,33.3,4,66.7,271,1461,660,12,13,2,21,9,356,16,20:45:00,/en/matches/167e4077/Brest-Lyon-November-2-2025-Ligue-1
+2025-11-08,Matchweek 12,Sat,Home,W,3,0,Marseille,63,786,57,192,398,200,23,785,14,8,57.1,6,42.9,553,2391,1152,18,14,9,13,6,615,60,17:00:00,/en/matches/a42f9bcd/Marseille-Brest-November-8-2025-Ligue-1
+2025-08-16,Matchweek 1,Sat,Home,W,3,1,Monaco,74,876,45,157,479,245,29,876,21,10,47.6,10,47.6,482,2511,1405,23,27,4,15,6,662,51,19:00:00,/en/matches/772d8629/Monaco-Le-Havre-August-16-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Away,W,2,1,Lens,42,576,82,242,256,83,10,575,16,6,37.5,9,56.3,321,1380,712,14,5,1,17,5,358,26,17:15:00,/en/matches/ecb4ebba/Le-Havre-Lens-August-24-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Away,L,1,3,Nice,58,614,57,159,313,146,16,614,12,8,66.7,3,25.0,415,2339,1232,16,14,3,21,9,431,42,17:15:00,/en/matches/d7190d58/Le-Havre-Nice-August-31-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Home,W,1,0,Strasbourg,49,591,77,219,253,122,15,590,20,6,30.0,12,60.0,359,1790,1025,29,17,3,15,13,417,30,17:15:00,/en/matches/78ee6527/Strasbourg-Le-Havre-September-14-2025-Ligue-1
+2025-09-21,Matchweek 5,Sun,Away,D,1,1,Lorient,40,535,71,203,243,94,16,535,12,6,50.0,6,50.0,319,1442,695,9,7,2,14,9,323,30,17:15:00,/en/matches/d6f698f7/Le-Havre-Lorient-September-21-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Home,D,0,0,Metz,52,589,68,215,278,97,16,589,11,3,27.3,6,54.5,272,1190,586,13,5,6,31,6,398,24,17:15:00,/en/matches/9c7203aa/Metz-Le-Havre-September-28-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Away,D,2,2,Rennes,57,687,60,195,336,167,17,687,16,7,43.8,8,50.0,420,2477,1417,18,19,6,9,5,486,54,17:15:00,/en/matches/7bb1158d/Le-Havre-Rennes-October-5-2025-Ligue-1
+2025-10-18,Matchweek 8,Sat,Home,W,6,2,Marseille,73,796,33,144,421,232,33,795,9,3,33.3,6,66.7,596,2851,1502,25,16,12,17,4,656,84,21:05:00,/en/matches/0d90c694/Marseille-Le-Havre-October-18-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Home,L,0,1,Auxerre,52,505,42,143,215,155,22,505,27,11,40.7,13,48.1,292,1582,803,17,9,1,13,5,312,28,17:15:00,/en/matches/b5814fa4/Auxerre-Le-Havre-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Away,L,0,1,Brest,54,651,66,238,300,117,13,651,17,10,58.8,4,23.5,397,1819,1004,10,8,1,11,10,435,24,19:00:00,/en/matches/ee77c6a4/Le-Havre-Brest-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Home,D,0,0,Toulouse,46,520,40,131,202,199,40,520,28,10,35.7,17,60.7,250,1539,819,23,14,11,19,10,285,44,17:15:00,/en/matches/75cf1ad9/Toulouse-Le-Havre-November-2-2025-Ligue-1
+2025-11-08,Matchweek 12,Sat,Away,D,1,1,Nantes,36,433,95,223,155,63,6,433,15,5,33.3,9,60.0,218,1310,714,11,9,3,17,7,204,16,19:00:00,/en/matches/dd1c75e9/Le-Havre-Nantes-November-8-2025-Ligue-1
+2025-08-16,Matchweek 1,Sat,Away,W,1,0,Lyon,44,523,111,229,198,99,21,523,13,6,46.2,5,38.5,296,1219,638,12,7,5,9,7,307,25,17:00:00,/en/matches/5959d3ad/Lens-Lyon-August-16-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Home,L,1,2,Le Havre,58,681,46,154,321,207,33,681,17,5,29.4,11,64.7,446,1941,1032,21,16,6,11,8,475,37,17:15:00,/en/matches/ecb4ebba/Le-Havre-Lens-August-24-2025-Ligue-1
+2025-08-29,Matchweek 3,Fri,Away,L,1,3,Brest,33,440,95,185,182,80,16,440,15,9,60.0,6,40.0,187,902,419,10,5,5,16,9,222,17,20:45:00,/en/matches/ccf514b7/Lens-Brest-August-29-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Home,W,2,0,Paris S-G,68,905,69,211,514,186,26,905,24,8,33.3,15,62.5,600,3003,1374,22,21,6,9,10,734,45,17:15:00,/en/matches/e8f63a9b/Paris-Saint-Germain-Lens-September-14-2025-Ligue-1
+2025-09-20,Matchweek 5,Sat,Away,L,0,3,Lille,61,699,55,214,306,181,40,699,16,5,31.3,11,68.8,294,1250,680,18,7,7,8,8,474,42,21:05:00,/en/matches/f940c93e/Lens-Lille-September-20-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Home,D,0,0,Rennes,66,701,43,130,333,242,22,701,28,12,42.9,15,53.6,478,2724,1418,24,22,3,18,14,486,70,20:45:00,/en/matches/2516801b/Rennes-Lens-September-28-2025-Ligue-1
+2025-10-04,Matchweek 7,Sat,Home,L,1,2,Auxerre,57,680,34,172,319,192,16,680,21,8,38.1,9,42.9,320,1684,703,10,14,2,21,7,448,43,21:05:00,/en/matches/7a29fd59/Auxerre-Lens-October-4-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Away,L,1,2,Paris FC,57,722,118,317,326,82,12,722,19,6,31.6,13,68.4,305,1416,721,13,12,3,16,11,503,26,15:00:00,/en/matches/3c82b9ba/Lens-Paris-FC-October-19-2025-Ligue-1
+2025-10-25,Matchweek 9,Sat,Away,L,1,2,Marseille,68,920,54,192,502,231,27,920,24,9,37.5,12,50.0,653,3034,1551,25,22,6,13,7,709,54,21:05:00,/en/matches/401a34e7/Lens-Marseille-October-25-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Home,W,2,0,Metz,46,599,78,222,260,125,21,598,14,9,64.3,5,35.7,437,2292,1042,18,14,4,17,9,416,24,19:00:00,/en/matches/e7ee16a0/Metz-Lens-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Away,L,0,3,Lorient,42,591,66,193,236,168,28,590,16,5,31.3,11,68.8,400,1965,1112,30,15,7,17,2,395,40,17:15:00,/en/matches/537900ec/Lens-Lorient-November-2-2025-Ligue-1
+2025-11-08,Matchweek 12,Sat,Home,L,1,4,Monaco,50,625,73,183,290,158,28,623,25,12,48.0,11,44.0,306,1573,835,16,9,3,15,6,413,36,21:05:00,/en/matches/8351b4ea/Monaco-Lens-November-8-2025-Ligue-1
+2025-08-17,Matchweek 1,Sun,Home,D,3,3,Brest,46,523,41,182,226,120,18,523,13,5,38.5,7,53.8,313,1367,577,15,9,3,11,8,297,26,15:00:00,/en/matches/d26fb352/Brest-Lille-August-17-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Away,L,0,1,Monaco,50,581,84,231,239,118,14,581,20,11,55.0,9,45.0,260,1288,574,15,4,5,17,6,362,26,20:45:00,/en/matches/1c61c286/Lille-Monaco-August-24-2025-Ligue-1
+2025-08-30,Matchweek 3,Sat,Home,L,1,7,Lorient,41,496,70,210,199,96,8,495,11,5,45.5,6,54.5,283,1587,895,20,7,3,10,8,322,35,17:00:00,/en/matches/fecb23de/Lorient-Lille-August-30-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Away,L,1,2,Toulouse,31,388,52,170,139,86,14,388,20,8,40.0,10,50.0,165,879,483,10,9,5,6,8,183,18,15:00:00,/en/matches/6c0057cb/Lille-Toulouse-September-14-2025-Ligue-1
+2025-09-20,Matchweek 5,Sat,Home,W,3,0,Lens,39,515,78,216,181,124,22,515,16,7,43.8,7,43.8,225,1224,585,14,8,3,22,8,275,27,21:05:00,/en/matches/f940c93e/Lens-Lille-September-20-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Away,W,1,0,Lyon,46,516,98,252,189,80,14,516,13,7,53.8,6,46.2,226,1154,535,8,2,2,21,1,317,24,17:15:00,/en/matches/ee984aec/Lille-Lyon-September-28-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Away,D,1,1,Paris S-G,62,796,67,239,406,157,21,796,25,13,52.0,11,44.0,588,2781,1377,24,18,8,15,8,614,34,20:45:00,/en/matches/d476968b/Lille-Paris-Saint-Germain-October-5-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Home,L,0,2,Nantes,37,467,84,208,171,92,20,467,13,2,15.4,11,84.6,192,1142,604,12,6,7,15,3,245,23,20:45:00,/en/matches/98c265c0/Nantes-Lille-October-19-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Away,L,1,6,Metz,38,465,79,180,188,99,24,465,18,5,27.8,11,61.1,272,1423,610,13,10,2,14,9,273,24,15:00:00,/en/matches/513ba656/Lille-Metz-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Home,W,2,0,Nice,32,442,106,253,150,46,7,441,15,4,26.7,11,73.3,220,1040,547,14,10,1,13,7,230,21,19:00:00,/en/matches/79a943de/Nice-Lille-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Away,L,0,1,Angers,47,632,87,245,298,98,17,632,12,3,25.0,9,75.0,300,1631,921,18,13,5,19,7,421,34,17:15:00,/en/matches/990dd8fe/Lille-Angers-November-2-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Home,W,2,0,Strasbourg,42,491,85,259,169,66,9,491,14,6,42.9,7,50.0,239,1217,517,6,8,2,16,4,298,20,17:15:00,/en/matches/9ec5732e/Strasbourg-Lille-November-9-2025-Ligue-1
+2025-08-17,Matchweek 1,Sun,Home,W,1,0,Auxerre,43,507,55,210,217,85,10,506,21,9,42.9,10,47.6,303,1146,520,10,6,2,12,6,303,27,17:15:00,/en/matches/460d3465/Auxerre-Lorient-August-17-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Away,L,0,4,Rennes,49,600,119,288,233,84,4,600,13,7,53.8,5,38.5,254,1444,713,9,5,2,15,2,427,24,15:00:00,/en/matches/c085ae64/Lorient-Rennes-August-24-2025-Ligue-1
+2025-08-30,Matchweek 3,Sat,Away,W,7,1,Lille,59,662,34,152,318,196,33,662,14,9,64.3,5,35.7,424,1781,1003,16,18,5,7,6,482,53,17:00:00,/en/matches/fecb23de/Lorient-Lille-August-30-2025-Ligue-1
+2025-09-12,Matchweek 4,Fri,Home,W,4,0,Marseille,72,895,15,57,498,344,36,894,12,4,33.3,6,50.0,708,2582,1331,19,21,8,8,6,758,62,20:45:00,/en/matches/eaff4ee4/Marseille-Lorient-September-12-2025-Ligue-1
+2025-09-21,Matchweek 5,Sun,Home,D,1,1,Le Havre,60,715,45,159,415,145,21,714,7,2,28.6,3,42.9,472,2201,1091,22,12,2,12,13,503,49,17:15:00,/en/matches/d6f698f7/Le-Havre-Lorient-September-21-2025-Ligue-1
+2025-09-27,Matchweek 6,Sat,Away,L,1,3,Monaco,53,718,58,129,421,168,11,717,9,0,0.0,8,88.9,447,2194,1227,16,13,3,13,8,536,56,17:00:00,/en/matches/ce237644/Lorient-Monaco-September-27-2025-Ligue-1
+2025-10-03,Matchweek 7,Fri,Home,W,2,0,Paris FC,58,789,70,214,446,134,24,789,10,2,20.0,8,80.0,515,2151,1111,14,7,8,14,5,611,42,20:45:00,/en/matches/9c3f352c/Paris-FC-Lorient-October-3-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Away,D,3,3,Brest,50,554,53,194,250,111,18,553,11,3,27.3,8,72.7,264,1283,653,7,8,3,14,3,355,32,17:15:00,/en/matches/d9620be4/Lorient-Brest-October-19-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Home,W,2,0,Angers,38,527,83,226,231,76,10,527,21,11,52.4,10,47.6,340,1378,637,13,12,4,20,7,338,20,17:15:00,/en/matches/57e8593d/Angers-Lorient-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Away,D,1,1,Paris S-G,77,959,37,105,436,424,26,959,27,12,44.4,13,48.1,632,3177,1547,20,22,6,18,6,791,88,19:00:00,/en/matches/fae0cebf/Lorient-Paris-Saint-Germain-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Home,W,3,0,Lens,58,778,67,193,429,160,24,778,16,8,50.0,8,50.0,346,1599,948,11,9,4,13,6,584,34,17:15:00,/en/matches/537900ec/Lens-Lorient-November-2-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Away,D,1,1,Toulouse,51,571,55,170,299,108,12,570,17,6,35.3,9,52.9,356,1477,770,11,10,2,17,10,365,47,15:00:00,/en/matches/3b9a668d/Lorient-Toulouse-November-9-2025-Ligue-1
+2025-08-16,Matchweek 1,Sat,Home,L,0,1,Lens,56,632,63,185,240,213,47,632,23,12,52.2,8,34.8,357,1619,835,22,14,9,12,9,400,57,17:00:00,/en/matches/5959d3ad/Lens-Lyon-August-16-2025-Ligue-1
+2025-08-23,Matchweek 2,Sat,Away,L,0,3,Metz,47,598,74,212,267,124,15,598,18,6,33.3,11,61.1,337,1811,929,17,15,4,9,7,461,28,21:05:00,/en/matches/6df797c8/Lyon-Metz-August-23-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Away,L,0,1,Marseille,43,450,73,177,201,77,6,450,7,4,57.1,3,42.9,264,1145,482,10,7,1,11,2,267,20,20:45:00,/en/matches/2e7d7c7d/Choc-des-Olympiques-Lyon-Marseille-August-31-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Home,W,3,1,Rennes,48,596,48,154,250,202,33,596,18,9,50.0,9,50.0,328,2039,1164,33,15,9,10,9,397,56,20:45:00,/en/matches/e8a7d6a7/Rennes-Lyon-September-14-2025-Ligue-1
+2025-09-19,Matchweek 5,Fri,Away,L,0,1,Angers,33,417,63,182,174,65,14,417,13,6,46.2,6,46.2,171,1137,595,15,6,4,22,6,239,19,20:45:00,/en/matches/3d321db7/Lyon-Angers-September-19-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Home,L,0,1,Lille,54,558,37,123,254,184,34,558,15,7,46.7,6,40.0,359,2017,991,27,16,12,16,5,372,52,17:15:00,/en/matches/ee984aec/Lille-Lyon-September-28-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Away,W,2,1,Toulouse,31,401,54,134,170,100,21,401,11,6,54.5,5,45.5,138,683,344,7,9,4,14,6,196,27,15:00:00,/en/matches/60ecc64f/Lyon-Toulouse-October-5-2025-Ligue-1
+2025-10-18,Matchweek 8,Sat,Home,W,3,2,Nice,31,425,114,214,145,73,11,425,16,4,25.0,11,68.8,194,1037,454,11,5,6,8,9,205,16,17:00:00,/en/matches/b4b8f430/Nice-Lyon-October-18-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Away,L,1,2,Strasbourg,52,550,67,258,224,73,10,550,13,6,46.2,6,46.2,369,1435,638,9,9,3,11,9,382,22,20:45:00,/en/matches/cd22fe80/Lyon-Strasbourg-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Home,D,3,3,Paris FC,52,591,48,159,297,140,22,591,13,4,30.8,9,69.2,289,1752,787,15,11,2,13,11,414,37,21:05:00,/en/matches/43400423/Paris-FC-Lyon-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Home,D,0,0,Brest,50,558,55,158,237,170,28,558,26,8,30.8,16,61.5,346,2045,1256,18,10,5,25,7,339,39,20:45:00,/en/matches/167e4077/Brest-Lyon-November-2-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Away,W,3,2,Paris S-G,71,859,54,245,466,152,24,859,12,5,41.7,6,50.0,648,3006,1390,25,23,9,14,4,681,38,20:45:00,/en/matches/76c23d28/Lyon-Paris-Saint-Germain-November-9-2025-Ligue-1
+2025-08-15,Matchweek 1,Fri,Home,W,1,0,Rennes,28,420,103,231,129,66,15,420,12,5,41.7,7,58.3,201,974,540,9,10,5,6,8,233,11,20:45:00,/en/matches/fbd5fc84/Rennes-Marseille-August-15-2025-Ligue-1
+2025-08-23,Matchweek 2,Sat,Away,L,2,5,Paris FC,40,499,76,238,202,60,9,499,8,4,50.0,4,50.0,252,1467,740,12,10,4,11,8,360,24,17:00:00,/en/matches/7c56af85/Marseille-Paris-FC-August-23-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Home,W,1,0,Lyon,57,574,34,130,255,193,31,574,12,7,58.3,3,25.0,381,2317,1216,26,24,4,14,4,394,50,20:45:00,/en/matches/2e7d7c7d/Choc-des-Olympiques-Lyon-Marseille-August-31-2025-Ligue-1
+2025-09-12,Matchweek 4,Fri,Away,L,0,4,Lorient,28,414,74,226,156,33,5,414,15,4,26.7,6,40.0,211,1155,559,12,6,2,14,8,272,12,20:45:00,/en/matches/eaff4ee4/Marseille-Lorient-September-12-2025-Ligue-1
+2025-09-22,Matchweek 5,Mon,Away,L,0,1,Paris S-G,68,803,54,187,474,150,16,803,20,7,35.0,13,65.0,546,2543,1317,20,19,4,21,6,626,49,20:00:00,/en/matches/e53e3ae2/Marseille-Paris-Saint-Germain-September-22-2025-Ligue-1
+2025-09-26,Matchweek 6,Fri,Home,L,1,2,Strasbourg,40,527,92,258,196,77,14,527,11,6,54.5,5,45.5,282,1118,465,11,5,1,19,9,335,17,20:45:00,/en/matches/13d407ad/Strasbourg-Marseille-September-26-2025-Ligue-1
+2025-10-04,Matchweek 7,Sat,Home,L,0,3,Metz,38,494,93,261,163,72,8,494,9,4,44.4,5,55.6,310,1655,813,14,9,1,13,8,338,27,17:00:00,/en/matches/0dfe9c56/Metz-Marseille-October-4-2025-Ligue-1
+2025-10-18,Matchweek 8,Sat,Away,L,2,6,Le Havre,27,344,55,146,155,49,8,344,9,5,55.6,3,33.3,144,792,413,9,5,2,17,6,194,15,21:05:00,/en/matches/0d90c694/Marseille-Le-Havre-October-18-2025-Ligue-1
+2025-10-25,Matchweek 9,Sat,Home,W,2,1,Lens,32,500,74,238,169,100,15,499,17,7,41.2,9,52.9,261,1292,644,16,12,4,9,7,288,22,21:05:00,/en/matches/401a34e7/Lens-Marseille-October-25-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Away,D,2,2,Angers,41,575,73,246,265,73,13,575,18,9,50.0,9,50.0,296,1712,944,18,10,4,14,7,371,23,21:05:00,/en/matches/4e9cae04/Marseille-Angers-October-29-2025-Ligue-1
+2025-11-01,Matchweek 11,Sat,Home,L,0,1,Auxerre,49,571,32,131,319,126,14,571,20,11,55.0,8,40.0,351,2003,1111,29,12,5,18,6,406,45,21:05:00,/en/matches/e98babb3/Auxerre-Marseille-November-1-2025-Ligue-1
+2025-11-08,Matchweek 12,Sat,Away,L,0,3,Brest,37,493,84,248,186,64,12,493,15,5,33.3,10,66.7,296,1398,659,14,11,5,15,6,318,26,17:00:00,/en/matches/a42f9bcd/Marseille-Brest-November-8-2025-Ligue-1
+2025-08-17,Matchweek 1,Sun,Away,W,1,0,Strasbourg,63,752,38,144,445,174,14,752,30,18,60.0,12,40.0,490,2138,1140,18,12,4,19,13,540,65,17:15:00,/en/matches/df64d32a/Metz-Strasbourg-August-17-2025-Ligue-1
+2025-08-23,Matchweek 2,Sat,Home,W,3,0,Lyon,53,654,57,215,332,110,22,654,15,7,46.7,6,40.0,508,2401,1266,22,10,4,8,9,526,34,21:05:00,/en/matches/6df797c8/Lyon-Metz-August-23-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Home,W,3,2,Paris FC,51,642,60,197,257,195,40,641,14,7,50.0,6,42.9,328,1884,989,28,18,14,7,10,449,52,17:15:00,/en/matches/adae2347/Paris-FC-Metz-August-31-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Away,D,1,1,Angers,45,608,67,225,290,98,18,607,20,4,20.0,16,80.0,295,1510,723,14,7,7,19,9,403,34,17:15:00,/en/matches/80b1df7f/Metz-Angers-September-14-2025-Ligue-1
+2025-09-21,Matchweek 5,Sun,Home,W,5,2,Monaco,44,574,48,113,312,154,31,574,17,4,23.5,13,76.5,267,1440,815,19,5,7,13,10,366,41,17:15:00,/en/matches/08aea0af/Monaco-Metz-September-21-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Away,D,0,0,Le Havre,48,524,61,196,216,124,11,524,21,12,57.1,8,38.1,282,1480,648,13,10,3,25,10,331,33,17:15:00,/en/matches/9c7203aa/Metz-Le-Havre-September-28-2025-Ligue-1
+2025-10-04,Matchweek 7,Sat,Away,W,3,0,Marseille,62,760,50,184,387,196,32,760,14,7,50.0,6,42.9,541,1992,1019,22,14,5,10,4,597,49,17:00:00,/en/matches/0dfe9c56/Metz-Marseille-October-4-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Home,W,4,0,Toulouse,36,454,33,127,213,119,30,453,18,9,50.0,9,50.0,297,1691,945,25,9,12,13,10,291,38,17:15:00,/en/matches/c8f84615/Toulouse-Metz-October-19-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Home,W,6,1,Lille,62,691,57,145,328,224,41,691,15,7,46.7,6,40.0,479,2415,1443,32,27,10,16,3,501,62,15:00:00,/en/matches/513ba656/Lille-Metz-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Away,L,0,2,Lens,54,648,51,153,338,162,23,648,10,2,20.0,8,80.0,310,1642,862,10,10,2,15,10,481,56,19:00:00,/en/matches/e7ee16a0/Metz-Lens-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Home,L,0,2,Nantes,53,539,54,177,224,147,35,539,31,11,35.5,19,61.3,317,1996,1163,23,9,9,19,6,331,32,17:15:00,/en/matches/1d6a5a0b/Nantes-Metz-November-2-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Away,L,1,2,Nice,50,587,70,220,281,89,15,587,17,7,41.2,10,58.8,350,2007,1047,16,16,1,22,6,414,24,17:15:00,/en/matches/958a0a33/Metz-Nice-November-9-2025-Ligue-1
+2025-08-16,Matchweek 1,Sat,Away,L,1,3,Le Havre,26,417,80,197,169,54,8,417,8,4,50.0,4,50.0,129,875,400,8,2,2,19,7,190,20,19:00:00,/en/matches/772d8629/Monaco-Le-Havre-August-16-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Home,W,1,0,Lille,50,589,54,178,262,152,33,588,16,8,50.0,7,43.8,352,1928,930,24,12,7,19,7,366,32,20:45:00,/en/matches/1c61c286/Lille-Monaco-August-24-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Away,L,2,3,Strasbourg,57,675,64,220,289,171,29,674,35,18,51.4,13,37.1,464,2396,1112,23,19,8,23,10,478,61,17:15:00,/en/matches/9fadc7e1/Monaco-Strasbourg-August-31-2025-Ligue-1
+2025-09-13,Matchweek 4,Sat,Home,L,1,2,Auxerre,32,453,55,155,208,98,11,453,9,5,55.6,4,44.4,208,1110,479,12,9,2,20,13,209,26,21:05:00,/en/matches/f3a8d388/Auxerre-Monaco-September-13-2025-Ligue-1
+2025-09-21,Matchweek 5,Sun,Away,L,2,5,Metz,56,686,100,309,307,80,14,685,16,9,56.3,5,31.3,403,1924,984,19,11,4,11,19,482,29,17:15:00,/en/matches/08aea0af/Monaco-Metz-September-21-2025-Ligue-1
+2025-09-27,Matchweek 6,Sat,Home,W,3,1,Lorient,47,657,71,242,267,155,28,657,23,15,65.2,5,21.7,454,2522,1364,33,16,6,13,10,472,52,17:00:00,/en/matches/ce237644/Lorient-Monaco-September-27-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Away,D,2,2,Nice,35,429,88,196,140,98,15,428,18,7,38.9,9,50.0,208,1134,592,10,4,3,9,3,203,22,17:15:00,/en/matches/93639c78/Monaco-Nice-October-5-2025-Ligue-1
+2025-10-18,Matchweek 8,Sat,Home,D,1,1,Angers,42,552,68,204,248,109,22,552,13,6,46.2,5,38.5,252,1407,729,17,11,7,17,13,346,28,19:00:00,/en/matches/aeed11a9/Angers-Monaco-October-18-2025-Ligue-1
+2025-10-25,Matchweek 9,Sat,Away,L,0,1,Toulouse,47,504,39,125,246,139,21,504,29,12,41.4,14,48.3,253,974,404,8,11,2,13,9,264,46,19:00:00,/en/matches/fe7036bb/Monaco-Toulouse-October-25-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Home,L,3,5,Nantes,50,535,73,199,230,115,18,535,27,12,44.4,15,55.6,292,1554,719,14,12,3,17,8,314,35,21:05:00,/en/matches/61307c58/Nantes-Monaco-October-29-2025-Ligue-1
+2025-11-01,Matchweek 11,Sat,Away,W,1,0,Paris FC,44,566,78,243,226,106,13,566,12,5,41.7,6,50.0,298,1446,773,13,12,2,13,9,344,17,19:00:00,/en/matches/a6e9b50e/Monaco-Paris-FC-November-1-2025-Ligue-1
+2025-11-08,Matchweek 12,Sat,Away,W,4,1,Lens,50,633,73,218,301,124,38,633,21,10,47.6,9,42.9,282,1527,742,16,6,7,12,11,417,34,21:05:00,/en/matches/8351b4ea/Monaco-Lens-November-8-2025-Ligue-1
+2025-08-17,Matchweek 1,Sun,Away,W,1,0,Paris S-G,70,896,39,107,385,410,40,896,27,6,22.2,17,63.0,524,3027,1519,36,21,12,15,6,699,84,20:45:00,/en/matches/8ed2fa41/Nantes-Paris-Saint-Germain-August-17-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Home,W,1,0,Strasbourg,49,629,56,168,292,172,19,629,24,7,29.2,16,66.7,270,1525,742,15,12,3,12,5,416,50,17:15:00,/en/matches/f5b0aa33/Strasbourg-Nantes-August-24-2025-Ligue-1
+2025-08-30,Matchweek 3,Sat,Away,L,0,1,Auxerre,58,593,55,175,274,155,24,593,15,6,40.0,6,40.0,351,1597,815,17,8,6,13,8,395,38,19:00:00,/en/matches/9db213a2/Nantes-Auxerre-August-30-2025-Ligue-1
+2025-09-13,Matchweek 4,Sat,Home,W,1,0,Nice,59,650,66,182,322,151,24,650,12,6,50.0,6,50.0,381,2076,1034,24,15,3,13,6,448,27,17:00:00,/en/matches/3bd330c7/Nice-Nantes-September-13-2025-Ligue-1
+2025-09-20,Matchweek 5,Sat,Away,D,2,2,Rennes,57,634,66,216,296,125,20,633,9,5,55.6,4,44.4,255,1531,698,14,6,6,14,9,448,38,17:00:00,/en/matches/23cfe985/Nantes-Rennes-September-20-2025-Ligue-1
+2025-09-27,Matchweek 6,Sat,Home,D,2,2,Toulouse,45,555,51,139,292,130,36,554,14,8,57.1,6,42.9,308,1549,818,18,9,7,16,11,348,39,19:00:00,/en/matches/30f98e8d/Toulouse-Nantes-September-27-2025-Ligue-1
+2025-10-04,Matchweek 7,Sat,Home,D,0,0,Brest,51,542,52,188,220,137,28,542,10,5,50.0,4,40.0,331,1414,643,12,10,4,18,9,342,43,19:00:00,/en/matches/329f92b2/Brest-Nantes-October-4-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Away,W,2,0,Lille,63,716,85,223,280,216,46,716,18,6,33.3,12,66.7,491,2527,1422,26,21,8,16,5,490,54,20:45:00,/en/matches/98c265c0/Nantes-Lille-October-19-2025-Ligue-1
+2025-10-24,Matchweek 9,Fri,Home,L,1,2,Paris FC,67,704,45,179,312,215,31,704,8,3,37.5,4,50.0,436,1963,1062,14,14,7,12,8,512,54,20:45:00,/en/matches/e38cdc1f/Paris-FC-Nantes-October-24-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Away,W,5,3,Monaco,50,569,53,173,287,112,34,569,12,8,66.7,4,33.3,315,1795,927,25,16,8,23,12,342,42,21:05:00,/en/matches/61307c58/Nantes-Monaco-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Away,W,2,0,Metz,47,489,82,238,190,70,16,489,11,6,54.5,5,45.5,281,1693,873,13,10,1,12,6,292,23,17:15:00,/en/matches/1d6a5a0b/Nantes-Metz-November-2-2025-Ligue-1
+2025-11-08,Matchweek 12,Sat,Home,D,1,1,Le Havre,64,655,26,135,324,205,38,655,16,6,37.5,10,62.5,408,2868,1388,35,23,7,17,6,433,56,19:00:00,/en/matches/dd1c75e9/Le-Havre-Nantes-November-8-2025-Ligue-1
+2025-08-16,Matchweek 1,Sat,Away,W,1,0,Toulouse,43,514,80,198,211,110,30,514,18,12,66.7,5,27.8,233,1228,677,16,10,8,17,12,316,26,21:05:00,/en/matches/086666a1/Nice-Toulouse-August-16-2025-Ligue-1
+2025-08-23,Matchweek 2,Sat,Away,L,1,3,Auxerre,45,521,61,189,217,123,13,521,10,8,80.0,1,10.0,307,1680,828,15,14,3,14,11,327,24,19:00:00,/en/matches/1a63326e/Nice-Auxerre-August-23-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Home,W,3,1,Le Havre,42,483,88,205,193,90,18,483,13,8,61.5,4,30.8,205,1311,728,16,9,0,13,7,286,16,17:15:00,/en/matches/d7190d58/Le-Havre-Nice-August-31-2025-Ligue-1
+2025-09-13,Matchweek 4,Sat,Away,L,0,1,Nantes,41,476,74,185,197,104,20,476,13,4,30.8,9,69.2,284,1637,864,17,12,3,10,7,296,20,17:00:00,/en/matches/3bd330c7/Nice-Nantes-September-13-2025-Ligue-1
+2025-09-20,Matchweek 5,Sat,Home,W,4,1,Brest,38,513,86,236,201,85,12,513,13,7,53.8,5,38.5,260,1095,565,10,6,3,22,9,304,13,19:00:00,/en/matches/cd6a399a/Brest-Nice-September-20-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Away,D,1,1,Paris FC,56,645,96,263,265,122,24,644,7,3,42.9,3,42.9,318,1727,691,9,8,2,14,12,456,39,15:00:00,/en/matches/5be99991/Nice-Paris-FC-September-28-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Home,D,2,2,Monaco,65,688,38,135,322,242,36,686,14,5,35.7,7,50.0,471,2511,1327,23,27,3,18,7,473,67,17:15:00,/en/matches/93639c78/Monaco-Nice-October-5-2025-Ligue-1
+2025-10-18,Matchweek 8,Sat,Away,L,2,3,Lyon,69,729,41,155,314,268,48,728,17,7,41.2,8,47.1,436,2267,1085,21,21,7,14,7,499,63,17:00:00,/en/matches/b4b8f430/Nice-Lyon-October-18-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Home,L,1,2,Rennes,58,650,50,163,291,204,26,650,15,5,33.3,10,66.7,401,2240,1141,22,15,3,18,4,443,44,17:15:00,/en/matches/b111d632/Rennes-Nice-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Away,L,0,2,Lille,68,744,36,144,331,274,39,744,5,2,40.0,3,60.0,478,2831,1576,39,22,13,17,9,527,78,19:00:00,/en/matches/79a943de/Nice-Lille-October-29-2025-Ligue-1
+2025-11-01,Matchweek 11,Sat,Home,W,1,0,Paris S-G,76,982,24,88,436,458,62,982,17,9,52.9,8,47.1,567,2454,1313,27,13,12,15,12,800,111,17:00:00,/en/matches/3f271d67/Paris-Saint-Germain-Nice-November-1-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Home,W,2,1,Metz,50,551,65,227,232,100,12,550,18,12,66.7,5,27.8,350,1834,876,21,11,3,13,8,373,23,17:15:00,/en/matches/958a0a33/Metz-Nice-November-9-2025-Ligue-1
+2025-08-17,Matchweek 1,Sun,Home,W,1,0,Angers,32,419,84,217,131,73,10,419,7,1,14.3,6,85.7,212,1039,461,12,12,4,18,6,222,20,17:15:00,/en/matches/c69996e3/Angers-Paris-FC-August-17-2025-Ligue-1
+2025-08-23,Matchweek 2,Sat,Home,W,5,2,Marseille,60,695,52,162,413,123,23,693,10,5,50.0,5,50.0,466,2249,1225,18,12,5,10,5,558,46,17:00:00,/en/matches/7c56af85/Marseille-Paris-FC-August-23-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Away,L,2,3,Metz,49,625,104,264,270,93,23,625,9,7,77.8,2,22.2,356,1959,1127,19,12,7,14,5,428,30,17:15:00,/en/matches/adae2347/Paris-FC-Metz-August-31-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Home,L,1,2,Brest,47,567,34,157,268,146,27,566,11,3,27.3,8,72.7,309,1465,658,12,14,1,14,13,347,41,17:15:00,/en/matches/52e5e5bd/Brest-Paris-FC-September-14-2025-Ligue-1
+2025-09-21,Matchweek 5,Sun,Away,W,3,2,Strasbourg,39,549,104,251,210,92,23,549,9,4,44.4,5,55.6,250,1184,664,16,10,7,16,14,359,26,15:00:00,/en/matches/08bc19be/Paris-FC-Strasbourg-September-21-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Home,D,1,1,Nice,44,526,55,172,233,128,18,526,13,3,23.1,8,61.5,295,1750,857,18,17,4,15,8,335,36,15:00:00,/en/matches/5be99991/Nice-Paris-FC-September-28-2025-Ligue-1
+2025-10-03,Matchweek 7,Fri,Away,L,0,2,Lorient,42,577,60,196,275,107,17,577,16,7,43.8,7,43.8,377,1648,737,9,4,1,9,10,405,25,20:45:00,/en/matches/9c3f352c/Paris-FC-Lorient-October-3-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Home,W,2,1,Lens,43,582,37,129,264,195,42,581,12,5,41.7,6,50.0,213,855,480,17,5,3,13,7,351,54,15:00:00,/en/matches/3c82b9ba/Lens-Paris-FC-October-19-2025-Ligue-1
+2025-10-24,Matchweek 9,Fri,Away,W,2,1,Nantes,33,416,79,206,155,62,10,416,18,9,50.0,9,50.0,221,1274,647,11,10,3,12,9,218,16,20:45:00,/en/matches/e38cdc1f/Paris-FC-Nantes-October-24-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Away,D,3,3,Lyon,48,576,67,225,282,77,8,576,16,4,25.0,10,62.5,316,1353,673,10,6,5,15,8,386,25,21:05:00,/en/matches/43400423/Paris-FC-Lyon-October-29-2025-Ligue-1
+2025-11-01,Matchweek 11,Sat,Home,L,0,1,Monaco,56,651,35,144,338,172,17,651,7,2,28.6,5,71.4,365,1821,1004,14,18,4,7,4,449,47,19:00:00,/en/matches/a6e9b50e/Monaco-Paris-FC-November-1-2025-Ligue-1
+2025-11-07,Matchweek 12,Fri,Away,W,1,0,Rennes,48,561,64,177,276,112,16,561,13,6,46.2,6,46.2,301,1595,796,21,10,7,15,7,348,37,20:45:00,/en/matches/3feea3e9/Paris-FC-Rennes-November-7-2025-Ligue-1
+2025-08-17,Matchweek 1,Sun,Home,L,0,1,Nantes,30,439,128,286,113,43,12,439,13,3,23.1,9,69.2,243,1257,736,11,4,3,19,5,244,19,20:45:00,/en/matches/8ed2fa41/Nantes-Paris-Saint-Germain-August-17-2025-Ligue-1
+2025-08-22,Matchweek 2,Fri,Away,L,0,1,Angers,17,351,111,247,93,17,4,351,9,1,11.1,8,88.9,130,924,482,8,4,1,15,11,152,5,20:45:00,/en/matches/d1b5836d/Paris-Saint-Germain-Angers-August-22-2025-Ligue-1
+2025-08-30,Matchweek 3,Sat,Home,L,3,6,Toulouse,25,401,50,155,146,106,18,400,22,11,50.0,10,45.5,202,1223,556,15,5,4,16,4,218,19,21:05:00,/en/matches/3a38fbf2/Toulouse-Paris-Saint-Germain-August-30-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Away,L,0,2,Lens,32,478,73,202,182,100,17,478,13,5,38.5,7,53.8,280,1249,621,15,9,4,13,7,303,20,17:15:00,/en/matches/e8f63a9b/Paris-Saint-Germain-Lens-September-14-2025-Ligue-1
+2025-09-22,Matchweek 5,Mon,Home,W,1,0,Marseille,32,449,55,150,198,105,19,449,17,6,35.3,10,58.8,259,1078,407,8,8,5,19,7,260,24,20:00:00,/en/matches/e53e3ae2/Marseille-Paris-Saint-Germain-September-22-2025-Ligue-1
+2025-09-27,Matchweek 6,Sat,Away,L,0,2,Auxerre,34,478,43,165,205,114,19,478,23,9,39.1,13,56.5,290,1509,573,11,12,2,16,8,276,28,21:05:00,/en/matches/1012a2a6/Paris-Saint-Germain-Auxerre-September-27-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Home,D,1,1,Lille,38,519,59,188,206,129,29,519,8,6,75.0,2,25.0,275,1467,704,20,8,9,10,7,337,31,20:45:00,/en/matches/d476968b/Lille-Paris-Saint-Germain-October-5-2025-Ligue-1
+2025-10-17,Matchweek 8,Fri,Away,D,3,3,Strasbourg,29,452,77,203,174,81,17,452,19,2,10.5,17,89.5,272,1171,500,10,2,3,16,4,267,27,20:45:00,/en/matches/99baddf3/Paris-Saint-Germain-Strasbourg-October-17-2025-Ligue-1
+2025-10-25,Matchweek 9,Sat,Home,L,0,3,Brest,25,394,72,182,156,60,13,393,10,5,50.0,5,50.0,197,1060,572,13,6,2,16,1,201,17,17:00:00,/en/matches/c95d53be/Brest-Paris-Saint-Germain-October-25-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Home,D,1,1,Lorient,23,364,65,199,93,78,9,364,10,3,30.0,6,60.0,193,946,470,10,4,2,9,4,181,15,19:00:00,/en/matches/fae0cebf/Lorient-Paris-Saint-Germain-October-29-2025-Ligue-1
+2025-11-01,Matchweek 11,Sat,Away,L,0,1,Nice,24,408,127,271,119,23,4,408,21,15,71.4,6,28.6,203,936,441,8,2,2,20,7,200,8,17:00:00,/en/matches/3f271d67/Paris-Saint-Germain-Nice-November-1-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Home,L,2,3,Lyon,29,409,54,157,164,91,20,409,10,4,40.0,5,50.0,189,992,382,6,6,2,20,8,233,14,20:45:00,/en/matches/76c23d28/Lyon-Paris-Saint-Germain-November-9-2025-Ligue-1
+2025-08-15,Matchweek 1,Fri,Away,L,0,1,Marseille,72,885,49,168,410,307,33,885,14,4,28.6,9,64.3,503,2397,1147,20,18,8,12,0,683,68,20:45:00,/en/matches/fbd5fc84/Rennes-Marseille-August-15-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Home,W,4,0,Lorient,51,610,24,95,273,253,47,610,19,10,52.6,8,42.1,423,2100,1265,34,27,8,4,3,440,61,15:00:00,/en/matches/c085ae64/Lorient-Rennes-August-24-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Home,D,1,1,Angers,37,520,57,203,251,76,9,520,18,8,44.4,10,55.6,263,1512,843,20,5,3,16,7,354,25,15:00:00,/en/matches/e7cbffb3/Angers-Rennes-August-31-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Away,L,1,3,Lyon,52,633,83,255,260,128,19,633,17,8,47.1,8,47.1,359,1649,949,21,17,5,12,8,438,33,20:45:00,/en/matches/e8a7d6a7/Rennes-Lyon-September-14-2025-Ligue-1
+2025-09-20,Matchweek 5,Sat,Home,D,2,2,Nantes,43,500,53,183,214,110,27,499,10,6,60.0,4,40.0,287,1286,544,8,2,3,19,6,310,27,17:00:00,/en/matches/23cfe985/Nantes-Rennes-September-20-2025-Ligue-1
+2025-09-28,Matchweek 6,Sun,Away,D,0,0,Lens,34,432,75,202,132,106,24,432,20,9,45.0,8,40.0,159,1040,610,16,7,8,11,9,202,31,20:45:00,/en/matches/2516801b/Rennes-Lens-September-28-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Home,D,2,2,Le Havre,43,568,63,207,247,120,15,567,11,4,36.4,7,63.6,323,1740,879,13,14,2,11,9,352,36,17:15:00,/en/matches/7bb1158d/Le-Havre-Rennes-October-5-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Away,D,2,2,Auxerre,48,542,65,227,218,107,9,541,16,7,43.8,8,50.0,326,1428,473,12,5,4,17,15,334,20,17:15:00,/en/matches/4bebc386/Rennes-Auxerre-October-19-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Away,W,2,1,Nice,42,505,82,238,186,86,7,505,10,4,40.0,5,50.0,277,1353,692,8,9,1,16,8,293,22,17:15:00,/en/matches/b111d632/Rennes-Nice-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Home,D,2,2,Toulouse,55,588,51,156,289,149,40,587,15,7,46.7,8,53.3,325,2038,1115,26,11,7,10,7,377,45,21:05:00,/en/matches/f1f10fa5/Toulouse-Rennes-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Away,L,1,4,Strasbourg,58,752,50,196,412,148,34,752,26,9,34.6,16,61.5,524,2307,1292,20,12,5,26,6,545,57,15:00:00,/en/matches/34522872/Rennes-Strasbourg-November-2-2025-Ligue-1
+2025-11-07,Matchweek 12,Fri,Home,L,0,1,Paris FC,52,592,77,221,262,114,29,592,8,5,62.5,2,25.0,269,1555,861,15,7,5,12,11,383,36,20:45:00,/en/matches/3feea3e9/Paris-FC-Rennes-November-7-2025-Ligue-1
+2025-08-17,Matchweek 1,Sun,Home,L,0,1,Metz,37,517,63,248,210,64,12,517,26,14,53.8,11,42.3,303,1664,766,9,7,3,18,12,286,16,17:15:00,/en/matches/df64d32a/Metz-Strasbourg-August-17-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Away,L,0,1,Nantes,51,624,101,290,261,78,18,624,24,15,62.5,8,33.3,416,2024,958,17,4,5,6,11,420,21,17:15:00,/en/matches/f5b0aa33/Strasbourg-Nantes-August-24-2025-Ligue-1
+2025-08-31,Matchweek 3,Sun,Home,W,3,2,Monaco,43,539,75,194,246,106,20,539,18,9,50.0,8,44.4,258,1335,651,14,7,6,20,12,343,32,17:15:00,/en/matches/9fadc7e1/Monaco-Strasbourg-August-31-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Away,L,0,1,Le Havre,51,623,72,240,261,131,15,623,16,6,37.5,9,56.3,422,2672,1130,18,9,1,18,8,432,36,17:15:00,/en/matches/78ee6527/Strasbourg-Le-Havre-September-14-2025-Ligue-1
+2025-09-21,Matchweek 5,Sun,Home,L,2,3,Paris FC,61,784,59,231,346,212,36,784,16,9,56.3,7,43.8,415,1987,1001,25,16,14,14,7,603,63,15:00:00,/en/matches/08bc19be/Paris-FC-Strasbourg-September-21-2025-Ligue-1
+2025-09-26,Matchweek 6,Fri,Away,W,2,1,Marseille,60,732,64,204,323,209,24,732,14,7,50.0,7,50.0,509,1776,779,9,6,6,17,6,542,34,20:45:00,/en/matches/13d407ad/Strasbourg-Marseille-September-26-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Away,L,0,5,Angers,35,555,75,246,249,64,12,555,12,1,8.3,11,91.7,217,910,364,6,5,0,18,10,334,20,17:15:00,/en/matches/e2b6bcc0/Strasbourg-Angers-October-5-2025-Ligue-1
+2025-10-17,Matchweek 8,Fri,Home,D,3,3,Paris S-G,71,932,70,267,445,225,37,931,20,6,30.0,14,70.0,642,2926,1265,22,24,8,18,6,738,42,20:45:00,/en/matches/99baddf3/Paris-Saint-Germain-Strasbourg-October-17-2025-Ligue-1
+2025-10-26,Matchweek 9,Sun,Home,W,2,1,Lyon,48,513,55,201,227,89,22,512,11,4,36.4,6,54.5,301,1381,700,11,6,3,18,2,339,32,20:45:00,/en/matches/cd22fe80/Lyon-Strasbourg-October-26-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Away,L,0,3,Auxerre,36,519,63,195,219,113,11,519,9,4,44.4,5,55.6,291,1421,646,8,8,3,14,14,338,28,21:05:00,/en/matches/92626eca/Strasbourg-Auxerre-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Home,W,4,1,Rennes,42,564,73,215,250,106,25,564,20,7,35.0,13,65.0,195,1179,527,13,8,5,23,8,363,34,15:00:00,/en/matches/34522872/Rennes-Strasbourg-November-2-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Away,L,0,2,Lille,58,606,32,169,243,199,17,606,17,6,35.3,10,58.8,436,2372,1235,25,26,1,18,8,429,51,17:15:00,/en/matches/9ec5732e/Strasbourg-Lille-November-9-2025-Ligue-1
+2025-08-16,Matchweek 1,Sat,Home,L,0,1,Nice,57,635,63,192,280,167,30,635,22,10,45.5,12,54.5,372,1704,967,19,11,3,17,6,423,34,21:05:00,/en/matches/086666a1/Nice-Toulouse-August-16-2025-Ligue-1
+2025-08-24,Matchweek 2,Sun,Away,L,0,2,Brest,52,592,47,203,250,144,25,592,15,5,33.3,10,66.7,343,1725,748,7,10,3,20,8,371,35,17:15:00,/en/matches/d9a23dcd/Toulouse-Brest-August-24-2025-Ligue-1
+2025-08-30,Matchweek 3,Sat,Away,W,6,3,Paris S-G,75,991,76,283,508,206,31,989,20,6,30.0,13,65.0,663,3011,1557,33,23,9,23,4,816,53,21:05:00,/en/matches/3a38fbf2/Toulouse-Paris-Saint-Germain-August-30-2025-Ligue-1
+2025-09-14,Matchweek 4,Sun,Home,W,2,1,Lille,69,715,48,210,347,162,30,714,14,5,35.7,7,50.0,467,2035,1079,11,7,2,10,8,502,55,15:00:00,/en/matches/6c0057cb/Lille-Toulouse-September-14-2025-Ligue-1
+2025-09-21,Matchweek 5,Sun,Home,W,1,0,Auxerre,41,460,76,189,175,105,15,460,21,6,28.6,12,57.1,221,824,327,8,3,4,18,13,247,19,17:15:00,/en/matches/a2ea8dfd/Auxerre-Toulouse-September-21-2025-Ligue-1
+2025-09-27,Matchweek 6,Sat,Away,D,2,2,Nantes,55,662,105,314,259,92,18,662,16,6,37.5,8,50.0,391,1680,887,18,15,3,28,7,454,31,19:00:00,/en/matches/30f98e8d/Toulouse-Nantes-September-27-2025-Ligue-1
+2025-10-05,Matchweek 7,Sun,Home,L,1,2,Lyon,69,721,79,300,311,120,19,721,13,7,53.8,6,46.2,371,2032,1046,15,14,4,16,6,520,29,15:00:00,/en/matches/60ecc64f/Lyon-Toulouse-October-5-2025-Ligue-1
+2025-10-19,Matchweek 8,Sun,Away,L,0,4,Metz,64,723,112,347,300,79,6,723,13,5,38.5,7,53.8,472,2570,1190,15,13,1,13,6,563,22,17:15:00,/en/matches/c8f84615/Toulouse-Metz-October-19-2025-Ligue-1
+2025-10-25,Matchweek 9,Sat,Home,W,1,0,Monaco,53,595,72,229,298,74,19,595,11,5,45.5,6,54.5,254,1178,496,8,10,1,23,8,342,25,19:00:00,/en/matches/fe7036bb/Monaco-Toulouse-October-25-2025-Ligue-1
+2025-10-29,Matchweek 10,Wed,Away,D,2,2,Rennes,45,507,100,250,185,73,11,507,13,6,46.2,7,53.8,190,926,518,10,5,3,16,7,295,26,21:05:00,/en/matches/f1f10fa5/Toulouse-Rennes-October-29-2025-Ligue-1
+2025-11-02,Matchweek 11,Sun,Away,D,0,0,Le Havre,54,608,115,292,234,88,8,608,11,6,54.5,5,45.5,338,1930,907,9,14,1,14,4,362,28,17:15:00,/en/matches/75cf1ad9/Toulouse-Le-Havre-November-2-2025-Ligue-1
+2025-11-09,Matchweek 12,Sun,Home,D,1,1,Lorient,49,541,47,197,220,129,19,540,22,10,45.5,10,45.5,311,1869,1002,19,10,5,17,11,334,35,15:00:00,/en/matches/3b9a668d/Lorient-Toulouse-November-9-2025-Ligue-1

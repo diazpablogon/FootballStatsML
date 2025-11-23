@@ -1,0 +1,247 @@
+date,round,day,venue,result,GF,GA,opponent,Standard_Gls,Standard_Sh,Standard_SoT,Standard_SoT%,Standard_G/Sh,Standard_G/SoT,Standard_Dist,Standard_FK,Standard_PK,Standard_PKatt,Expected_xG,Expected_npxG,Expected_npxG/Sh,Expected_G-xG,Expected_np:G-xG,time,match_report
+2025-08-17,Round of 64,Sun,Home,L,0,2,Hallescher,0,10,2,20.0,0.0,0.0,,,0,0,,,,,,18:00:00,/en/matches/7e307b25/Hallescher-Augsburg-August-17-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Home,L,1,3,Freiburg,1,15,3,20.0,0.0,0.0,16.0,0,1,1,2.4,1.6,0.12,-1.4,-1.6,15:30:00,/en/matches/88a38ef6/Freiburg-Augsburg-August-23-2025-Bundesliga
+2025-08-30,Matchweek 2,Sat,Away,W,3,2,Bayern Munich,3,20,10,50.0,0.15,0.3,14.7,0,0,0,4.2,4.2,0.21,-1.2,-1.2,18:30:00,/en/matches/ea3ae751/Augsburg-Bayern-Munich-August-30-2025-Bundesliga
+2025-09-14,Matchweek 3,Sun,Home,W,2,1,St. Pauli,2,12,6,50.0,0.17,0.33,20.5,1,0,1,1.8,0.9,0.08,0.2,1.1,15:30:00,/en/matches/940c2e4e/St-Pauli-Augsburg-September-14-2025-Bundesliga
+2025-09-20,Matchweek 4,Sat,Away,W,4,1,Mainz 05,4,12,4,33.3,0.33,1.0,13.2,0,0,0,2.5,2.5,0.21,1.5,1.5,15:30:00,/en/matches/a959bbb1/Augsburg-Mainz-05-September-20-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Home,W,2,1,Heidenheim,2,11,5,45.5,0.18,0.4,15.9,1,0,0,1.2,1.2,0.11,0.8,0.8,15:30:00,/en/matches/d445268d/Heidenheim-Augsburg-September-27-2025-Bundesliga
+2025-10-04,Matchweek 6,Sat,Away,L,1,3,Wolfsburg,1,14,4,28.6,0.07,0.25,16.5,0,0,0,1.2,1.2,0.08,-0.2,-0.2,15:30:00,/en/matches/30d2fc3a/Augsburg-Wolfsburg-October-4-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Home,D,1,1,Köln,1,9,2,22.2,0.11,0.5,20.5,1,0,0,0.6,0.6,0.06,0.4,0.4,15:30:00,/en/matches/cc14e577/Koln-Augsburg-October-18-2025-Bundesliga
+2025-10-25,Matchweek 8,Sat,Away,W,6,0,RB Leipzig,6,15,8,53.3,0.4,0.75,16.5,0,0,0,2.7,2.7,0.18,3.3,3.3,15:30:00,/en/matches/4ce34326/Augsburg-RB-Leipzig-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Away,W,1,0,Bochum,1,16,4,25.0,0.06,0.25,,,0,0,,,,,,20:45:00,/en/matches/3c527431/Augsburg-Bochum-October-28-2025-DFB-Pokal
+2025-10-31,Matchweek 9,Fri,Away,W,1,0,Dortmund,1,5,1,20.0,0.2,1.0,16.8,0,0,0,0.3,0.3,0.07,0.7,0.7,20:30:00,/en/matches/598fe99f/Augsburg-Dortmund-October-31-2025-Bundesliga
+2025-11-09,Matchweek 10,Sun,Home,W,3,2,Stuttgart,3,16,5,31.3,0.13,0.4,17.4,1,1,1,2.3,1.5,0.1,0.7,0.5,17:30:00,/en/matches/1c06d4ba/Stuttgart-Augsburg-November-9-2025-Bundesliga
+2025-08-16,Franz Beckenbauer Supercup,Sat,Home,L,1,2,Stuttgart,1,14,5,35.7,0.07,0.2,,,0,0,,,,,,20:30:00,/en/matches/d6d2f0d1/Stuttgart-Bayern-Munich-August-16-2025-Franz-Beckenbauer-Supercup
+2025-08-22,Matchweek 1,Fri,Away,L,0,6,RB Leipzig,0,12,1,8.3,0.0,0.0,17.1,0,0,0,0.5,0.5,0.05,-0.5,-0.5,20:30:00,/en/matches/8eb0f477/Bayern-Munich-RB-Leipzig-August-22-2025-Bundesliga
+2025-08-27,Round of 64,Wed,Home,L,2,3,Wehen,2,6,2,33.3,0.33,1.0,,,0,0,,,,,,20:45:00,/en/matches/c9e22857/Wehen-Wiesbaden-Bayern-Munich-August-27-2025-DFB-Pokal
+2025-08-30,Matchweek 2,Sat,Home,L,2,3,Augsburg,2,10,3,30.0,0.2,0.67,18.1,0,0,0,0.5,0.5,0.05,1.5,1.5,18:30:00,/en/matches/ea3ae751/Augsburg-Bayern-Munich-August-30-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Away,L,0,5,Hamburger SV,0,9,2,22.2,0.0,0.0,13.7,0,0,0,0.6,0.6,0.06,-0.6,-0.6,18:30:00,/en/matches/91e6a499/Bayern-Munich-Hamburger-SV-September-13-2025-Bundesliga
+2025-09-17,League phase,Wed,Away,L,1,3,Chelsea,1,9,3,33.3,0.11,0.33,20.5,0,0,0,0.7,0.7,0.08,0.3,0.3,21:00:00,/en/matches/d8142627/Bayern-Munich-Chelsea-September-17-2025-Champions-League
+2025-09-20,Matchweek 4,Sat,Home,L,1,4,Hoffenheim,1,13,3,23.1,0.08,0.33,16.1,1,0,0,0.9,0.9,0.07,0.1,0.1,15:30:00,/en/matches/f7a59cca/Hoffenheim-Bayern-Munich-September-20-2025-Bundesliga
+2025-09-26,Matchweek 5,Fri,Away,L,0,4,Werder Bremen,0,9,3,33.3,0.0,0.0,19.9,1,0,0,0.4,0.4,0.05,-0.4,-0.4,20:30:00,/en/matches/a50ce74d/Bayern-Munich-Werder-Bremen-September-26-2025-Bundesliga
+2025-09-30,League phase,Tue,Home,L,1,5,Pafos FC,1,6,2,33.3,0.17,0.5,18.6,0,0,0,0.4,0.4,0.07,0.6,0.6,22:00:00,/en/matches/0167be93/Pafos-FC-Bayern-Munich-September-30-2025-Champions-League
+2025-10-04,Matchweek 6,Sat,Home,L,0,3,Eint Frankfurt,0,6,1,16.7,0.0,0.0,20.5,0,0,0,0.3,0.3,0.05,-0.3,-0.3,18:30:00,/en/matches/96ea3861/Eintracht-Frankfurt-Bayern-Munich-October-4-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Away,L,1,2,Dortmund,1,8,1,12.5,0.13,1.0,16.4,0,0,0,1.6,1.6,0.2,-0.6,-0.6,18:30:00,/en/matches/2b1ceae8/Der-Klassiker-Bayern-Munich-Dortmund-October-18-2025-Bundesliga
+2025-10-22,League phase,Wed,Away,L,0,4,Club Brugge,0,5,2,40.0,0.0,0.0,16.7,0,0,0,0.3,0.3,0.05,-0.3,-0.3,21:00:00,/en/matches/3575ee98/Bayern-Munich-Club-Brugge-October-22-2025-Champions-League
+2025-10-25,Matchweek 8,Sat,Home,L,0,3,Gladbach,0,0,0,,,,,0,0,1,0.8,0.0,,-0.8,0.0,15:45:00,/en/matches/bcdd851c/Monchengladbach-Bayern-Munich-October-25-2025-Bundesliga
+2025-10-29,Round of 32,Wed,Home,L,1,4,Köln,1,13,7,53.8,0.08,0.14,,,0,0,,,,,,20:45:00,/en/matches/0a07720e/Koln-Bayern-Munich-October-29-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Away,L,0,3,Leverkusen,0,7,1,14.3,0.0,0.0,26.0,0,0,0,0.4,0.4,0.06,-0.4,-0.4,18:30:00,/en/matches/23eeabbb/Bayern-Munich-Bayer-Leverkusen-November-1-2025-Bundesliga
+2025-11-04,League phase,Tue,Home,L,1,2,Paris S-G,1,25,9,36.0,0.04,0.11,20.4,0,0,0,1.9,1.9,0.08,-0.9,-0.9,21:00:00,/en/matches/29822d1e/Paris-Saint-Germain-Bayern-Munich-November-4-2025-Champions-League
+2025-11-08,Matchweek 10,Sat,Home,D,2,2,Union Berlin,2,12,4,33.3,0.17,0.5,21.1,0,0,0,0.8,0.8,0.07,1.2,1.2,15:30:00,/en/matches/4ceaf237/Union-Berlin-Bayern-Munich-November-8-2025-Bundesliga
+2025-08-18,Round of 64,Mon,Home,L,0,1,Rot-Weiss Essen,0,12,5,41.7,0.0,0.0,,,0,0,,,,,,20:45:00,/en/matches/4131da73/Rot-Weiss-Essen-Dortmund-August-18-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Home,D,3,3,St. Pauli,3,10,6,60.0,0.2,0.33,19.2,0,1,1,1.2,0.5,0.05,1.8,1.5,18:30:00,/en/matches/243e124a/St-Pauli-Dortmund-August-23-2025-Bundesliga
+2025-08-31,Matchweek 2,Sun,Away,L,0,3,Union Berlin,0,12,3,25.0,0.0,0.0,16.1,1,0,0,1.1,1.1,0.1,-1.1,-1.1,17:30:00,/en/matches/217ef044/Dortmund-Union-Berlin-August-31-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Home,L,0,2,Heidenheim,0,6,1,16.7,0.0,0.0,21.2,0,0,0,0.4,0.4,0.07,-0.4,-0.4,15:30:00,/en/matches/906ce9a1/Heidenheim-Dortmund-September-13-2025-Bundesliga
+2025-09-16,League phase,Tue,Home,D,4,4,Juventus,4,19,7,36.8,0.21,0.57,17.2,0,0,0,1.9,1.9,0.1,2.1,2.1,21:00:00,/en/matches/fd940777/Juventus-Dortmund-September-16-2025-Champions-League
+2025-09-21,Matchweek 4,Sun,Away,L,0,1,Wolfsburg,0,9,0,0.0,0.0,,18.6,0,0,0,0.8,0.8,0.09,-0.8,-0.8,19:30:00,/en/matches/d3e98705/Dortmund-Wolfsburg-September-21-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Home,L,0,2,Mainz 05,0,8,2,25.0,0.0,0.0,17.0,0,0,0,0.5,0.5,0.06,-0.5,-0.5,15:30:00,/en/matches/92fc78f1/Mainz-05-Dortmund-September-27-2025-Bundesliga
+2025-10-01,League phase,Wed,Away,L,1,4,Athletic Club,1,6,3,50.0,0.17,0.33,14.3,0,0,0,0.9,0.9,0.16,0.1,0.1,21:00:00,/en/matches/456601f1/Dortmund-Athletic-Club-October-1-2025-Champions-League
+2025-10-04,Matchweek 6,Sat,Away,D,1,1,RB Leipzig,1,13,3,23.1,0.08,0.33,17.1,0,0,0,1.1,1.1,0.09,-0.1,-0.1,15:30:00,/en/matches/76f8a93f/Dortmund-RB-Leipzig-October-4-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Home,W,2,1,Bayern Munich,2,15,7,46.7,0.13,0.29,15.0,0,0,0,2.4,2.4,0.17,-0.4,-0.4,18:30:00,/en/matches/2b1ceae8/Der-Klassiker-Bayern-Munich-Dortmund-October-18-2025-Bundesliga
+2025-10-21,League phase,Tue,Home,L,2,4,FC Copenhagen,1,11,4,36.4,0.09,0.25,19.7,1,0,0,0.8,0.8,0.07,0.2,0.2,21:00:00,/en/matches/41abb87d/FC-Copenhagen-Dortmund-October-21-2025-Champions-League
+2025-10-25,Matchweek 8,Sat,Away,L,0,1,Köln,0,5,0,0.0,0.0,,11.9,0,0,0,0.5,0.5,0.1,-0.5,-0.5,18:30:00,/en/matches/eeacfafc/Dortmund-Koln-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Home,D,1 (2),1 (4),Eint Frankfurt,1,16,7,43.8,0.06,0.14,,,0,0,,,,,,18:30:00,/en/matches/54bdf93c/Eintracht-Frankfurt-Dortmund-October-28-2025-DFB-Pokal
+2025-10-31,Matchweek 9,Fri,Home,L,0,1,Augsburg,0,9,1,11.1,0.0,0.0,17.0,0,0,0,0.8,0.8,0.09,-0.8,-0.8,20:30:00,/en/matches/598fe99f/Augsburg-Dortmund-October-31-2025-Bundesliga
+2025-11-05,League phase,Wed,Home,W,4,1,Manchester City,4,18,11,61.1,0.22,0.36,17.4,1,0,0,1.9,1.9,0.11,2.1,2.1,20:00:00,/en/matches/4c4cc6a1/Manchester-City-Dortmund-November-5-2025-Champions-League
+2025-11-08,Matchweek 10,Sat,Home,D,1,1,Hamburger SV,1,9,3,33.3,0.11,0.33,16.0,0,0,0,0.6,0.6,0.07,0.4,0.4,15:30:00,/en/matches/52d75dc1/Hamburger-SV-Dortmund-November-8-2025-Bundesliga
+2025-08-17,Round of 64,Sun,Home,L,0,5,FV Engers 07,0,6,1,16.7,0.0,0.0,,,0,0,,,,,,13:00:00,/en/matches/ad462321/FV-Engers-07-Eintracht-Frankfurt-August-17-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Away,L,1,4,Werder Bremen,1,10,5,50.0,0.1,0.2,21.5,1,0,0,0.5,0.5,0.05,0.5,0.5,15:30:00,/en/matches/c5a0f8ab/Eintracht-Frankfurt-Werder-Bremen-August-23-2025-Bundesliga
+2025-08-30,Matchweek 2,Sat,Home,L,1,3,Hoffenheim,1,17,5,29.4,0.06,0.2,17.9,0,0,0,1.4,1.4,0.08,-0.4,-0.4,15:30:00,/en/matches/3dd41a40/Hoffenheim-Eintracht-Frankfurt-August-30-2025-Bundesliga
+2025-09-12,Matchweek 3,Fri,Home,W,3,1,Leverkusen,3,17,6,35.3,0.12,0.33,17.6,2,1,1,2.1,1.3,0.08,0.9,0.7,20:30:00,/en/matches/09882b39/Bayer-Leverkusen-Eintracht-Frankfurt-September-12-2025-Bundesliga
+2025-09-18,League phase,Thu,Away,L,1,5,Galatasaray,1,14,5,35.7,0.07,0.2,19.8,0,0,0,1.1,1.1,0.08,-0.1,-0.1,21:00:00,/en/matches/96500f2e/Eintracht-Frankfurt-Galatasaray-September-18-2025-Champions-League
+2025-09-21,Matchweek 4,Sun,Away,W,4,3,Union Berlin,4,11,5,45.5,0.36,0.8,18.6,0,0,0,1.7,1.7,0.16,2.3,2.3,15:30:00,/en/matches/448ea72f/Eintracht-Frankfurt-Union-Berlin-September-21-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Home,L,4,6,Gladbach,4,11,8,72.7,0.36,0.5,12.4,0,0,0,1.7,1.7,0.16,2.3,2.3,18:30:00,/en/matches/5212aa89/Monchengladbach-Eintracht-Frankfurt-September-27-2025-Bundesliga
+2025-09-30,League phase,Tue,Home,W,5,1,Atlético Madrid,5,17,11,64.7,0.24,0.36,13.4,0,1,1,4.3,3.6,0.23,0.7,0.4,21:00:00,/en/matches/bc209de1/Atletico-Madrid-Eintracht-Frankfurt-September-30-2025-Champions-League
+2025-10-04,Matchweek 6,Sat,Away,W,3,0,Bayern Munich,3,12,3,25.0,0.25,1.0,14.8,0,0,0,1.7,1.7,0.14,1.3,1.3,18:30:00,/en/matches/96ea3861/Eintracht-Frankfurt-Bayern-Munich-October-4-2025-Bundesliga
+2025-10-19,Matchweek 7,Sun,Home,D,2,2,Freiburg,2,12,5,41.7,0.17,0.4,13.8,1,0,0,1.1,1.1,0.09,0.9,0.9,15:30:00,/en/matches/1285edc1/Freiburg-Eintracht-Frankfurt-October-19-2025-Bundesliga
+2025-10-22,League phase,Wed,Away,W,5,1,Liverpool,5,18,14,77.8,0.28,0.36,13.6,1,0,0,3.2,3.2,0.18,1.8,1.8,21:00:00,/en/matches/81f9de1b/Eintracht-Frankfurt-Liverpool-October-22-2025-Champions-League
+2025-10-25,Matchweek 8,Sat,Away,L,0,2,St. Pauli,0,9,1,11.1,0.0,0.0,23.4,1,0,0,0.4,0.4,0.04,-0.4,-0.4,15:30:00,/en/matches/0c04c6a6/Eintracht-Frankfurt-St-Pauli-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Away,D,1 (4),1 (2),Dortmund,1,13,3,23.1,0.08,0.33,,,0,0,,,,,,18:30:00,/en/matches/54bdf93c/Eintracht-Frankfurt-Dortmund-October-28-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Home,D,1,1,Heidenheim,1,9,4,44.4,0.11,0.25,20.5,0,0,0,0.8,0.8,0.09,0.2,0.2,15:30:00,/en/matches/334ac0b2/Heidenheim-Eintracht-Frankfurt-November-1-2025-Bundesliga
+2025-11-04,League phase,Tue,Home,D,0,0,Napoli,0,18,2,11.1,0.0,0.0,14.8,0,0,0,1.8,1.8,0.1,-1.8,-1.8,18:45:00,/en/matches/397ea615/Napoli-Eintracht-Frankfurt-November-4-2025-Champions-League
+2025-11-09,Matchweek 10,Sun,Away,L,0,1,Mainz 05,0,3,0,0.0,0.0,,20.0,0,0,0,0.1,0.1,0.05,-0.1,-0.1,19:30:00,/en/matches/934c7914/Eintracht-Frankfurt-Mainz-05-November-9-2025-Bundesliga
+2025-08-16,Round of 64,Sat,Home,L,0,2,Sportfreunde Lotte,0,2,0,0.0,0.0,,,,0,0,,,,,,18:00:00,/en/matches/21d5fcc8/Sportfreunde-Lotte-Freiburg-August-16-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Away,W,3,1,Augsburg,3,14,5,35.7,0.21,0.6,17.3,1,0,0,1.3,1.3,0.1,1.7,1.7,15:30:00,/en/matches/88a38ef6/Freiburg-Augsburg-August-23-2025-Bundesliga
+2025-08-31,Matchweek 2,Sun,Home,W,4,1,Köln,4,18,6,33.3,0.22,0.67,16.5,0,0,0,2.1,2.1,0.12,1.9,1.9,19:30:00,/en/matches/4291408f/Koln-Freiburg-August-31-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Away,L,1,3,Stuttgart,1,7,2,28.6,0.14,0.5,15.9,0,0,0,0.4,0.4,0.06,0.6,0.6,15:30:00,/en/matches/47deb66f/Freiburg-Stuttgart-September-13-2025-Bundesliga
+2025-09-20,Matchweek 4,Sat,Home,L,0,3,Werder Bremen,0,11,4,36.4,0.0,0.0,20.2,0,0,1,1.2,0.4,0.04,-1.2,-0.4,15:30:00,/en/matches/a7e96019/Werder-Bremen-Freiburg-September-20-2025-Bundesliga
+2025-09-24,League phase,Wed,Away,L,1,2,Basel,1,15,4,26.7,0.07,0.25,15.6,0,0,0,1.0,1.0,0.08,0.0,0.0,21:00:00,/en/matches/a870daef/Freiburg-Basel-September-24-2025-Europa-League
+2025-09-28,Matchweek 5,Sun,Away,D,1,1,Hoffenheim,1,15,4,26.7,0.07,0.25,15.4,1,0,0,2.5,2.5,0.17,-1.5,-1.5,15:30:00,/en/matches/a20222e0/Freiburg-Hoffenheim-September-28-2025-Bundesliga
+2025-10-02,League phase,Thu,Home,D,1,1,Bologna,1,8,3,37.5,0.13,0.33,19.9,0,0,0,0.8,0.8,0.11,0.2,0.2,18:45:00,/en/matches/f8c47d0b/Bologna-Freiburg-October-2-2025-Europa-League
+2025-10-05,Matchweek 6,Sun,Home,D,0,0,Gladbach,0,9,5,55.6,0.0,0.0,21.1,0,0,0,0.5,0.5,0.06,-0.5,-0.5,19:30:00,/en/matches/bacd63d5/Monchengladbach-Freiburg-October-5-2025-Bundesliga
+2025-10-19,Matchweek 7,Sun,Away,D,2,2,Eint Frankfurt,2,8,3,37.5,0.25,0.67,14.6,0,0,0,0.8,0.8,0.1,1.2,1.2,15:30:00,/en/matches/1285edc1/Freiburg-Eintracht-Frankfurt-October-19-2025-Bundesliga
+2025-10-23,League phase,Thu,Away,L,0,2,Utrecht,0,11,2,18.2,0.0,0.0,19.1,1,0,0,1.0,1.0,0.09,-1.0,-1.0,21:00:00,/en/matches/66122087/Freiburg-Utrecht-October-23-2025-Europa-League
+2025-10-26,Matchweek 8,Sun,Home,W,2,0,Leverkusen,2,19,4,21.1,0.11,0.5,19.1,1,0,0,1.6,1.6,0.09,0.4,0.4,15:30:00,/en/matches/f42e0743/Bayer-Leverkusen-Freiburg-October-26-2025-Bundesliga
+2025-10-29,Round of 32,Wed,Home,L,1,3,Düsseldorf,1,19,4,21.1,0.05,0.25,,,0,0,,,,,,20:45:00,/en/matches/f5c567d4/Dusseldorf-Freiburg-October-29-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Home,D,0,0,Union Berlin,0,11,2,18.2,0.0,0.0,14.2,0,0,0,1.0,1.0,0.09,-1.0,-1.0,15:30:00,/en/matches/c63fd3ef/Union-Berlin-Freiburg-November-1-2025-Bundesliga
+2025-11-06,League phase,Thu,Home,L,1,3,Nice,1,17,4,23.5,0.06,0.25,18.0,0,0,0,1.8,1.8,0.11,-0.8,-0.8,18:45:00,/en/matches/2b1639e8/Nice-Freiburg-November-6-2025-Europa-League
+2025-11-09,Matchweek 10,Sun,Away,L,1,2,St. Pauli,1,7,2,28.6,0.14,0.5,16.2,0,0,0,0.5,0.5,0.08,0.5,0.5,15:30:00,/en/matches/9b9ef973/Freiburg-St-Pauli-November-9-2025-Bundesliga
+2025-08-17,Round of 64,Sun,Home,L,2,3,SV Atlas,2,8,4,50.0,0.25,0.5,,,0,0,,,,,,15:30:00,/en/matches/df9319d5/SV-Atlas-Monchengladbach-August-17-2025-DFB-Pokal
+2025-08-24,Matchweek 1,Sun,Away,D,0,0,Hamburger SV,0,7,1,14.3,0.0,0.0,21.1,0,0,0,0.4,0.4,0.06,-0.4,-0.4,17:30:00,/en/matches/fd0e77f1/Monchengladbach-Hamburger-SV-August-24-2025-Bundesliga
+2025-08-30,Matchweek 2,Sat,Home,W,1,0,Stuttgart,1,13,5,38.5,0.08,0.2,17.0,0,0,0,0.8,0.8,0.06,0.2,0.2,15:30:00,/en/matches/cc790c96/Stuttgart-Monchengladbach-August-30-2025-Bundesliga
+2025-09-14,Matchweek 3,Sun,Away,W,4,0,Werder Bremen,4,11,6,54.5,0.27,0.5,17.5,0,1,1,2.1,1.3,0.12,1.9,1.7,17:30:00,/en/matches/3b5873a4/Monchengladbach-Werder-Bremen-September-14-2025-Bundesliga
+2025-09-21,Matchweek 4,Sun,Home,D,1,1,Leverkusen,1,13,8,61.5,0.08,0.13,15.9,0,0,0,1.4,1.4,0.11,-0.4,-0.4,17:30:00,/en/matches/9d5112e8/Bayer-Leverkusen-Monchengladbach-September-21-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Away,W,6,4,Eint Frankfurt,6,21,7,33.3,0.29,0.86,16.8,0,0,0,2.8,2.8,0.13,3.2,3.2,18:30:00,/en/matches/5212aa89/Monchengladbach-Eintracht-Frankfurt-September-27-2025-Bundesliga
+2025-10-05,Matchweek 6,Sun,Away,D,0,0,Freiburg,0,12,1,8.3,0.0,0.0,18.5,1,0,0,0.7,0.7,0.06,-0.7,-0.7,19:30:00,/en/matches/bacd63d5/Monchengladbach-Freiburg-October-5-2025-Bundesliga
+2025-10-17,Matchweek 7,Fri,Home,W,3,1,Union Berlin,3,16,5,31.3,0.19,0.6,15.9,0,0,0,1.2,1.2,0.08,1.8,1.8,20:30:00,/en/matches/ff4f138c/Union-Berlin-Monchengladbach-October-17-2025-Bundesliga
+2025-10-25,Matchweek 8,Sat,Away,W,3,0,Bayern Munich,3,27,10,37.0,0.11,0.3,18.6,0,0,0,4.0,4.0,0.15,-1.0,-1.0,15:45:00,/en/matches/bcdd851c/Monchengladbach-Bayern-Munich-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Away,L,1,3,Karlsruher,1,12,5,41.7,0.08,0.2,,,0,0,,,,,,20:45:00,/en/matches/26fa305d/Monchengladbach-Karlsruher-October-28-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Home,L,0,4,St. Pauli,0,16,4,25.0,0.0,0.0,20.3,0,0,0,0.9,0.9,0.05,-0.9,-0.9,15:30:00,/en/matches/582bbd5d/St-Pauli-Monchengladbach-November-1-2025-Bundesliga
+2025-11-08,Matchweek 10,Sat,Away,L,1,3,Köln,1,18,4,22.2,0.0,0.0,16.1,0,1,1,2.2,1.4,0.08,-1.2,-1.4,18:30:00,/en/matches/546be97e/Monchengladbach-Koln-November-8-2025-Bundesliga
+2025-08-16,Round of 64,Sat,Home,L,1,2,FK Pirmasens,1,16,5,31.3,0.06,0.2,,,0,0,,,,,,13:00:00,/en/matches/420e33d3/FK-Pirmasens-Hamburger-SV-August-16-2025-DFB-Pokal
+2025-08-24,Matchweek 1,Sun,Home,D,0,0,Gladbach,0,17,4,23.5,0.0,0.0,17.6,0,0,0,1.1,1.1,0.06,-1.1,-1.1,17:30:00,/en/matches/fd0e77f1/Monchengladbach-Hamburger-SV-August-24-2025-Bundesliga
+2025-08-29,Matchweek 2,Fri,Away,W,2,0,St. Pauli,2,17,6,35.3,0.12,0.33,18.8,0,0,0,1.4,1.4,0.08,0.6,0.6,20:30:00,/en/matches/c2913887/Hamburger-SV-St-Pauli-August-29-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Home,W,5,0,Bayern Munich,5,21,11,52.4,0.19,0.36,19.5,2,1,1,2.4,1.7,0.08,2.6,2.3,18:30:00,/en/matches/91e6a499/Bayern-Munich-Hamburger-SV-September-13-2025-Bundesliga
+2025-09-20,Matchweek 4,Sat,Away,L,1,2,Heidenheim,1,20,7,35.0,0.05,0.14,15.3,0,0,0,2.9,2.9,0.15,-1.9,-1.9,15:30:00,/en/matches/bca86606/Hamburger-SV-Heidenheim-September-20-2025-Bundesliga
+2025-09-28,Matchweek 5,Sun,Home,D,0,0,Union Berlin,0,10,1,10.0,0.0,0.0,16.7,0,0,1,1.4,0.6,0.06,-1.4,-0.6,19:30:00,/en/matches/1c8580bc/Union-Berlin-Hamburger-SV-September-28-2025-Bundesliga
+2025-10-05,Matchweek 6,Sun,Away,L,0,4,Mainz 05,0,11,4,36.4,0.0,0.0,15.9,1,0,0,0.7,0.7,0.06,-0.7,-0.7,17:30:00,/en/matches/5fa2c71d/Hamburger-SV-Mainz-05-October-5-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Home,W,2,1,RB Leipzig,2,10,4,40.0,0.2,0.5,18.0,1,0,0,1.2,1.2,0.12,0.8,0.8,15:30:00,/en/matches/98feecfc/RB-Leipzig-Hamburger-SV-October-18-2025-Bundesliga
+2025-10-25,Matchweek 8,Sat,Away,W,1,0,Wolfsburg,1,6,2,33.3,0.17,0.5,27.0,0,0,0,0.4,0.4,0.06,0.6,0.6,15:30:00,/en/matches/e3020e39/Hamburger-SV-Wolfsburg-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Home,L,0,1,Heidenheim,0,6,1,16.7,0.0,0.0,,,0,0,,,,,,18:30:00,/en/matches/96febdce/Heidenheim-Hamburger-SV-October-28-2025-DFB-Pokal
+2025-11-02,Matchweek 9,Sun,Home,W,4,1,Köln,4,23,9,39.1,0.17,0.44,17.8,3,0,0,3.6,3.6,0.17,0.4,0.4,15:30:00,/en/matches/5b856721/Koln-Hamburger-SV-November-2-2025-Bundesliga
+2025-11-08,Matchweek 10,Sat,Away,D,1,1,Dortmund,1,17,1,5.9,0.06,1.0,20.2,1,0,0,1.0,1.0,0.06,0.0,0.0,15:30:00,/en/matches/52d75dc1/Hamburger-SV-Dortmund-November-8-2025-Bundesliga
+2025-08-16,Round of 64,Sat,Home,L,0,5,Bahlinger SC,0,9,2,22.2,0.0,0.0,,,0,1,,,,,,15:30:00,/en/matches/fdcb2b68/Bahlinger-SC-Heidenheim-August-16-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Away,W,3,1,Wolfsburg,3,14,4,28.6,0.14,0.5,21.4,1,1,1,2.4,1.6,0.12,0.6,0.4,15:30:00,/en/matches/6e029e9d/Heidenheim-Wolfsburg-August-23-2025-Bundesliga
+2025-08-30,Matchweek 2,Sat,Home,W,2,0,RB Leipzig,2,19,5,26.3,0.11,0.4,14.0,1,0,0,2.2,2.2,0.12,-0.2,-0.2,15:30:00,/en/matches/81523ca0/RB-Leipzig-Heidenheim-August-30-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Away,W,2,0,Dortmund,2,17,8,47.1,0.12,0.25,12.9,0,0,0,2.7,2.7,0.16,-0.7,-0.7,15:30:00,/en/matches/906ce9a1/Heidenheim-Dortmund-September-13-2025-Bundesliga
+2025-09-20,Matchweek 4,Sat,Home,W,2,1,Hamburger SV,2,22,9,40.9,0.09,0.22,16.9,1,0,0,2.1,2.1,0.11,-0.1,-0.1,15:30:00,/en/matches/bca86606/Hamburger-SV-Heidenheim-September-20-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Away,L,1,2,Augsburg,1,8,2,25.0,0.13,0.5,16.2,0,0,0,0.8,0.8,0.1,0.2,0.2,15:30:00,/en/matches/d445268d/Heidenheim-Augsburg-September-27-2025-Bundesliga
+2025-10-05,Matchweek 6,Sun,Home,W,1,0,Stuttgart,1,18,6,33.3,0.06,0.17,22.8,0,0,0,1.0,1.0,0.05,0.0,0.0,15:30:00,/en/matches/a0f25ade/Stuttgart-Heidenheim-October-5-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Away,D,2,2,Werder Bremen,2,11,4,36.4,0.18,0.5,14.0,0,0,0,1.4,1.4,0.13,0.6,0.6,15:30:00,/en/matches/cbbd67c2/Heidenheim-Werder-Bremen-October-18-2025-Bundesliga
+2025-10-25,Matchweek 8,Sat,Home,W,3,1,Hoffenheim,3,14,7,50.0,0.21,0.43,13.4,1,0,0,2.3,2.3,0.17,0.7,0.7,15:30:00,/en/matches/482ddc24/Hoffenheim-Heidenheim-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Away,W,1,0,Hamburger SV,1,17,7,41.2,0.0,0.0,,,1,1,,,,,,18:30:00,/en/matches/96febdce/Heidenheim-Hamburger-SV-October-28-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Away,D,1,1,Eint Frankfurt,1,16,3,18.8,0.06,0.33,17.5,0,0,0,1.0,1.0,0.06,0.0,0.0,15:30:00,/en/matches/334ac0b2/Heidenheim-Eintracht-Frankfurt-November-1-2025-Bundesliga
+2025-11-08,Matchweek 10,Sat,Home,W,6,0,Leverkusen,6,25,10,40.0,0.24,0.6,17.4,1,0,0,3.3,3.3,0.13,2.7,2.7,15:30:00,/en/matches/8e4a9eea/Bayer-Leverkusen-Heidenheim-November-8-2025-Bundesliga
+2025-08-16,Round of 64,Sat,Home,L,0,4,Hansa Rostock,0,10,5,50.0,0.0,0.0,,,0,0,,,,,,15:30:00,/en/matches/5ab15f32/Hansa-Rostock-Hoffenheim-August-16-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Home,L,1,2,Leverkusen,1,7,2,28.6,0.14,0.5,19.0,1,0,0,0.7,0.7,0.1,0.3,0.3,15:30:00,/en/matches/78cc44a5/Bayer-Leverkusen-Hoffenheim-August-23-2025-Bundesliga
+2025-08-30,Matchweek 2,Sat,Away,W,3,1,Eint Frankfurt,3,9,6,66.7,0.33,0.5,17.3,0,0,0,1.6,1.6,0.17,1.4,1.4,15:30:00,/en/matches/3dd41a40/Hoffenheim-Eintracht-Frankfurt-August-30-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Home,L,2,4,Union Berlin,2,20,6,30.0,0.1,0.33,13.1,0,0,0,2.6,2.6,0.15,-0.6,-0.6,15:30:00,/en/matches/09242157/Union-Berlin-Hoffenheim-September-13-2025-Bundesliga
+2025-09-20,Matchweek 4,Sat,Away,W,4,1,Bayern Munich,4,16,8,50.0,0.13,0.25,20.4,1,2,2,3.0,1.4,0.09,1.0,0.6,15:30:00,/en/matches/f7a59cca/Hoffenheim-Bayern-Munich-September-20-2025-Bundesliga
+2025-09-28,Matchweek 5,Sun,Home,D,1,1,Freiburg,1,6,1,16.7,0.17,1.0,9.4,0,0,0,1.2,1.2,0.23,-0.2,-0.2,15:30:00,/en/matches/a20222e0/Freiburg-Hoffenheim-September-28-2025-Bundesliga
+2025-10-03,Matchweek 6,Fri,Away,W,1,0,Köln,1,10,4,40.0,0.1,0.25,16.6,1,0,0,1.2,1.2,0.12,-0.2,-0.2,20:30:00,/en/matches/a3d6d7e4/Hoffenheim-Koln-October-3-2025-Bundesliga
+2025-10-19,Matchweek 7,Sun,Home,L,0,3,St. Pauli,0,10,2,20.0,0.0,0.0,23.4,0,0,0,0.9,0.9,0.11,-0.9,-0.9,17:30:00,/en/matches/b4f6e363/St-Pauli-Hoffenheim-October-19-2025-Bundesliga
+2025-10-25,Matchweek 8,Sat,Away,L,1,3,Heidenheim,1,12,3,25.0,0.08,0.33,15.9,0,0,0,1.2,1.2,0.1,-0.2,-0.2,15:30:00,/en/matches/482ddc24/Hoffenheim-Heidenheim-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Home,D,2 (8),2 (7),St. Pauli,2,19,5,26.3,0.11,0.4,,,0,0,,,,,,20:45:00,/en/matches/33e00a64/St-Pauli-Hoffenheim-October-28-2025-DFB-Pokal
+2025-11-02,Matchweek 9,Sun,Home,L,2,3,Wolfsburg,2,12,6,50.0,0.17,0.33,19.9,1,0,0,1.5,1.5,0.13,0.5,0.5,17:30:00,/en/matches/69d3f972/Wolfsburg-Hoffenheim-November-2-2025-Bundesliga
+2025-11-08,Matchweek 10,Sat,Away,L,1,3,RB Leipzig,1,17,5,29.4,0.06,0.2,16.9,0,0,0,1.7,1.7,0.1,-0.7,-0.7,15:30:00,/en/matches/f05fd061/Hoffenheim-RB-Leipzig-November-8-2025-Bundesliga
+2025-08-17,Round of 64,Sun,Home,L,1,2,Jahn R'burg,1,7,2,28.6,0.14,0.5,,,0,0,,,,,,15:30:00,/en/matches/961fc32b/Jahn-Regensburg-Koln-August-17-2025-DFB-Pokal
+2025-08-24,Matchweek 1,Sun,Home,L,0,1,Mainz 05,0,19,2,10.5,0.0,0.0,16.2,0,0,0,1.4,1.4,0.08,-1.4,-1.4,15:30:00,/en/matches/1118532c/Mainz-05-Koln-August-24-2025-Bundesliga
+2025-08-31,Matchweek 2,Sun,Away,L,1,4,Freiburg,1,12,2,16.7,0.08,0.5,15.2,0,0,0,0.9,0.9,0.08,0.1,0.1,19:30:00,/en/matches/4291408f/Koln-Freiburg-August-31-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Home,D,3,3,Wolfsburg,3,14,6,42.9,0.21,0.5,15.1,1,0,0,1.5,1.5,0.11,1.5,1.5,15:30:00,/en/matches/a7819671/Wolfsburg-Koln-September-13-2025-Bundesliga
+2025-09-20,Matchweek 4,Sat,Home,W,3,1,RB Leipzig,3,18,8,44.4,0.17,0.38,13.2,1,0,0,3.3,3.3,0.21,-0.3,-0.3,18:30:00,/en/matches/41b85666/RB-Leipzig-Koln-September-20-2025-Bundesliga
+2025-09-28,Matchweek 5,Sun,Away,W,2,1,Stuttgart,2,14,4,28.6,0.07,0.25,17.5,0,1,1,1.8,1.1,0.08,0.2,-0.1,17:30:00,/en/matches/00e4ff0d/Koln-Stuttgart-September-28-2025-Bundesliga
+2025-10-03,Matchweek 6,Fri,Home,L,0,1,Hoffenheim,0,15,4,26.7,0.0,0.0,16.4,0,0,0,1.1,1.1,0.07,-1.1,-1.1,20:30:00,/en/matches/a3d6d7e4/Hoffenheim-Koln-October-3-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Away,D,1,1,Augsburg,1,9,3,33.3,0.0,0.0,25.8,1,1,1,1.1,0.3,0.04,-0.1,-0.3,15:30:00,/en/matches/cc14e577/Koln-Augsburg-October-18-2025-Bundesliga
+2025-10-25,Matchweek 8,Sat,Home,W,1,0,Dortmund,1,27,9,33.3,0.04,0.11,17.2,0,0,0,1.9,1.9,0.07,-0.9,-0.9,18:30:00,/en/matches/eeacfafc/Dortmund-Koln-October-25-2025-Bundesliga
+2025-10-29,Round of 32,Wed,Away,W,4,1,Bayern Munich,4,16,9,56.3,0.25,0.44,,,0,0,,,,,,20:45:00,/en/matches/0a07720e/Koln-Bayern-Munich-October-29-2025-DFB-Pokal
+2025-11-02,Matchweek 9,Sun,Away,L,1,4,Hamburger SV,1,11,5,45.5,0.09,0.2,14.3,0,0,0,1.1,1.1,0.1,-0.1,-0.1,15:30:00,/en/matches/5b856721/Koln-Hamburger-SV-November-2-2025-Bundesliga
+2025-11-08,Matchweek 10,Sat,Home,W,3,1,Gladbach,3,7,2,28.6,0.29,1.0,17.2,0,1,2,2.8,1.2,0.17,0.2,0.8,18:30:00,/en/matches/546be97e/Monchengladbach-Koln-November-8-2025-Bundesliga
+2025-08-15,Round of 64,Fri,Home,L,0,4,Großaspach,0,12,5,41.7,0.0,0.0,,,0,0,,,,,,18:00:00,/en/matches/c6b3449c/Sonnenhof-Grossaspach-Bayer-Leverkusen-August-15-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Away,W,2,1,Hoffenheim,2,10,5,50.0,0.2,0.4,18.9,0,0,0,0.4,0.4,0.04,1.6,1.6,15:30:00,/en/matches/78cc44a5/Bayer-Leverkusen-Hoffenheim-August-23-2025-Bundesliga
+2025-08-30,Matchweek 2,Sat,Home,D,3,3,Werder Bremen,3,11,4,36.4,0.18,0.5,19.2,0,1,1,2.6,1.8,0.17,0.4,0.2,15:30:00,/en/matches/8d20b088/Werder-Bremen-Bayer-Leverkusen-August-30-2025-Bundesliga
+2025-09-12,Matchweek 3,Fri,Away,L,1,3,Eint Frankfurt,1,13,2,15.4,0.08,0.5,19.5,0,0,0,0.8,0.8,0.06,0.2,0.2,20:30:00,/en/matches/09882b39/Bayer-Leverkusen-Eintracht-Frankfurt-September-12-2025-Bundesliga
+2025-09-18,League phase,Thu,Home,D,2,2,FC Copenhagen,2,12,7,58.3,0.17,0.29,19.2,1,0,0,1.9,1.9,0.16,0.1,0.1,18:45:00,/en/matches/04664542/FC-Copenhagen-Bayer-Leverkusen-September-18-2025-Champions-League
+2025-09-21,Matchweek 4,Sun,Away,D,1,1,Gladbach,1,13,7,53.8,0.08,0.14,19.0,0,0,0,0.8,0.8,0.06,0.2,0.2,17:30:00,/en/matches/9d5112e8/Bayer-Leverkusen-Monchengladbach-September-21-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Home,L,1,2,St. Pauli,1,13,5,38.5,0.08,0.2,18.1,1,0,0,0.8,0.8,0.06,0.2,0.2,15:30:00,/en/matches/a35c04e4/St-Pauli-Bayer-Leverkusen-September-27-2025-Bundesliga
+2025-10-01,League phase,Wed,Away,D,1,1,PSV Eindhoven,1,6,1,16.7,0.17,1.0,17.0,0,0,0,0.5,0.5,0.08,0.5,0.5,21:00:00,/en/matches/adec29e6/Bayer-Leverkusen-PSV-Eindhoven-October-1-2025-Champions-League
+2025-10-04,Matchweek 6,Sat,Away,L,0,2,Union Berlin,0,10,3,30.0,0.0,0.0,16.5,0,0,0,0.9,0.9,0.09,-0.9,-0.9,15:30:00,/en/matches/a88c0cfc/Bayer-Leverkusen-Union-Berlin-October-4-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Home,L,3,4,Mainz 05,3,11,3,27.3,0.18,0.67,20.2,2,1,1,1.6,0.9,0.08,1.4,1.1,15:30:00,/en/matches/cbacd84f/Mainz-05-Bayer-Leverkusen-October-18-2025-Bundesliga
+2025-10-21,League phase,Tue,Away,W,7,2,Paris S-G,7,24,8,33.3,0.29,0.88,18.8,0,0,0,2.8,2.8,0.12,4.2,4.2,21:00:00,/en/matches/b3c2cd75/Bayer-Leverkusen-Paris-Saint-Germain-October-21-2025-Champions-League
+2025-10-26,Matchweek 8,Sun,Away,L,0,2,Freiburg,0,10,3,30.0,0.0,0.0,21.9,2,0,0,0.6,0.6,0.06,-0.6,-0.6,15:30:00,/en/matches/f42e0743/Bayer-Leverkusen-Freiburg-October-26-2025-Bundesliga
+2025-10-29,Round of 32,Wed,Home,L,2,4,Paderborn 07,2,18,4,22.2,0.11,0.5,,,0,0,,,,,,18:00:00,/en/matches/db8315b6/Paderborn-07-Bayer-Leverkusen-October-29-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Home,W,3,0,Bayern Munich,2,18,4,22.2,0.11,0.5,17.5,0,0,0,2.3,2.3,0.13,-0.3,-0.3,18:30:00,/en/matches/23eeabbb/Bayern-Munich-Bayer-Leverkusen-November-1-2025-Bundesliga
+2025-11-05,League phase,Wed,Home,L,0,1,Benfica,0,21,5,23.8,0.0,0.0,18.1,0,0,0,1.6,1.6,0.08,-1.6,-1.6,20:00:00,/en/matches/9de891f0/Benfica-Bayer-Leverkusen-November-5-2025-Champions-League
+2025-11-08,Matchweek 10,Sat,Away,L,0,6,Heidenheim,0,1,0,0.0,0.0,,17.2,0,0,0,0.1,0.1,0.15,-0.1,-0.1,15:30:00,/en/matches/8e4a9eea/Bayer-Leverkusen-Heidenheim-November-8-2025-Bundesliga
+2025-08-18,Round of 64,Mon,Home,L,0,1,Dresden,0,16,7,43.8,0.0,0.0,,,0,1,,,,,,18:00:00,/en/matches/3dd3e917/Dresden-Mainz-05-August-18-2025-DFB-Pokal
+2025-08-21,Play-off round,Thu,Home,W,2,1,Rosenborg,2,,,,,,,,1,1,,,,,,18:00:00,/en/matches/65e0f938/Rosenborg-Mainz-05-August-21-2025-Conference-League
+2025-08-24,Matchweek 1,Sun,Away,W,1,0,Köln,1,12,2,16.7,0.08,0.5,17.2,1,0,0,1.4,1.4,0.11,-0.4,-0.4,15:30:00,/en/matches/1118532c/Mainz-05-Koln-August-24-2025-Bundesliga
+2025-08-28,Play-off round,Thu,Away,L,1,4,Rosenborg,1,,,,,,,,0,0,,,,,,21:00:00,/en/matches/bf81d33a/Mainz-05-Rosenborg-August-28-2025-Conference-League
+2025-08-31,Matchweek 2,Sun,Home,D,1,1,Wolfsburg,1,11,3,27.3,0.09,0.33,18.3,0,0,0,0.6,0.6,0.06,0.4,0.4,15:30:00,/en/matches/e8d01789/Wolfsburg-Mainz-05-August-31-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Away,W,1,0,RB Leipzig,1,19,3,15.8,0.05,0.33,19.5,2,0,0,1.8,1.8,0.09,-0.8,-0.8,15:30:00,/en/matches/f99e3c2d/Mainz-05-RB-Leipzig-September-13-2025-Bundesliga
+2025-09-20,Matchweek 4,Sat,Home,L,1,4,Augsburg,1,18,5,27.8,0.06,0.2,18.2,1,0,0,1.1,1.1,0.06,-0.1,-0.1,15:30:00,/en/matches/a959bbb1/Augsburg-Mainz-05-September-20-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Away,W,2,0,Dortmund,2,10,4,40.0,0.2,0.5,16.2,1,0,0,1.4,1.4,0.14,0.6,0.6,15:30:00,/en/matches/92fc78f1/Mainz-05-Dortmund-September-27-2025-Bundesliga
+2025-10-02,League phase,Thu,Home,L,0,1,AC Omonia,0,8,3,37.5,0.0,0.0,16.9,0,0,0,0.4,0.4,0.04,-0.4,-0.4,19:45:00,/en/matches/ad964da0/AC-Omonia-Mainz-05-October-2-2025-Conference-League
+2025-10-05,Matchweek 6,Sun,Home,W,4,0,Hamburger SV,4,15,9,60.0,0.27,0.44,17.3,0,0,0,1.9,1.9,0.13,2.1,2.1,17:30:00,/en/matches/5fa2c71d/Hamburger-SV-Mainz-05-October-5-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Away,W,4,3,Leverkusen,4,19,6,31.6,0.16,0.5,16.6,1,1,1,3.4,2.6,0.14,0.6,0.4,15:30:00,/en/matches/cbacd84f/Mainz-05-Bayer-Leverkusen-October-18-2025-Bundesliga
+2025-10-23,League phase,Thu,Away,L,0,1,Zrinjski Mostar,0,2,0,0.0,0.0,,15.4,0,0,0,0.1,0.1,0.03,-0.1,-0.1,21:00:00,/en/matches/a7e6ac96/Mainz-05-Zrinjski-Mostar-October-23-2025-Conference-League
+2025-10-26,Matchweek 8,Sun,Home,W,2,1,Stuttgart,2,19,8,42.1,0.11,0.25,17.8,0,0,0,1.9,1.9,0.1,0.1,0.1,17:30:00,/en/matches/b3cf49e5/Stuttgart-Mainz-05-October-26-2025-Bundesliga
+2025-10-29,Round of 32,Wed,Away,W,2,0,Stuttgart,2,17,6,35.3,0.12,0.33,,,0,0,,,,,,18:00:00,/en/matches/6c1d1dec/Mainz-05-Stuttgart-October-29-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Away,D,1,1,Werder Bremen,1,5,3,60.0,0.2,0.33,14.0,0,0,0,1.0,1.0,0.21,0.0,0.0,15:30:00,/en/matches/af4d208e/Mainz-05-Werder-Bremen-November-1-2025-Bundesliga
+2025-11-06,League phase,Thu,Away,L,1,2,Fiorentina,1,12,4,33.3,0.08,0.25,11.0,0,0,0,1.7,1.7,0.15,-0.7,-0.7,18:45:00,/en/matches/d16d8336/Mainz-05-Fiorentina-November-6-2025-Conference-League
+2025-11-09,Matchweek 10,Sun,Home,W,1,0,Eint Frankfurt,1,14,4,28.6,0.07,0.25,17.3,1,0,0,1.2,1.2,0.09,-0.2,-0.2,19:30:00,/en/matches/934c7914/Eintracht-Frankfurt-Mainz-05-November-9-2025-Bundesliga
+2025-08-16,Round of 64,Sat,Home,L,2,4,Sandhausen,2,6,2,33.3,0.33,1.0,,,0,0,,,,,,15:30:00,/en/matches/0ccbee97/Sandhausen-RB-Leipzig-August-16-2025-DFB-Pokal
+2025-08-22,Matchweek 1,Fri,Home,W,6,0,Bayern Munich,6,19,9,47.4,0.32,0.67,16.9,1,0,0,1.7,1.7,0.09,4.3,4.3,20:30:00,/en/matches/8eb0f477/Bayern-Munich-RB-Leipzig-August-22-2025-Bundesliga
+2025-08-30,Matchweek 2,Sat,Away,L,0,2,Heidenheim,0,5,3,60.0,0.0,0.0,11.2,0,0,0,0.9,0.9,0.2,-0.9,-0.9,15:30:00,/en/matches/81523ca0/RB-Leipzig-Heidenheim-August-30-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Home,L,0,1,Mainz 05,0,13,2,15.4,0.0,0.0,16.0,0,0,0,1.1,1.1,0.08,-1.1,-1.1,15:30:00,/en/matches/f99e3c2d/Mainz-05-RB-Leipzig-September-13-2025-Bundesliga
+2025-09-20,Matchweek 4,Sat,Away,L,1,3,Köln,1,13,1,7.7,0.08,1.0,17.5,0,0,0,1.7,1.7,0.13,-0.7,-0.7,18:30:00,/en/matches/41b85666/RB-Leipzig-Koln-September-20-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Home,L,0,1,Wolfsburg,0,22,4,18.2,0.0,0.0,14.0,0,0,0,3.0,3.0,0.14,-3.0,-3.0,15:30:00,/en/matches/914fabb2/Wolfsburg-RB-Leipzig-September-27-2025-Bundesliga
+2025-10-04,Matchweek 6,Sat,Home,D,1,1,Dortmund,1,15,3,20.0,0.07,0.33,20.5,0,0,0,0.9,0.9,0.06,0.1,0.1,15:30:00,/en/matches/76f8a93f/Dortmund-RB-Leipzig-October-4-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Away,L,1,2,Hamburger SV,1,15,3,20.0,0.07,0.33,15.3,1,0,0,1.5,1.5,0.1,-0.5,-0.5,15:30:00,/en/matches/98feecfc/RB-Leipzig-Hamburger-SV-October-18-2025-Bundesliga
+2025-10-25,Matchweek 8,Sat,Home,L,0,6,Augsburg,0,15,2,13.3,0.0,0.0,22.8,1,0,0,0.8,0.8,0.05,-0.8,-0.8,15:30:00,/en/matches/4ce34326/Augsburg-RB-Leipzig-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Home,L,1,4,Energie Cottbus,1,16,8,50.0,0.06,0.13,,,0,0,,,,,,20:45:00,/en/matches/3b3cfab9/Energie-Cottbus-RB-Leipzig-October-28-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Away,L,1,3,Stuttgart,1,14,4,28.6,0.07,0.25,21.5,0,0,0,1.3,1.3,0.09,-0.3,-0.3,15:30:00,/en/matches/86253a51/RB-Leipzig-Stuttgart-November-1-2025-Bundesliga
+2025-11-08,Matchweek 10,Sat,Home,W,3,1,Hoffenheim,3,12,4,33.3,0.25,0.75,16.3,1,0,0,1.7,1.7,0.15,1.3,1.3,15:30:00,/en/matches/f05fd061/Hoffenheim-RB-Leipzig-November-8-2025-Bundesliga
+2025-08-16,Round of 64,Sat,Home,D,0 (2),0 (3),Eintracht Norderstedt,0,9,3,33.3,0.0,0.0,,,0,0,,,,,,15:30:00,/en/matches/011de59e/Eintracht-Norderstedt-St-Pauli-August-16-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Away,D,3,3,Dortmund,3,7,6,85.7,0.43,0.5,14.8,0,0,1,1.6,0.8,0.11,1.4,2.2,18:30:00,/en/matches/243e124a/St-Pauli-Dortmund-August-23-2025-Bundesliga
+2025-08-29,Matchweek 2,Fri,Home,L,0,2,Hamburger SV,0,5,2,40.0,0.0,0.0,21.4,2,0,0,0.4,0.4,0.07,-0.4,-0.4,20:30:00,/en/matches/c2913887/Hamburger-SV-St-Pauli-August-29-2025-Bundesliga
+2025-09-14,Matchweek 3,Sun,Away,L,1,2,Augsburg,1,10,5,50.0,0.1,0.2,18.4,0,0,0,0.8,0.8,0.08,0.2,0.2,15:30:00,/en/matches/940c2e4e/St-Pauli-Augsburg-September-14-2025-Bundesliga
+2025-09-19,Matchweek 4,Fri,Home,W,2,0,Stuttgart,2,16,7,43.8,0.13,0.29,19.7,0,0,1,2.1,1.3,0.08,-0.1,0.7,20:30:00,/en/matches/44d66179/Stuttgart-St-Pauli-September-19-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Away,W,2,1,Leverkusen,2,5,4,80.0,0.4,0.5,14.4,0,0,0,0.9,0.9,0.18,1.1,1.1,15:30:00,/en/matches/a35c04e4/St-Pauli-Bayer-Leverkusen-September-27-2025-Bundesliga
+2025-10-04,Matchweek 6,Sat,Home,W,1,0,Werder Bremen,1,15,5,33.3,0.07,0.2,17.9,1,0,0,1.8,1.8,0.12,-0.8,-0.8,15:30:00,/en/matches/86cee779/Werder-Bremen-St-Pauli-October-4-2025-Bundesliga
+2025-10-19,Matchweek 7,Sun,Away,W,3,0,Hoffenheim,3,14,5,35.7,0.21,0.6,16.4,0,0,0,2.3,2.3,0.17,0.7,0.7,17:30:00,/en/matches/b4f6e363/St-Pauli-Hoffenheim-October-19-2025-Bundesliga
+2025-10-25,Matchweek 8,Sat,Home,W,2,0,Eint Frankfurt,2,10,6,60.0,0.2,0.33,14.9,0,0,0,2.2,2.2,0.23,-0.2,-0.2,15:30:00,/en/matches/0c04c6a6/Eintracht-Frankfurt-St-Pauli-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Away,D,2 (7),2 (8),Hoffenheim,2,8,4,50.0,0.13,0.25,,,1,1,,,,,,20:45:00,/en/matches/33e00a64/St-Pauli-Hoffenheim-October-28-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Away,W,4,0,Gladbach,4,15,11,73.3,0.27,0.36,16.1,0,0,0,2.4,2.4,0.16,1.6,1.6,15:30:00,/en/matches/582bbd5d/St-Pauli-Monchengladbach-November-1-2025-Bundesliga
+2025-11-09,Matchweek 10,Sun,Home,W,2,1,Freiburg,2,8,4,50.0,0.25,0.5,14.6,0,0,0,1.0,1.0,0.13,1.0,1.0,15:30:00,/en/matches/9b9ef973/Freiburg-St-Pauli-November-9-2025-Bundesliga
+2025-08-16,Franz Beckenbauer Supercup,Sat,Away,W,2,1,Bayern Munich,2,17,3,17.6,0.12,0.67,,,0,0,,,,,,20:30:00,/en/matches/d6d2f0d1/Stuttgart-Bayern-Munich-August-16-2025-Franz-Beckenbauer-Supercup
+2025-08-23,Matchweek 1,Sat,Home,W,2,1,Union Berlin,2,8,2,25.0,0.25,1.0,17.6,0,0,0,0.3,0.3,0.04,1.7,1.7,15:30:00,/en/matches/b7adc246/Union-Berlin-Stuttgart-August-23-2025-Bundesliga
+2025-08-26,Round of 64,Tue,Home,D,4 (7),4 (8),BTSV,4,24,7,29.2,0.17,0.57,,,0,0,,,,,,20:45:00,/en/matches/01590141/Eintracht-Braunschweig-Stuttgart-August-26-2025-DFB-Pokal
+2025-08-30,Matchweek 2,Sat,Away,L,0,1,Gladbach,0,15,6,40.0,0.0,0.0,11.7,0,0,0,1.8,1.8,0.12,-1.8,-1.8,15:30:00,/en/matches/cc790c96/Stuttgart-Monchengladbach-August-30-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Home,W,3,1,Freiburg,3,13,5,38.5,0.15,0.4,18.4,1,1,1,1.5,0.8,0.06,1.5,1.2,15:30:00,/en/matches/47deb66f/Freiburg-Stuttgart-September-13-2025-Bundesliga
+2025-09-19,Matchweek 4,Fri,Away,L,0,2,St. Pauli,0,9,2,22.2,0.0,0.0,15.9,0,0,0,0.9,0.9,0.11,-0.9,-0.9,20:30:00,/en/matches/44d66179/Stuttgart-St-Pauli-September-19-2025-Bundesliga
+2025-09-25,League phase,Thu,Away,L,1,2,Celta Vigo,1,8,1,12.5,0.13,1.0,20.2,0,0,0,0.5,0.5,0.06,0.5,0.5,21:00:00,/en/matches/1484bea8/Stuttgart-Celta-Vigo-September-25-2025-Europa-League
+2025-09-28,Matchweek 5,Sun,Home,L,1,2,Köln,1,15,5,33.3,0.07,0.2,17.4,0,0,0,1.1,1.1,0.07,-0.1,-0.1,17:30:00,/en/matches/00e4ff0d/Koln-Stuttgart-September-28-2025-Bundesliga
+2025-10-02,League phase,Thu,Home,W,2,0,Basel,2,12,4,33.3,0.17,0.5,18.0,0,0,0,1.4,1.4,0.12,0.6,0.6,21:00:00,/en/matches/507be3ab/Basel-Stuttgart-October-2-2025-Europa-League
+2025-10-05,Matchweek 6,Sun,Away,L,0,1,Heidenheim,0,5,1,20.0,0.0,0.0,17.6,0,0,0,0.6,0.6,0.11,-0.6,-0.6,15:30:00,/en/matches/a0f25ade/Stuttgart-Heidenheim-October-5-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Home,L,0,3,Wolfsburg,0,11,3,27.3,0.0,0.0,17.7,1,0,0,0.5,0.5,0.04,-0.5,-0.5,15:30:00,/en/matches/b835211e/Wolfsburg-Stuttgart-October-18-2025-Bundesliga
+2025-10-23,League phase,Thu,Home,W,1,0,Fenerbahçe,1,18,6,33.3,0.0,0.0,19.1,0,1,1,1.8,1.0,0.06,-0.8,-1.0,19:45:00,/en/matches/21cb2344/Fenerbahce-Stuttgart-October-23-2025-Europa-League
+2025-10-26,Matchweek 8,Sun,Away,L,1,2,Mainz 05,1,12,1,8.3,0.0,0.0,15.3,0,1,1,1.4,0.6,0.05,-0.4,-0.6,17:30:00,/en/matches/b3cf49e5/Stuttgart-Mainz-05-October-26-2025-Bundesliga
+2025-10-29,Round of 32,Wed,Home,L,0,2,Mainz 05,0,10,2,20.0,0.0,0.0,,,0,0,,,,,,18:00:00,/en/matches/6c1d1dec/Mainz-05-Stuttgart-October-29-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Home,W,3,1,RB Leipzig,2,16,9,56.3,0.13,0.22,14.3,0,0,0,2.1,2.1,0.13,-0.1,-0.1,15:30:00,/en/matches/86253a51/RB-Leipzig-Stuttgart-November-1-2025-Bundesliga
+2025-11-06,League phase,Thu,Away,L,0,2,Feyenoord,0,12,4,33.3,0.0,0.0,20.9,3,0,0,0.9,0.9,0.07,-0.9,-0.9,21:00:00,/en/matches/535d484d/Stuttgart-Feyenoord-November-6-2025-Europa-League
+2025-11-09,Matchweek 10,Sun,Away,L,2,3,Augsburg,2,17,6,35.3,0.12,0.33,17.7,1,0,0,1.9,1.9,0.12,0.1,0.1,17:30:00,/en/matches/1c06d4ba/Stuttgart-Augsburg-November-9-2025-Bundesliga
+2025-08-15,Round of 64,Fri,Home,L,0,5,FC Gütersloh 2000,0,19,5,26.3,0.0,0.0,,,0,0,,,,,,18:00:00,/en/matches/4e61c804/FC-Gutersloh-2000-Union-Berlin-August-15-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Away,L,1,2,Stuttgart,1,21,6,28.6,0.05,0.17,15.7,0,0,0,1.7,1.7,0.08,-0.7,-0.7,15:30:00,/en/matches/b7adc246/Union-Berlin-Stuttgart-August-23-2025-Bundesliga
+2025-08-31,Matchweek 2,Sun,Home,W,3,0,Dortmund,3,11,6,54.5,0.27,0.5,13.3,0,0,0,2.4,2.4,0.23,0.6,0.6,17:30:00,/en/matches/217ef044/Dortmund-Union-Berlin-August-31-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Away,W,4,2,Hoffenheim,4,7,6,85.7,0.29,0.33,15.2,0,2,2,2.8,1.2,0.17,1.2,0.8,15:30:00,/en/matches/09242157/Union-Berlin-Hoffenheim-September-13-2025-Bundesliga
+2025-09-21,Matchweek 4,Sun,Home,L,3,4,Eint Frankfurt,3,18,9,50.0,0.11,0.22,19.4,0,1,1,1.9,1.1,0.06,1.1,0.9,15:30:00,/en/matches/448ea72f/Eintracht-Frankfurt-Union-Berlin-September-21-2025-Bundesliga
+2025-09-28,Matchweek 5,Sun,Away,D,0,0,Hamburger SV,0,16,6,37.5,0.0,0.0,19.0,0,0,0,1.1,1.1,0.07,-1.1,-1.1,19:30:00,/en/matches/1c8580bc/Union-Berlin-Hamburger-SV-September-28-2025-Bundesliga
+2025-10-04,Matchweek 6,Sat,Home,W,2,0,Leverkusen,2,20,3,15.0,0.1,0.67,21.8,1,0,0,2.9,2.9,0.15,-0.9,-0.9,15:30:00,/en/matches/a88c0cfc/Bayer-Leverkusen-Union-Berlin-October-4-2025-Bundesliga
+2025-10-17,Matchweek 7,Fri,Away,L,1,3,Gladbach,1,8,2,25.0,0.13,0.5,22.2,0,0,0,0.7,0.7,0.09,0.3,0.3,20:30:00,/en/matches/ff4f138c/Union-Berlin-Monchengladbach-October-17-2025-Bundesliga
+2025-10-24,Matchweek 8,Fri,Home,W,1,0,Werder Bremen,1,16,3,18.8,0.06,0.33,22.0,2,0,0,1.0,1.0,0.06,0.0,0.0,20:30:00,/en/matches/e69d535e/Werder-Bremen-Union-Berlin-October-24-2025-Bundesliga
+2025-10-29,Round of 32,Wed,Away,L,1,2,Arminia,1,20,7,35.0,0.05,0.14,,,0,0,,,,,,20:45:00,/en/matches/825cf357/Union-Berlin-Arminia-October-29-2025-DFB-Pokal
+2025-11-01,Matchweek 9,Sat,Away,D,0,0,Freiburg,0,13,4,30.8,0.0,0.0,15.1,0,0,0,1.2,1.2,0.09,-1.2,-1.2,15:30:00,/en/matches/c63fd3ef/Union-Berlin-Freiburg-November-1-2025-Bundesliga
+2025-11-08,Matchweek 10,Sat,Away,D,2,2,Bayern Munich,2,12,4,33.3,0.17,0.5,16.6,0,0,0,1.3,1.3,0.11,0.7,0.7,15:30:00,/en/matches/4ceaf237/Union-Berlin-Bayern-Munich-November-8-2025-Bundesliga
+2025-08-15,Round of 64,Fri,Home,W,1,0,Arminia,1,13,4,30.8,0.08,0.25,,,0,0,,,,,,20:45:00,/en/matches/2b804551/Arminia-Werder-Bremen-August-15-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Home,W,4,1,Eint Frankfurt,4,18,5,27.8,0.22,0.8,13.2,1,0,0,2.7,2.7,0.15,1.3,1.3,15:30:00,/en/matches/c5a0f8ab/Eintracht-Frankfurt-Werder-Bremen-August-23-2025-Bundesliga
+2025-08-30,Matchweek 2,Sat,Away,D,3,3,Leverkusen,3,9,3,33.3,0.22,0.67,19.3,1,1,1,2.1,1.3,0.15,0.9,0.7,15:30:00,/en/matches/8d20b088/Werder-Bremen-Bayer-Leverkusen-August-30-2025-Bundesliga
+2025-09-14,Matchweek 3,Sun,Home,L,0,4,Gladbach,0,19,2,10.5,0.0,0.0,18.0,2,0,0,1.5,1.5,0.08,-1.5,-1.5,17:30:00,/en/matches/3b5873a4/Monchengladbach-Werder-Bremen-September-14-2025-Bundesliga
+2025-09-20,Matchweek 4,Sat,Away,W,3,0,Freiburg,2,9,4,44.4,0.11,0.25,23.2,0,1,1,2.4,1.6,0.18,-0.4,-0.6,15:30:00,/en/matches/a7e96019/Werder-Bremen-Freiburg-September-20-2025-Bundesliga
+2025-09-26,Matchweek 5,Fri,Home,W,4,0,Bayern Munich,4,25,11,44.0,0.12,0.27,18.7,0,1,1,3.4,2.6,0.11,0.6,0.4,20:30:00,/en/matches/a50ce74d/Bayern-Munich-Werder-Bremen-September-26-2025-Bundesliga
+2025-10-04,Matchweek 6,Sat,Away,L,0,1,St. Pauli,0,13,3,23.1,0.0,0.0,20.2,1,0,0,0.7,0.7,0.06,-0.7,-0.7,15:30:00,/en/matches/86cee779/Werder-Bremen-St-Pauli-October-4-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Home,D,2,2,Heidenheim,2,31,10,32.3,0.06,0.2,18.7,4,0,0,3.2,3.2,0.11,-1.2,-1.2,15:30:00,/en/matches/cbbd67c2/Heidenheim-Werder-Bremen-October-18-2025-Bundesliga
+2025-10-24,Matchweek 8,Fri,Away,L,0,1,Union Berlin,0,12,2,16.7,0.0,0.0,18.7,0,0,0,0.6,0.6,0.05,-0.6,-0.6,20:30:00,/en/matches/e69d535e/Werder-Bremen-Union-Berlin-October-24-2025-Bundesliga
+2025-11-01,Matchweek 9,Sat,Home,D,1,1,Mainz 05,1,10,4,40.0,0.1,0.25,14.3,0,0,0,1.3,1.3,0.14,-0.3,-0.3,15:30:00,/en/matches/af4d208e/Mainz-05-Werder-Bremen-November-1-2025-Bundesliga
+2025-11-07,Matchweek 10,Fri,Away,L,1,2,Wolfsburg,1,7,4,57.1,0.14,0.25,17.5,0,0,0,0.7,0.7,0.1,0.3,0.3,20:30:00,/en/matches/42691ed8/Werder-Bremen-Wolfsburg-November-7-2025-Bundesliga
+2025-08-16,Round of 64,Sat,Home,L,0,9,SV Hemelingen,0,3,2,66.7,0.0,0.0,,,0,0,,,,,,15:30:00,/en/matches/d45f009f/SV-Hemelingen-Wolfsburg-August-16-2025-DFB-Pokal
+2025-08-23,Matchweek 1,Sat,Home,L,1,3,Heidenheim,1,7,2,28.6,0.14,0.5,20.9,1,0,0,0.7,0.7,0.1,0.3,0.3,15:30:00,/en/matches/6e029e9d/Heidenheim-Wolfsburg-August-23-2025-Bundesliga
+2025-08-31,Matchweek 2,Sun,Away,D,1,1,Mainz 05,1,16,2,12.5,0.0,0.0,15.1,0,1,1,1.9,1.1,0.07,-0.9,-1.1,15:30:00,/en/matches/e8d01789/Wolfsburg-Mainz-05-August-31-2025-Bundesliga
+2025-09-13,Matchweek 3,Sat,Away,D,3,3,Köln,3,14,8,57.1,0.21,0.38,18.3,0,0,0,1.6,1.6,0.12,1.4,1.4,15:30:00,/en/matches/a7819671/Wolfsburg-Koln-September-13-2025-Bundesliga
+2025-09-21,Matchweek 4,Sun,Home,W,1,0,Dortmund,1,12,4,33.3,0.08,0.25,16.5,0,0,0,1.1,1.1,0.09,-0.1,-0.1,19:30:00,/en/matches/d3e98705/Dortmund-Wolfsburg-September-21-2025-Bundesliga
+2025-09-27,Matchweek 5,Sat,Away,W,1,0,RB Leipzig,1,19,6,31.6,0.05,0.17,20.1,1,0,1,2.2,1.4,0.08,-1.2,-0.4,15:30:00,/en/matches/914fabb2/Wolfsburg-RB-Leipzig-September-27-2025-Bundesliga
+2025-10-04,Matchweek 6,Sat,Home,W,3,1,Augsburg,3,10,5,50.0,0.3,0.6,14.1,1,0,0,1.9,1.9,0.19,1.1,1.1,15:30:00,/en/matches/30d2fc3a/Augsburg-Wolfsburg-October-4-2025-Bundesliga
+2025-10-18,Matchweek 7,Sat,Away,W,3,0,Stuttgart,3,15,7,46.7,0.2,0.43,16.2,0,0,0,1.9,1.9,0.13,1.1,1.1,15:30:00,/en/matches/b835211e/Wolfsburg-Stuttgart-October-18-2025-Bundesliga
+2025-10-25,Matchweek 8,Sat,Home,L,0,1,Hamburger SV,0,26,5,19.2,0.0,0.0,15.4,0,0,1,2.8,2.0,0.08,-2.8,-2.0,15:30:00,/en/matches/e3020e39/Hamburger-SV-Wolfsburg-October-25-2025-Bundesliga
+2025-10-28,Round of 32,Tue,Away,W,1,0,Holstein Kiel,1,13,3,23.1,0.0,0.0,,,1,1,,,,,,18:30:00,/en/matches/61245c8c/Wolfsburg-Holstein-Kiel-October-28-2025-DFB-Pokal
+2025-11-02,Matchweek 9,Sun,Away,W,3,2,Hoffenheim,3,10,4,40.0,0.3,0.75,14.4,0,0,0,1.0,1.0,0.1,2.0,2.0,17:30:00,/en/matches/69d3f972/Wolfsburg-Hoffenheim-November-2-2025-Bundesliga
+2025-11-07,Matchweek 10,Fri,Home,W,2,1,Werder Bremen,2,20,7,35.0,0.1,0.29,15.7,0,0,0,1.4,1.4,0.07,0.6,0.6,20:30:00,/en/matches/42691ed8/Werder-Bremen-Wolfsburg-November-7-2025-Bundesliga
